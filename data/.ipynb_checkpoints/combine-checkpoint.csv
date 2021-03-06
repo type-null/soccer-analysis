@@ -1,0 +1,476 @@
+,Player,Club,MINS,POS,player,club,value,age,join_age
+0,Diego Rossi,LAFC,1698,F,D. Rossi,Los Angeles FC,€20.00m,23.0,19.0
+1,Gyasi Zardes,CLB,1717,F,G. Zardes,Columbus Crew SC,€3.50m,29.0,26.0
+2,Raul Ruidiaz,SEA,1427,F,R. Ruidíaz,Seattle Sounders FC,€7.00m,30.0,27.0
+3,Robert Beric,CHI,1931,F,R. Beric,Chicago Fire FC,€3.00m,29.0,28.0
+5,Chris Mueller,ORL,1477,F,C. Mueller,Orlando City SC,€3.00m,24.0,21.0
+7,Alejandro Pozuelo,TOR,2015,M,A. Pozuelo,Toronto FC,€12.00m,29.0,27.0
+8,Kevin Molino,CLB,1264,M,K. Molino,Columbus Crew SC,€2.00m,30.0,30.0
+9,Ayo Akinola,TOR,1063,F,A. Akinola,Toronto FC,€5.00m,21.0,17.0
+10,Diego Valeri,POR,1628,M,D. Váleri,Portland Timbers,€2.00m,34.0,27.0
+12,Romell Quioto,MTL,1483,M,R. Quioto,Club de Foot Montréal,€2.00m,29.0,28.0
+13,Kacper Przybylko,PHI,1974,F,K. Przybylko,Philadelphia Union,€2.00m,27.0,25.0
+15,Jeremy Ebobisse,POR,1062,F,J. Ebobisse,Portland Timbers,€2.80m,24.0,19.0
+16,Sergio Santos,PHI,1218,F,S. Santos,Philadelphia Union,€1.50m,26.0,24.0
+17,Teal Bunbury,NE,1466,F,T. Bunbury,New England Revolution,€1.00m,31.0,23.0
+18,Damir Kreilach,RSL,1770,M,D. Kreilach,Real Salt Lake City,€2.00m,31.0,28.0
+19,Nicolas Lodeiro,SEA,1782,M,N. Lodeiro,Seattle Sounders FC,€5.00m,31.0,27.0
+20,Darwin Quintero,HOU,1689,F,D. Quintero,Houston Dynamo FC,€1.60m,33.0,32.0
+21,Robin Lod,MIN,1585,M,R. Lod,Minnesota United FC,€3.00m,27.0,26.0
+22,Felipe Mora,POR,1204,F,F. Mora,Portland Timbers,€4.00m,27.0,27.0
+23,Jaroslaw Niezgoda,POR,602,F,J. Niezgoda,Portland Timbers,€4.00m,25.0,24.0
+24,Chris Wondolowski,SJ,1275,F,C. Wondolowski,San Jose Earthquakes,€300Th.,38.0,26.0
+25,Franco Jara,DAL,1388,F,F. Jara,FC Dallas,€2.40m,32.0,31.0
+26,Pedro Santos,CLB,1841,M,P. Santos,Columbus Crew SC,€2.00m,32.0,29.0
+27,Alan Pulido,SKC,962,F,A. Pulido,Sporting Kansas City,€9.00m,29.0,28.0
+29,Lucas Zelarayan,CLB,1039,M,L. Zelarayán,Columbus Crew SC,€10.00m,28.0,27.0
+30,Gadi Kinda,SKC,1394,M,G. Kinda,Sporting Kansas City,€4.00m,26.0,26.0
+31,Sebastian Lletget,LA,1692,M,S. Lletget,Los Angeles Galaxy,€2.50m,28.0,22.0
+32,Johnny Russell,SKC,1529,F,J. Russell,Sporting Kansas City,€1.70m,30.0,27.0
+33,Valentin Castellanos,NYC,1341,F,V. Castellanos,New York City FC,€4.00m,22.0,20.0
+34,Adam Buksa,NE,1499,F,A. Buksa,New England Revolution,€4.50m,24.0,23.0
+35,Anthony Fontana,PHI,509,M,A. Fontana,Philadelphia Union,€2.00m,21.0,18.0
+36,Lucas Cavallini,VAN,1457,F,L. Cavallini,Vancouver Whitecaps FC,€4.50m,28.0,27.0
+37,Lewis Morgan,MIA,1952,M,L. Morgan,Inter Miami CF,€3.50m,24.0,23.0
+38,Cole Bassett,COL,982,M,C. Bassett,Colorado Rapids,€5.00m,19.0,17.0
+39,Fredy Montero,SEA,1059,F,F. Montero,Seattle Sounders FC,€800Th.,33.0,33.0
+40,Memo Rodriguez,HOU,1604,M,M. Rodríguez,Houston Dynamo FC,€1.50m,25.0,21.0
+41,Gustavo Bou,NE,1329,F,G. Bou,New England Revolution,€6.00m,31.0,29.0
+42,Benji Michel,ORL,840,F,B. Michel,Orlando City SC,€1.20m,23.0,21.0
+43,Maximiliano Urruti,HOU,895,F,M. Urruti,Houston Dynamo FC,€1.20m,30.0,29.0
+44,Jesus Medina,NYC,1495,M,J. Medina,New York City FC,€3.00m,23.0,20.0
+45,Danny Musovski,LAFC,629,F,D. Musovski,Los Angeles FC,€500Th.,25.0,24.0
+46,Brian White,RBNY,872,F,B. White,New York Red Bulls,€1.00m,25.0,22.0
+47,Andres Rios,SJ,1711,F,A. Ríos,San Jose Earthquakes,€800Th.,31.0,29.0
+48,Khiry Shelton,SKC,1447,F,K. Shelton,Sporting Kansas City,€800Th.,27.0,26.0
+49,Erik Hurtado,MTL,376,F,E. Hurtado,Club de Foot Montréal,€500Th.,30.0,30.0
+50,Jonathan Lewis,COL,705,F,J. Lewis,Colorado Rapids,€1.20m,23.0,21.0
+51,Yimmi Chara,POR,1233,M,Y. Chará,Portland Timbers,€4.00m,29.0,28.0
+54,Rodolfo Pizarro,MIA,1578,M,R. Pizarro,Inter Miami CF,€10.00m,27.0,26.0
+55,Richie Laryea,TOR,1398,M,R. Laryea,Toronto FC,€2.50m,26.0,24.0
+56,Anton Tinnerholm,NYC,2001,D,A. Tinnerholm,New York City FC,€2.50m,30.0,26.0
+57,Alexander Ring,ATX,2016,M,A. Ring,Austin FC,€2.50m,29.0,29.0
+58,Hany Mukhtar,NSH,1092,M,H. Mukhtar,Nashville SC,€6.00m,25.0,24.0
+61,Daniel Royer,RBNY,1354,M,D. Royer,New York Red Bulls,€2.50m,30.0,26.0
+62,Ethan Finlay,MIN,961,M,E. Finlay,Minnesota United FC,€1.50m,30.0,27.0
+66,Lassi Lappalainen,MTL,680,M,L. Lappalainen,Club de Foot Montréal,€800Th.,22.0,20.0
+67,Carlos Vela,LAFC,422,F,C. Vela,Los Angeles FC,€15.00m,32.0,28.0
+68,Ryan Hollingshead,DAL,1731,M,R. Hollingshead,FC Dallas,€1.50m,29.0,22.0
+69,Fabian Herbers,CHI,1366,F,F. Herbers,Chicago Fire FC,€1.00m,27.0,25.0
+70,Andre Shinyashiki,COL,1034,F,A. Shinyashiki,Colorado Rapids,€3.00m,23.0,21.0
+71,Jon Gallagher,ATX,982,F,J. Gallagher,Austin FC,€500Th.,25.0,24.0
+72,Brek Shea,MIA,628,D,B. Shea,Inter Miami CF,€500Th.,31.0,30.0
+74,Daniel Rios,NSH,697,F,D. Ríos,Nashville SC,€2.00m,26.0,23.0
+75,Daniel Rios,NSH,697,F,D. Rios,Houston Dynamo FC,-,17.0,17.0
+76,Ola Kamara,DC,1327,F,O. Kamara,D.C. United,€1.50m,31.0,29.0
+77,Cristian Espinoza,SJ,1812,M,C. Espinoza,San Jose Earthquakes,€2.00m,25.0,24.0
+78,Jamiro Monteiro,PHI,1941,M,J. Monteiro,Philadelphia Union,€3.00m,27.0,26.0
+79,Eryk Williamson,POR,1417,M,E. Williamson,Portland Timbers,€1.00m,23.0,20.0
+80,Kyle Duncan,RBNY,1908,D,K. Duncan,New York Red Bulls,€1.00m,23.0,20.0
+81,Mark-Anthony Kaye,LAFC,1095,M,M. Kaye,Los Angeles FC,€6.00m,26.0,23.0
+82,Diego Rubio,COL,1040,F,D. Rubio,Colorado Rapids,€1.50m,27.0,25.0
+83,Cristian Dajome,VAN,1604,F,C. Dájome,Vancouver Whitecaps FC,€2.00m,27.0,26.0
+84,Randall Leal,NSH,1615,F-M,R. Leal,Nashville SC,€3.00m,24.0,22.0
+86,Justin Meram,RSL,1146,M,J. Meram,Real Salt Lake City,€1.20m,32.0,31.0
+87,Kelvin Leerdam,SEA,1551,D,K. Leerdam,Seattle Sounders FC,€1.00m,30.0,27.0
+89,Alejandro Bedoya,PHI,1832,M,A. Bedoya,Philadelphia Union,€700Th.,33.0,29.0
+90,Mauricio Pineda,CHI,2022,D-M,M. Pineda,Chicago Fire FC,€650Th.,23.0,22.0
+92,Yamil Asad,DC,1582,M,Y. Asad,D.C. United,€2.00m,26.0,25.0
+93,Fafa Picault,HOU,1040,M,F. Picault,Houston Dynamo FC,€700Th.,30.0,29.0
+94,Albert Rusnak,RSL,1291,M,A. Rusnák,Real Salt Lake City,€2.00m,26.0,22.0
+95,Junior Urso,ORL,1708,M,J. Urso,Orlando City SC,€1.50m,31.0,30.0
+97,Walker Zimmerman,NSH,1955,D,W. Zimmerman,Nashville SC,€3.50m,27.0,26.0
+98,Ismael Tajouri-Shradi,NYC,670,F,I. Tajouri-ShradiI,New York City FC,€1.00m,26.0,23.0
+100,Przemyslaw Frankowski,CHI,1459,M,P. Frankowski,Chicago Fire FC,€2.00m,25.0,23.0
+102,Ariel Lassiter,HOU,949,F,A. Lassiter,Houston Dynamo FC,€400Th.,26.0,26.0
+103,Keaton Parks,NYC,1733,M,K. Parks,New York City FC,€3.00m,23.0,22.0
+104,Tesho Akindele,ORL,821,F-M,T. Akindele,Orlando City SC,€600Th.,28.0,26.0
+105,Donovan Pines,DC,1353,D,D. Pines,D.C. United,€650Th.,22.0,20.0
+106,Juan Agudelo,MIN,842,F,J. Agudelo,Minnesota United FC,€1.00m,28.0,28.0
+107,Yuya Kubo,CIN,1284,F,Y. Kubo,FC Cincinnati,€1.80m,27.0,26.0
+108,Tom Barlow,RBNY,974,F,T. Barlow,New York Red Bulls,€500Th.,25.0,23.0
+109,Mauricio Pereyra,ORL,1107,M,M. Pereyra,Orlando City SC,€4.00m,30.0,29.0
+110,Djordje Mihailovic,MTL,1171,M,D. Mihailovic,Club de Foot Montréal,€4.00m,22.0,22.0
+112,Alvaro Medran,CHI,1996,M,Á. Medrán,Chicago Fire FC,€2.00m,26.0,25.0
+113,Ali Adnan,VAN,1769,D,A. Adnan,Vancouver Whitecaps FC,€1.50m,27.0,25.0
+114,Joao Paulo,SEA,1501,M,J. Paulo,Seattle Sounders FC,€2.00m,29.0,29.0
+116,Sebastian Blanco,POR,665,M-F,S. Blanco,Portland Timbers,€2.50m,32.0,28.0
+117,Cristian Roldan,SEA,1890,M,C. Roldán,Seattle Sounders FC,€5.00m,25.0,19.0
+119,Younes Namli,COL,1272,M,Y. Namli,Colorado Rapids,€2.00m,26.0,25.0
+120,Corey Baird,LAFC,1529,F,C. Baird,Los Angeles FC,€1.60m,25.0,24.0
+124,Brooks Lennon,ATL,1751,D,B. Lennon,Atlanta United FC,€850Th.,23.0,22.0
+125,Carlos Fierro,SJ,961,M,C. Fierro,San Jose Earthquakes,€1.50m,26.0,24.0
+126,Florian Valot,RBNY,1510,M,F. Valot,New York Red Bulls,€700Th.,28.0,24.0
+127,Julian Gressel,DC,1682,M,J. Gressel,D.C. United,€4.00m,27.0,26.0
+128,Ezequiel Barco,ATL,1034,M,E. Barco,Atlanta United FC,€10.00m,21.0,18.0
+129,Marcos Lopez,SJ,990,D,M. López,San Jose Earthquakes,€1.00m,21.0,19.0
+130,Shea Salinas,SJ,774,M,S. Salinas,San Jose Earthquakes,€300Th.,34.0,25.0
+131,Christian Ramirez,HOU,675,F,C. Ramirez,Houston Dynamo FC,€1.00m,29.0,28.0
+132,Emerson Hyndman,ATL,1383,M,E. Hyndman,Atlanta United FC,€1.80m,24.0,23.0
+133,Boris Sekulic,CHI,1826,D,B. Sekulic,Chicago Fire FC,€650Th.,29.0,28.0
+134,Nick Lima,ATX,1531,D,N. Lima,Austin FC,€1.50m,26.0,26.0
+136,Roger Espinoza,SKC,950,M,R. Espinoza,Sporting Kansas City,€400Th.,34.0,28.0
+137,Victor Wanyama,MTL,1890,M,V. Wanyama,Club de Foot Montréal,€8.00m,29.0,28.0
+138,Brandon Vazquez,CIN,774,F,B. Vázquez,FC Cincinnati,€450Th.,22.0,21.0
+139,Tajon Buchanan,NE,1084,F,T. Buchanan,New England Revolution,€2.00m,22.0,19.0
+144,Omir Fernandez,RBNY,569,M,O. Fernandez,New York Red Bulls,€800Th.,22.0,19.0
+145,Oswaldo Alanis,SJ,1188,D,O. Alanís,San Jose Earthquakes,€1.60m,31.0,30.0
+146,Marcelino Moreno,ATL,465,M,M. Moreno,Atlanta United FC,€6.50m,25.0,25.0
+147,Ricardo Pepi,DAL,458,F,R. Pepi,FC Dallas,€1.00m,18.0,16.0
+150,Abu Danladi,NSH,575,F,A. Danladi,Nashville SC,€600Th.,25.0,24.0
+151,Eddie Segura,LAFC,1886,D,E. Segura,Los Angeles FC,€2.50m,24.0,22.0
+154,Kellyn Acosta,COL,1150,M,K. Acosta,Colorado Rapids,€3.00m,25.0,22.0
+155,Jozy Altidore,TOR,746,F,J. Altidore,Toronto FC,€2.00m,31.0,25.0
+156,Ike Opara,MIN,180,D,I. Opara,Minnesota United FC,€1.00m,32.0,29.0
+157,Tosaint Ricketts,VAN,456,F,T. Ricketts,Vancouver Whitecaps FC,€350Th.,33.0,32.0
+158,Jake Nerwinski,VAN,1700,D,J. Nerwinski,Vancouver Whitecaps FC,€700Th.,26.0,22.0
+159,Russell Canouse,DC,1233,M,R. Canouse,D.C. United,€1.00m,25.0,22.0
+160,Griffin Yow,DC,391,F,G. Yow,D.C. United,€300Th.,18.0,16.0
+161,Caden Clark,RBNY,280,M,C. Clark,New York Red Bulls,€3.00m,17.0,17.0
+162,Federico Higuain,MIA,175,F,F. Higuaín,Inter Miami CF,€300Th.,36.0,35.0
+163,Frederic Brillant,DC,1682,D,F. Brillant,D.C. United,€300Th.,35.0,32.0
+164,Aaron Long,RBNY,1330,D,A. Long,New York Red Bulls,€3.50m,28.0,24.0
+166,Alexander Callens,NYC,1934,D,A. Callens,New York City FC,€1.80m,28.0,24.0
+167,Cory Burke,PHI,110,F,C. Burke,Philadelphia Union,€600Th.,29.0,26.0
+168,Amar Sejdic,MTL,684,M,A. Sejdic,Club de Foot Montréal,€200Th.,24.0,22.0
+169,Julian Carranza,MIA,542,F,J. Carranza,Inter Miami CF,€5.00m,20.0,19.0
+170,Jhonder Cadiz,NSH,219,F,J. Cádiz,Nashville SC,€3.00m,25.0,25.0
+172,Maynor Figueroa,HOU,1717,D,M. Figueroa,Houston Dynamo FC,€200Th.,37.0,35.0
+173,Ethan Zubak,LA,787,F,E. Zubak,Los Angeles Galaxy,€400Th.,22.0,20.0
+174,Douglas Martinez,RSL,837,F,D. Martínez,Real Salt Lake City,€600Th.,23.0,22.0
+176,Emanuel Reynoso,MIN,826,M,E. Reynoso,Minnesota United FC,€10.00m,25.0,24.0
+177,Diego Chara,POR,1799,M,D. Chará,Portland Timbers,€400Th.,34.0,25.0
+178,Maikel Chang,RSL,1107,M,M. Chang,Real Salt Lake City,€600Th.,29.0,28.0
+179,Jan Gregus,MIN,1599,M,J. Gregus,Minnesota United FC,€3.00m,30.0,27.0
+180,Jorge Villafana,LA,1550,F,J. Villafaña,Los Angeles Galaxy,€1.00m,31.0,31.0
+181,Michael Barrios,COL,1681,M,M. Barrios,Colorado Rapids,€2.00m,29.0,29.0
+183,Tommy Thompson,SJ,1125,D,T. Thompson,San Jose Earthquakes,€1.00m,25.0,18.0
+184,Francisco Ginella,LAFC,1159,M,F. Ginella,Los Angeles FC,€3.00m,22.0,20.0
+186,Maximiliano Moralez,NYC,875,M,M. Moralez,New York City FC,€1.50m,34.0,29.0
+187,Darwin Ceren,HOU,1535,M,D. Cerén,Houston Dynamo FC,€600Th.,31.0,28.0
+188,Latif Blessing,LAFC,1720,F,L. Blessing,Los Angeles FC,€4.00m,24.0,20.0
+189,Matias Pellegrini,MIA,965,M,M. Pellegrini,Inter Miami CF,€7.50m,20.0,19.0
+190,Sam Vines,COL,1620,D,S. Vines,Colorado Rapids,€2.00m,21.0,18.0
+191,Michael Baldisimo,VAN,703,M,M. Baldisimo,Vancouver Whitecaps FC,€600Th.,20.0,18.0
+192,Julian Araujo,LA,1298,D,J. Araujo,Los Angeles Galaxy,€2.00m,19.0,17.0
+193,Jonathan Osorio,TOR,1408,M,J. Osorio,Toronto FC,€6.00m,28.0,20.0
+194,Jose Cifuentes,LAFC,1150,M,J. Cifuentes,Los Angeles FC,€3.00m,21.0,20.0
+195,Gianluca Busio,SKC,1275,M-F,G. Busio,Sporting Kansas City,€4.00m,18.0,15.0
+196,Kai Wagner,PHI,1186,D,K. Wagner,Philadelphia Union,€2.50m,24.0,21.0
+197,Matthew Real,PHI,622,D,M. Real,Philadelphia Union,€600Th.,21.0,18.0
+198,Daniel Lovitz,NSH,1890,D,D. Lovitz,Nashville SC,€1.00m,29.0,28.0
+199,Andy Polo,POR,750,M,A. Polo,Portland Timbers,€2.00m,26.0,24.0
+201,Harrison Afful,CLB,1795,D,H. Afful,Columbus Crew SC,€400Th.,34.0,29.0
+202,Yordy Reyna,DC,632,M-F,Y. Reyna,D.C. United,€800Th.,27.0,27.0
+203,Dave Romney,NSH,2070,D,D. Romney,Nashville SC,€600Th.,27.0,26.0
+205,Keegan Rosenberry,COL,1361,D,K. Rosenberry,Colorado Rapids,€1.00m,27.0,25.0
+206,Francisco Calvo,CHI,1911,D,F. Calvo,Chicago Fire FC,€1.20m,28.0,26.0
+207,Andres Ricaurte,DAL,1112,M,A. Ricaurte,FC Dallas,€1.80m,29.0,28.0
+208,Efrain Alvarez,LA,718,M,E. Álvarez,Los Angeles Galaxy,€4.00m,18.0,15.0
+211,Ignacio Aliseda,CHI,1402,M,I. Aliseda,Chicago Fire FC,€3.00m,20.0,19.0
+212,Eduard Atuesta,LAFC,1326,M,E. Atuesta,Los Angeles FC,€3.50m,23.0,21.0
+213,Gonzalo Higuain,MIA,802,F,G. Higuaín,Inter Miami CF,€10.00m,33.0,32.0
+214,Ben Mines,CIN,172,M,B. Mines,FC Cincinnati,€200Th.,20.0,20.0
+215,Jacori Hayes,MIN,602,M,J. Hayes,Minnesota United FC,€500Th.,25.0,24.0
+216,Jonathan Bornstein,CHI,1141,D,J. Bornstein,Chicago Fire FC,€200Th.,36.0,34.0
+217,Darlington Nagbe,CLB,1199,M,D. Nagbe,Columbus Crew SC,€3.50m,30.0,29.0
+218,Mandela Egbo,RBNY,451,D,M. Egbo,New York Red Bulls,€300Th.,23.0,22.0
+219,Handwalla Bwana,NSH,217,M,H. Bwana,Nashville SC,€1.00m,21.0,21.0
+220,Larrys Mabiala,POR,1311,D,L. Mabiala,Portland Timbers,€600Th.,33.0,29.0
+221,Antonio Carlos,ORL,1634,D,A. Carlos,Orlando City SC,€1.50m,27.0,27.0
+222,Patrick Mullins,TOR,416,F,P. Mullins,Toronto FC,€350Th.,29.0,27.0
+223,George Bello,ATL,1648,D,G. Bello,Atlanta United FC,€2.50m,19.0,15.0
+224,Braian Galvan,COL,244,M,B. Galván,Colorado Rapids,€250Th.,20.0,19.0
+225,Jake Mulraney,ATL,707,F,J. Mulraney,Atlanta United FC,€500Th.,24.0,23.0
+226,Kekuta Manneh,ATX,246,F,K. Manneh,Austin FC,€750Th.,26.0,26.0
+227,Haris Medunjanin,CIN,1729,M,H. Medunjanin,FC Cincinnati,€500Th.,35.0,34.0
+229,Mason Toye,MTL,596,F,M. Toye,Club de Foot Montréal,€600Th.,22.0,21.0
+230,Eric Remedi,SJ,1161,M,E. Remedi,San Jose Earthquakes,€2.50m,25.0,25.0
+233,Bill Tuiloma,POR,824,D-M,B. Tuiloma,Portland Timbers,€800Th.,25.0,22.0
+234,Will Bruin,SEA,558,F,W. Bruin,Seattle Sounders FC,€500Th.,31.0,27.0
+235,Cade Cowell,SJ,466,F,C. Cowell,San Jose Earthquakes,€600Th.,17.0,15.0
+236,Blaise Matuidi,MIA,1273,M,B. Matuidi,Inter Miami CF,€5.00m,33.0,33.0
+237,Erick Torres,ATL,492,F,É. Torres,Atlanta United FC,€500Th.,28.0,27.0
+238,Chase Gasper,MIN,1491,D,C. Gasper,Minnesota United FC,€2.00m,25.0,22.0
+239,Dominique Badji,NSH,750,F,D. Badji,Nashville SC,€800Th.,28.0,27.0
+240,Nicolas Mezquida,COL,463,F-M,N. Mezquida,Colorado Rapids,€600Th.,29.0,26.0
+241,Samuel Piette,MTL,1943,M,S. Piette,Club de Foot Montréal,€2.00m,26.0,22.0
+242,Jesus Ferreira,DAL,979,F,J. Ferreira,FC Dallas,€3.00m,20.0,16.0
+243,Hassani Dotson,MIN,1211,M-D,H. Dotson,Minnesota United FC,€2.00m,23.0,21.0
+244,Jackson Yueill,SJ,1861,M,J. Yueill,San Jose Earthquakes,€2.50m,23.0,19.0
+245,Graham Zusi,SKC,1224,M,G. Zusi,Sporting Kansas City,€300Th.,34.0,22.0
+246,Pablo Ruiz,RSL,1328,M,P. Ruiz,Real Salt Lake City,€1.00m,22.0,19.0
+247,Paxton Pomykal,DAL,150,M,P. Pomykal,FC Dallas,€3.00m,21.0,16.0
+248,Andreu Fontas,SKC,270,D,A. Fontàs,Sporting Kansas City,€500Th.,31.0,28.0
+250,Mikey Ambrose,ATL,302,D,M. Ambrose,Atlanta United FC,€350Th.,27.0,27.0
+251,Matheus Aias,ORL,18,F,M. Aiás,Orlando City SC,€550Th.,24.0,23.0
+253,Kai Koreniuk,LA,12,M,K. Koreniuk,Los Angeles Galaxy,€200Th.,23.0,22.0
+254,Tony Rocha,NYC,51,M,T. Rocha,New York City FC,€450Th.,27.0,25.0
+256,Giancarlo Gonzalez,LA,754,D,G. González,Los Angeles Galaxy,€750Th.,33.0,31.0
+260,Christian Torres,LAFC,212,F,C. Torres,Los Angeles FC,€350Th.,16.0,16.0
+261,Drew Moor,COL,487,D,D. Moor,Colorado Rapids,€200Th.,37.0,35.0
+262,Lalas Abubakar,COL,1515,D,L. Abubakar,Colorado Rapids,€1.00m,26.0,24.0
+263,Paul Marie,SJ,353,D,P. Marie,San Jose Earthquakes,€300Th.,25.0,22.0
+264,Sam Junqua,HOU,250,D,S. Junqua,Houston Dynamo FC,€250Th.,24.0,22.0
+265,Julio Cascante,ATX,405,D,J. Cascante,Austin FC,€400Th.,27.0,27.0
+266,Justen Glad,RSL,1279,D,J. Glad,Real Salt Lake City,€800Th.,24.0,17.0
+268,Theo Bair,VAN,446,F,T. Bair,Vancouver Whitecaps FC,€500Th.,21.0,19.0
+272,Rudy Camacho,MTL,1189,D,R. Camacho,Club de Foot Montréal,€500Th.,30.0,27.0
+274,Jakob Glesnes,PHI,1493,D,J. Glesnes,Philadelphia Union,€1.00m,26.0,25.0
+275,Allan Cruz,CIN,751,M,A. Cruz,FC Cincinnati,€1.00m,25.0,22.0
+276,Daniel Steres,LA,1800,D,D. Steres,Los Angeles Galaxy,€750Th.,30.0,25.0
+277,Joe Corona,HOU,986,M,J. Corona,Houston Dynamo FC,€1.00m,30.0,30.0
+278,Nick Hagglund,CIN,744,D,N. Hagglund,FC Cincinnati,€600Th.,28.0,26.0
+279,Jack Elliott,PHI,981,D,J. Elliott,Philadelphia Union,€1.50m,25.0,21.0
+281,Tsubasa Endoh,TOR,615,M,T. Endoh,Toronto FC,€550Th.,27.0,25.0
+282,Danny Hoesen,ATX,249,F,D. Hoesen,Austin FC,€600Th.,30.0,29.0
+283,Henry Kessler,NE,1823,D,H. Kessler,New England Revolution,€1.00m,22.0,21.0
+284,Aaron Schoenfeld,ATX,390,F,A. Schoenfeld,Austin FC,€400Th.,30.0,30.0
+285,Erik Sorga,DC,668,F,E. Sorga,D.C. United,€500Th.,21.0,20.0
+286,Frankie Amaya,CIN,1737,M,F. Amaya,FC Cincinnati,€2.00m,20.0,18.0
+287,Joseph-Claude Gyau,CIN,1796,M,J. Gyau,FC Cincinnati,€600Th.,28.0,26.0
+288,Diego Fagundez,ATX,966,M,D. Fagúndez,Austin FC,€1.20m,26.0,25.0
+289,Anibal Godoy,NSH,1494,M-D,A. Godoy,Nashville SC,€600Th.,31.0,29.0
+290,Jurgen Locadia,CIN,1364,F,J. Locadia,FC Cincinnati,€5.00m,27.0,26.0
+291,Jack Price,COL,1318,M,J. Price,Colorado Rapids,€1.50m,28.0,25.0
+293,Romain Metanire,MIN,1786,D,R. Métanire,Minnesota United FC,€1.70m,30.0,28.0
+295,Jurgen Damm,ATL,635,M,J. Damm,Atlanta United FC,€2.00m,28.0,27.0
+297,Emanuel Maciel,MTL,780,M,E. Maciel,Club de Foot Montréal,€300Th.,23.0,22.0
+298,Zarek Valentin,HOU,1621,D,Z. Valentin,Houston Dynamo FC,€750Th.,29.0,28.0
+300,Raheem Edwards,MIN,259,M,R. Edwards,Los Angeles FC,€300Th.,25.0,25.0
+301,Milton Valenzuela,CLB,1448,D,M. Valenzuela,Columbus Crew SC,€1.50m,22.0,20.0
+302,Nicolas Benezet,COL,491,F,N. Benezet,Colorado Rapids,€800Th.,30.0,28.0
+303,Victor Ulloa,MIA,1434,M,V. Ulloa,Inter Miami CF,€800Th.,29.0,27.0
+305,Edison Flores,DC,872,M,E. Flores,D.C. United,€3.50m,26.0,25.0
+306,Gaston Gimenez,CHI,1557,M,G. Giménez,Chicago Fire FC,€4.00m,29.0,28.0
+307,Luis Diaz,CLB,1178,M,L. Díaz,Columbus Crew SC,€800Th.,22.0,20.0
+308,Cristian Gutierrez,VAN,665,D,C. Gutiérrez,Vancouver Whitecaps FC,€800Th.,24.0,22.0
+309,Matt Polster,NE,756,D,M. Polster,New England Revolution,€800Th.,27.0,27.0
+311,Xavier Arreaga,SEA,1147,D,X. Arreaga,Seattle Sounders FC,€1.00m,26.0,24.0
+312,Olivier Mbaizo,PHI,1057,D,O. Mbaizo,Philadelphia Union,€600Th.,23.0,20.0
+313,Jaylin Lindsey,SKC,1059,D,J. Lindsey,Sporting Kansas City,€1.00m,20.0,17.0
+315,Luis Martins,SKC,773,D,L. Martins,Sporting Kansas City,€600Th.,28.0,27.0
+316,Carles Gil,NE,366,F,C. Gil,New England Revolution,€4.00m,28.0,26.0
+318,Joao Moutinho,ORL,685,D,J. Moutinho,Orlando City SC,€800Th.,23.0,20.0
+319,Jason Pendant,RBNY,1612,D,J. Pendant,New York Red Bulls,€800Th.,24.0,23.0
+320,Jared Stroud,ATX,925,M,J. Stroud,Austin FC,€800Th.,24.0,24.0
+321,Derrick Jones,HOU,912,M,D. Jones,Houston Dynamo FC,€400Th.,24.0,23.0
+322,Nouhou Tolo,SEA,1402,D,N. Tolo,Seattle Sounders FC,€1.80m,23.0,19.0
+324,Ben Sweat,ATX,1675,D,B. Sweat,Austin FC,€950Th.,29.0,29.0
+326,Marvin Loria,POR,712,M,M. Loría,Portland Timbers,€600Th.,23.0,21.0
+327,Ronald Matarrita,CIN,1649,D,R. Matarrita,FC Cincinnati,€2.50m,26.0,26.0
+328,Andres Perea,ORL,1190,M,A. Perea,Orlando City SC,€3.00m,20.0,20.0
+329,Bryan Acosta,DAL,759,M,B. Acosta,FC Dallas,€2.00m,27.0,25.0
+330,Alex Muyl,NSH,1152,M,A. Muyl,Nashville SC,€800Th.,25.0,24.0
+332,Jose Andres Martinez,PHI,1148,M,J. Andrés Martínez,Philadelphia Union,€600Th.,26.0,25.0
+333,Ryan Raposo,VAN,375,M,R. Raposo,Vancouver Whitecaps FC,€500Th.,22.0,20.0
+334,Wyatt Omsberg,CHI,185,D,W. Omsberg,Chicago Fire FC,€175Th.,25.0,24.0
+335,Mustafa Kizza,MTL,19,D,M. Kizza,Club de Foot Montréal,€250Th.,21.0,20.0
+341,Hector Jimenez,ATX,376,M,H. Jiménez,Austin FC,€500Th.,32.0,32.0
+342,Taylor Washington,NSH,389,D,T. Washington,Nashville SC,€350Th.,27.0,26.0
+343,Jeremy Kelly,COL,246,D,J. Kelly,Colorado Rapids,€175Th.,23.0,22.0
+344,Mo Adams,ATL,778,M,M. Adams,Atlanta United FC,€450Th.,24.0,22.0
+345,Amadou Dia,SKC,847,D,A. Dia,Sporting Kansas City,€300Th.,27.0,26.0
+346,Kwadwo Opoku,LAFC,52,F,K. Opoku,Los Angeles FC,€150Th.,19.0,19.0
+347,Sean Nealis,RBNY,453,D,S. Nealis,New York Red Bulls,€350Th.,24.0,21.0
+348,Moses Nyeman,DC,490,M,M. Nyeman,D.C. United,€350Th.,17.0,15.0
+349,Tim Parker,HOU,1620,D,T. Parker,Houston Dynamo FC,€1.80m,28.0,27.0
+350,John Nelson,DAL,705,D,J. Nelson,FC Dallas,€400Th.,22.0,20.0
+351,Eric Calvillo,SJ,184,M,E. Calvillo,San Jose Earthquakes,€200Th.,23.0,20.0
+354,Joel Waterman,MTL,549,D,J. Waterman,Club de Foot Montréal,€200Th.,25.0,23.0
+355,Jordan Harvey,LAFC,757,D,J. Harvey,Los Angeles FC,€250Th.,37.0,33.0
+356,Roberto Puncec,SKC,1675,D,R. Puncec,Sporting Kansas City,€700Th.,29.0,28.0
+358,Emmanuel Boateng,NE,323,M,E. Boateng,New England Revolution,€600Th.,27.0,26.0
+359,Jordy Delem,SEA,737,M,J. Delem,Seattle Sounders FC,€800Th.,27.0,23.0
+360,Alex Roldan,SEA,571,M,A. Roldán,Seattle Sounders FC,€500Th.,24.0,21.0
+361,Auston Trusty,COL,525,D,A. Trusty,Colorado Rapids,€1.50m,22.0,21.0
+363,Diego Palacios,LAFC,1230,D,D. Palacios,Los Angeles FC,€1.50m,21.0,20.0
+364,Pablo Bonilla,POR,888,D,P. Bonilla,Portland Timbers,€500Th.,21.0,20.0
+365,Alistair Johnston,NSH,1366,D,A. Johnston,Nashville SC,€2.00m,22.0,21.0
+366,Joseph Mora,DC,1585,D,J. Mora,D.C. United,€800Th.,28.0,25.0
+370,Andy Rose,VAN,854,M,A. Rose,Vancouver Whitecaps FC,€450Th.,31.0,28.0
+371,Josh Williams,CLB,1021,D,J. Williams,Columbus Crew SC,€450Th.,32.0,28.0
+372,Russell Teibert,VAN,1585,M,R. Teibert,Vancouver Whitecaps FC,€1.00m,28.0,16.0
+373,Gudmundur Thorarinsson,NYC,683,D,G. Thórarinsson,New York City FC,€800Th.,28.0,27.0
+375,James Sands,NYC,1409,M,J. Sands,New York City FC,€2.50m,20.0,16.0
+376,Kevin Paredes,DC,944,M,K. Paredes,D.C. United,€800Th.,17.0,16.0
+377,Sean Davis,RBNY,1086,M,S. Davis,New York Red Bulls,€1.20m,28.0,21.0
+379,Anton Walkes,ATL,1335,D,A. Walkes,Atlanta United FC,€600Th.,24.0,22.0
+380,Donny Toia,RSL,1674,D,D. Toia,Real Salt Lake City,€800Th.,28.0,26.0
+382,Ilie Sanchez,SKC,1259,M,I. Sánchez,Sporting Kansas City,€1.00m,30.0,26.0
+383,Chris Mavinga,TOR,1515,D,C. Mavinga,Toronto FC,€1.00m,29.0,25.0
+384,Michael Bradley,TOR,1060,M,M. Bradley,Toronto FC,€800Th.,33.0,26.0
+385,Matt Hedges,DAL,1538,D,M. Hedges,FC Dallas,€1.80m,30.0,30.0
+386,Thiago Santos,DAL,1623,M,T. Santos,FC Dallas,€1.20m,31.0,30.0
+387,Felipe Hernandez,SKC,778,M,F. Hernández,Sporting Kansas City,€500Th.,22.0,21.0
+388,Kyle Smith,ORL,1026,D,K. Smith,Orlando City SC,€500Th.,29.0,26.0
+391,Junior Moreno,DC,1721,M,J. Moreno,D.C. United,€1.00m,27.0,24.0
+392,Leonard Owusu,VAN,1301,M,L. Owusu,Vancouver Whitecaps FC,€750Th.,23.0,22.0
+393,Miguel Angel Navarro,CHI,971,D,M. Ángel Navarro,Chicago Fire FC,€500Th.,22.0,20.0
+394,Marky Delgado,TOR,1448,M,M. Delgado,Toronto FC,€1.00m,25.0,19.0
+395,Robbie Robinson,MIA,426,F,R. Robinson,Inter Miami CF,€250Th.,22.0,21.0
+397,Brandon Bye,NE,1636,D,B. Bye,New England Revolution,€800Th.,25.0,22.0
+398,Tanner Tessmann,DAL,1001,M,T. Tessmann,FC Dallas,€1.00m,19.0,18.0
+399,Aaron Herrera,RSL,1796,D,A. Herrera,Real Salt Lake City,€1.20m,23.0,20.0
+400,Elliot Collier,CHI,519,F,E. Collier,Chicago Fire FC,€400Th.,26.0,22.0
+405,Juan Pablo Torres,NYC,2,M,J. Torres,New York City FC,€150Th.,21.0,19.0
+406,Griffin Dorsey,TOR,4,M,G. Dorsey,Toronto FC,€200Th.,22.0,19.0
+407,Aboubacar Keita,CLB,942,D,A. Keita,Columbus Crew SC,€1.00m,20.0,18.0
+408,Jack Maher,NSH,127,D,J. Maher,Nashville SC,€150Th.,21.0,20.0
+409,Edwin Cerrillo,DAL,17,M,E. Cerrillo,FC Dallas,€400Th.,20.0,18.0
+410,Thomas Roberts,DAL,0,M,T. Roberts,FC Dallas,€250Th.,19.0,17.0
+411,George Campbell,ATL,46,D,G. Campbell,Atlanta United FC,€150Th.,19.0,18.0
+412,Clement Bayiha,MTL,66,M,C. Bayiha,Club de Foot Montréal,€500Th.,22.0,19.0
+413,Mathieu Choiniere,MTL,0,M,M. Choinière,Club de Foot Montréal,€300Th.,22.0,19.0
+414,Jacob Akanyirige,SJ,69,D,J. Akanyirige,San Jose Earthquakes,€200Th.,19.0,15.0
+415,Gilbert Fuentes,SJ,5,M,G. Fuentes,San Jose Earthquakes,€175Th.,19.0,15.0
+417,Nicholas Slonina,CHI,0,D,N. Slonina,Chicago Fire FC,€75Th.,19.0,18.0
+418,Denso Ulysse,MCF,0,D,D. Ulysse,Inter Miami CF,€100Th.,22.0,21.0
+422,Patrick Metcalfe,VAN,200,M,P. Metcalfe,Vancouver Whitecaps FC,€150Th.,22.0,21.0
+423,Julian Dunn,TOR,0,D,J. Dunn,Toronto FC,€175Th.,20.0,17.0
+424,Noble Okello,TOR,22,M,N. Okello,Toronto FC,€200Th.,20.0,18.0
+425,Eddie Munjoma,DAL,0,D,E. Munjoma,FC Dallas,€100Th.,22.0,21.0
+426,Milan Iloski,RSL,1,F,M. Iloski,Real Salt Lake City,€100Th.,21.0,20.0
+429,Matt Hundley,COL,0,F,M. Hundley,Colorado Rapids,€150Th.,20.0,18.0
+433,Matej Oravec,PHI,0,M,M. Oravec,Philadelphia Union,€800Th.,22.0,21.0
+434,Wilson Harris,SKC,0,F,W. Harris,Sporting Kansas City,€200Th.,21.0,20.0
+438,David Loera,ORL,15,M,D. Loera,Orlando City SC,€100Th.,22.0,21.0
+439,Blake Bodily,POR,0,M,B. Bodily,Portland Timbers,€100Th.,23.0,22.0
+441,Grant Lillard,CLB,0,D,G. Lillard,Columbus Crew SC,€150Th.,25.0,24.0
+442,Christian Makoun,MIA,187,D,C. Makoun,Inter Miami CF,€1.00m,21.0,19.0
+443,Patrick Seagrist,MIA,246,D,P. Seagrist,Inter Miami CF,€175Th.,23.0,22.0
+448,Foster Langsdorf,MIN,10,M,F. Langsdorf,Minnesota United FC,€400Th.,25.0,24.0
+449,Renzo Zambrano,POR,98,M,R. Zambrano,Portland Timbers,€300Th.,26.0,24.0
+450,Janio Bikel,VAN,948,D,J. Bikel,Vancouver Whitecaps FC,€1.80m,25.0,24.0
+451,Danilo Acosta,LA,0,D,D. Acosta,Los Angeles Galaxy,€250Th.,23.0,22.0
+455,Noah Billingsley,MIN,6,D,N. Billingsley,Minnesota United FC,€100Th.,23.0,22.0
+457,Jack Skahan,SJ,11,M,J. Skahan,San Jose Earthquakes,€100Th.,23.0,21.0
+463,Caleb Stanko,CIN,470,M,C. Stanko,FC Cincinnati,€500Th.,27.0,25.0
+467,Andrew Farrell,NE,1711,D,A. Farrell,New England Revolution,€1.00m,29.0,20.0
+468,Eriq Zavaleta,TOR,282,D,E. Zavaleta,Toronto FC,€475Th.,28.0,22.0
+469,Waylon Francis,CLB,196,D,W. Francis,Columbus Crew SC,€500Th.,30.0,28.0
+470,Sebastien Ibeagha,NYC,282,D,S. Ibeagha,New York City FC,€500Th.,29.0,26.0
+473,Ashtone Morgan,RSL,0,D,A. Morgan,Real Salt Lake City,€200Th.,30.0,28.0
+475,Oriol Rosell,ORL,585,M-D,O. Rosell,Orlando City SC,€600Th.,28.0,25.0
+477,Vito Wormgoor,CLB,107,D,V. Wormgoor,Columbus Crew SC,€700Th.,32.0,31.0
+478,Aurelien Collin,PHI,0,D,A. Collin,Philadelphia Union,€100Th.,34.0,32.0
+481,Kamohelo Mokotjo,CIN,551,M,K. Mokotjo,FC Cincinnati,€1.20m,29.0,29.0
+486,Steven Beitashour,COL,0,D,S. Beitashour,Colorado Rapids,€400Th.,34.0,33.0
+488,Damiano Pecile,VAN,1,M,D. Pecile,Vancouver Whitecaps FC,€100Th.,18.0,17.0
+489,Gianfranco Facchineri,VAN,0,D,G. Facchineri,Vancouver Whitecaps FC,€250Th.,18.0,17.0
+490,Tyler Freeman,SKC,0,F,T. Freeman,Sporting Kansas City,€150Th.,18.0,15.0
+491,Danny Leyva,SEA,56,M,D. Leyva,Seattle Sounders FC,€500Th.,17.0,15.0
+492,Javier Casas,CHI,0,M,J. Casas,Chicago Fire FC,€75Th.,17.0,16.0
+493,Tyler Wolff,ATL,118,M,T. Wolff,Atlanta United FC,€100Th.,18.0,17.0
+494,Tayvon Gray,NYC,0,D,T. Gray,New York City FC,€50Th.,18.0,17.0
+495,Diedie Traore,LA,85,D,D. Traoré,Los Angeles Galaxy,€200Th.,22.0,20.0
+496,Jack de Vries,PHI,12,M-F,J. de Vries,Philadelphia Union,€250Th.,18.0,17.0
+497,Cole Turner,PHI,3,M,C. Turner,Philadelphia Union,€175Th.,19.0,18.0
+498,John Tolkin,RBNY,0,D,J. Tolkin,New York Red Bulls,€150Th.,18.0,17.0
+502,Josh Atencio,SEA,11,M,J. Atencio,Seattle Sounders FC,€250Th.,19.0,18.0
+504,Justin Haak,NYC,0,M,J. Haak,New York City FC,€200Th.,19.0,17.0
+506,Carlos Harvey,LA,104,M,C. Harvey,Los Angeles Galaxy,€175Th.,21.0,21.0
+509,Sam Gleadle,MIN,0,M,S. Gleadle,Minnesota United FC,€200Th.,24.0,24.0
+510,Alexander Alvarado,ORL,25,F,A. Alvarado,Orlando City SC,€2.00m,21.0,21.0
+512,Ema Twumasi,DAL,35,F,E. Twumasi,FC Dallas,€150Th.,23.0,20.0
+514,Callum Montgomery,MIN,0,D,C. Montgomery,Minnesota United FC,€200Th.,23.0,23.0
+515,Christopher Garcia,RSL,1,F,C. Garcia,Real Salt Lake City,€100Th.,18.0,17.0
+516,Casey Walls,SJ,0,D,C. Walls,San Jose Earthquakes,€50Th.,17.0,16.0
+519,Michael Halliday,ORL,0,D,M. Halliday,Orlando City SC,€100Th.,18.0,17.0
+520,Nicolas Acevedo,NYC,128,M,N. Acevedo,New York City FC,€2.00m,21.0,20.0
+521,Jonathan Perez,LA,0,M,J. Pérez,Los Angeles Galaxy,€125Th.,18.0,17.0
+522,Erik Duenas,LAFC,34,D,E. Dueñas,Los Angeles FC,€250Th.,16.0,15.0
+523,Miguel Berry,CLB,0,F,M. Berry,Columbus Crew SC,€100Th.,23.0,22.0
+524,Nkosi Burgess,DAL,0,D,N. Burgess,FC Dallas,€100Th.,23.0,22.0
+527,Mohamed Traore,LAFC,45,D,M. Traore,Los Angeles FC,€100Th.,18.0,18.0
+529,Jacob Shaffelburg,TOR,125,M-F,J. Shaffelburg,Toronto FC,€200Th.,21.0,19.0
+530,Carlos Teran,CHI,14,D,C. Terán,Chicago Fire FC,€200Th.,20.0,19.0
+531,Thomas Chacon,MIN,172,M,T. Chacón,Minnesota United FC,€1.50m,20.0,18.0
+532,Siad Haji,SJ,49,M,S. Haji,San Jose Earthquakes,€175Th.,21.0,19.0
+533,Brian Gutierrez,CHI,27,M,B. Gutiérrez,Chicago Fire FC,€100Th.,17.0,16.0
+534,Jordan Bender,ORL,46,M,J. Bender,Orlando City SC,€125Th.,19.0,18.0
+535,Ralph Priso,TOR,159,M,R. Priso,Toronto FC,€500Th.,18.0,18.0
+536,Ethan Dobbelaere,SEA,54,M,E. Dobbelaere,Seattle Sounders FC,€100Th.,18.0,17.0
+537,Collen Warner,COL,263,M,C. Warner,Colorado Rapids,€200Th.,32.0,32.0
+538,Johan Kappelhof,CHI,200,D,J. Kappelhof,Chicago Fire FC,€600Th.,30.0,25.0
+541,Matt Besler,ATX,810,D,M. Besler,Austin FC,€500Th.,34.0,33.0
+547,Josef Martinez,ATL,69,F,J. Martínez,Atlanta United FC,€14.00m,27.0,23.0
+550,Eric Miller,NSH,435,D,E. Miller,Nashville SC,€400Th.,28.0,26.0
+551,Jimmy Medranda,SEA,20,D,J. Medranda,Seattle Sounders FC,€600Th.,27.0,26.0
+553,Oniel Fisher,LA,673,D,O. Fisher,Los Angeles Galaxy,€300Th.,29.0,29.0
+554,Amro Tarek,RBNY,935,D,A. Tarek,New York Red Bulls,€600Th.,28.0,26.0
+555,Zico Bailey,CIN,296,D,Z. Bailey,FC Cincinnati,€175Th.,20.0,19.0
+557,Brent Kallman,MIN,271,D,B. Kallman,Minnesota United FC,€300Th.,30.0,26.0
+558,Alejandro Fuenmayor,HOU,301,D,A. Fuenmayor,Houston Dynamo FC,€300Th.,24.0,21.0
+559,Graham Smith,SKC,315,D,G. Smith,Sporting Kansas City,€350Th.,25.0,22.0
+561,Shandon Hopeau,SEA,81,F,S. Hopeau,Seattle Sounders FC,€200Th.,22.0,21.0
+563,Rodrigo Schlegel,ORL,645,D,R. Schlegel,Orlando City SC,€500Th.,23.0,23.0
+564,Tate Schmitt,RSL,254,M,T. Schmitt,Real Salt Lake City,€200Th.,23.0,21.0
+566,Erik Holt,RSL,383,D,E. Holt,Real Salt Lake City,€300Th.,24.0,22.0
+568,Cameron Duke,SKC,218,M,C. Duke,Sporting Kansas City,€500Th.,20.0,18.0
+569,Justin Portillo,RSL,265,M,J. Portillo,Real Salt Lake City,€300Th.,28.0,26.0
+570,Marlon Hairston,CLB,405,M,M. Hairston,Columbus Crew SC,€600Th.,26.0,26.0
+571,Justin Rennicks,NE,29,F,J. Rennicks,New England Revolution,€175Th.,21.0,19.0
+572,Nico Lemoine,HOU,163,F,N. Lemoine,Houston Dynamo FC,€150Th.,20.0,20.0
+576,Luka Stojanovic,CHI,60,M,L. Stojanovic,Chicago Fire FC,€700Th.,27.0,26.0
+577,Erik Godoy,VAN,940,D,É. Godoy,Vancouver Whitecaps FC,€1.00m,27.0,26.0
+578,Scott Caldwell,NE,1155,M,S. Caldwell,New England Revolution,€800Th.,29.0,21.0
+579,Dairon Asprilla,POR,46,M-F,D. Asprilla,Portland Timbers,€500Th.,28.0,22.0
+581,Brad Smith,SEA,148,D,B. Smith,Seattle Sounders FC,€800Th.,26.0,26.0
+582,Jay Chapman,MIA,200,M,J. Chapman,Inter Miami CF,€300Th.,27.0,25.0
+587,Jonathan dos Santos,LA,700,M,J. dos Santos,Los Angeles Galaxy,€1.00m,30.0,27.0
+588,Danny Wilson,COL,742,D,D. Wilson,Colorado Rapids,€500Th.,29.0,26.0
+589,Aljaz Struna,MTL,1436,D,A. Struna,Club de Foot Montréal,€750Th.,30.0,30.0
+590,Perry Kitchen,CLB,1723,M,P. Kitchen,Columbus Crew SC,€800Th.,29.0,28.0
+591,Dante Sealy,DAL,49,F,D. Sealy,FC Dallas,€200Th.,17.0,15.0
+592,Aidan Morris,CLB,360,M,A. Morris,Columbus Crew SC,€600Th.,19.0,18.0
+594,Jasser Khmiri,VAN,387,D,J. Khmiri,Vancouver Whitecaps FC,€400Th.,23.0,21.0
+596,Jayden Nelson,TOR,141,F,J. Nelson,Toronto FC,€1.00m,18.0,17.0
+597,Franko Kovacevic,CIN,90,F,F. Kovacevic,FC Cincinnati,€200Th.,21.0,21.0
+598,Dru Yearwood,RBNY,612,M,D. Yearwood,New York Red Bulls,€500Th.,21.0,20.0
+599,Cameron Dunbar,LA,82,F,C. Dunbar,Los Angeles Galaxy,€200Th.,18.0,17.0
+601,Everton Luiz,RSL,919,M,E. Luiz,Real Salt Lake City,€600Th.,32.0,31.0
+604,Nick Besler,RSL,569,M,N. Besler,Real Salt Lake City,€300Th.,27.0,24.0
+605,Matheus Rossetto,ATL,780,M,M. Rossetto,Atlanta United FC,€725Th.,24.0,23.0
+606,Jose Bizama,HOU,567,D,J. Bizama,Houston Dynamo FC,€500Th.,26.0,25.0
+608,Liam Fraser,TOR,436,M,L. Fraser,Toronto FC,€1.50m,23.0,19.0
+610,Marco Farfan,LAFC,854,D,M. Farfán,Los Angeles FC,€1.00m,22.0,22.0
+612,Bryce Duke,LAFC,234,M,B. Duke,Los Angeles FC,€300Th.,20.0,18.0
+613,Kamal Miller,MTL,805,D,K. Miller,Club de Foot Montréal,€800Th.,23.0,23.0
+614,Tristan Blackmon,LAFC,977,D,T. Blackmon,Los Angeles FC,€600Th.,24.0,21.0
+616,Tomas Conechny,POR,182,M,T. Conechny,Portland Timbers,€600Th.,22.0,21.0
+617,Erickson Gallardo,TOR,162,F-M,E. Gallardo,Toronto FC,€550Th.,24.0,22.0
+618,Florian Jungwirth,SJ,1612,D,F. Jungwirth,San Jose Earthquakes,€800Th.,32.0,28.0
+620,Dario Zuparic,POR,1611,D,D. Zuparic,Portland Timbers,€1.00m,28.0,27.0
+621,Robin Jansson,ORL,1980,D,R. Jansson,Orlando City SC,€750Th.,29.0,27.0
+622,Jukka Raitala,MIN,1350,D,J. Raitala,Minnesota United FC,€500Th.,32.0,32.0
+625,Tanner Beason,SJ,810,D,T. Beason,San Jose Earthquakes,€250Th.,23.0,22.0
+626,Jeizon Ramirez,RSL,80,F,J. Ramírez,Real Salt Lake City,€500Th.,19.0,18.0
+627,Ranko Veselinovic,VAN,1384,D,R. Veselinovic,Vancouver Whitecaps FC,€1.00m,21.0,21.0
+628,Justin Morrow,TOR,959,D,J. Morrow,Toronto FC,€400Th.,33.0,26.0
+630,Jalil Anibaba,NSH,582,D,J. Anibaba,Nashville SC,€400Th.,32.0,31.0
+632,Wil Trapp,MIN,1368,M,W. Trapp,Minnesota United FC,€2.50m,28.0,27.0
+635,Daniel Salloi,SKC,165,F,D. Sallói,Sporting Kansas City,€1.00m,24.0,19.0
+636,Sebastian Berhalter,ATX,395,M,S. Berhalter,Austin FC,€500Th.,19.0,19.0
+638,Alvaro Barreal,CIN,326,M,Á. Barreal,FC Cincinnati,€1.20m,20.0,20.0
+640,Adrien Perez,DC,299,F,A. Perez,D.C. United,€250Th.,25.0,25.0
+641,Maikel van der Werff,CIN,973,D,M. van der Werff,FC Cincinnati,€600Th.,31.0,30.0
+643,Tom Pettersson,CIN,1142,D,T. Pettersson,FC Cincinnati,€650Th.,30.0,29.0
+644,DeJuan Jones,NE,1134,D,D. Jones,New England Revolution,€800Th.,23.0,21.0
+645,Derek Cornelius,VAN,1011,D,D. Cornelius,Vancouver Whitecaps FC,€500Th.,23.0,21.0
+646,Bakaye Dibassy,MIN,858,D,B. Dibassy,Minnesota United FC,€2.00m,31.0,31.0
+651,Michael Boxall,MIN,1710,D,M. Boxall,Minnesota United FC,€650Th.,32.0,28.0
+654,Matias Vera,HOU,1690,M,M. Vera,Houston Dynamo FC,€1.80m,25.0,23.0
+655,Ulises Segura,ATX,683,M,U. Segura,Austin FC,€750Th.,27.0,27.0
+656,Miles Robinson,ATL,1393,D,M. Robinson,Atlanta United FC,€3.00m,23.0,19.0
+657,Andres Reyes,RBNY,1101,D,A. Reyes,New York Red Bulls,€600Th.,21.0,21.0
+658,Dylan Nealis,MIA,1104,D,D. Nealis,Inter Miami CF,€450Th.,22.0,21.0
+659,Luis Binks,MTL,1762,D,L. Binks,Club de Foot Montréal,€1.00m,19.0,18.0
+660,Cristhian Paredes,POR,822,M,C. Paredes,Portland Timbers,€600Th.,22.0,21.0
+662,Jonathan Mensah,CLB,2070,D,J. Mensah,Columbus Crew SC,€1.00m,30.0,26.0
+663,Omar Gonzalez,TOR,1871,D,O. González,Toronto FC,€800Th.,32.0,30.0
+664,Marcelo Silva,RSL,1309,D,M. Silva,Real Salt Lake City,€400Th.,31.0,28.0
+665,Boniek Garcia,HOU,819,M,B. García,Houston Dynamo FC,€200Th.,36.0,27.0
+667,Sacha Kljestan,LA,769,M,S. Kljestan,Los Angeles Galaxy,€350Th.,35.0,34.0
+670,Kelyn Rowe,SEA,896,M,K. Rowe,Seattle Sounders FC,€600Th.,29.0,29.0
+672,Maxime Chanot,NYC,1712,D,M. Chanot,New York City FC,€1.00m,31.0,26.0
