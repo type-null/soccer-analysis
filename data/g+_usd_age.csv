@@ -1,0 +1,442 @@
+,player,club,age,join_age,usd,Season,Goals Added,name,Player,Club,POS,GP,GS,MINS,G,A,SHTS,SOG,GWG,PKG/A,HmG,RdG,G/90min,SC%
+0,E. Segura,Los Angeles FC,24.0,22.0,2360000.0,2020.0,0.46,Eddie Segura,Eddie Segura,LAFC,D,22.0,21.0,1886.0,2.0,1.0,17.0,5.0,1.0,0/0,2.0,0.0,0.1,11.8
+1,M. Traore,Los Angeles FC,18.0,18.0,118000.0,2020.0,-0.11,Mohamed Traore,Mohamed Traore,LAFC,D,1.0,1.0,45.0,0.0,0.0,1.0,0.0,0.0,0/0,0.0,0.0,0.0,0.0
+2,D. Palacios,Los Angeles FC,21.0,20.0,1180000.0,2020.0,0.27,Diego Palacios,Diego Palacios,LAFC,D,16.0,15.0,1230.0,0.0,1.0,4.0,0.0,0.0,0/0,0.0,0.0,0.0,0.0
+3,M. Farfán,Los Angeles FC,22.0,22.0,1180000.0,2020.0,-0.2,Marco Farfan,Marco Farfan,LAFC,D,14.0,9.0,854.0,0.0,0.0,3.0,0.0,0.0,0/0,0.0,0.0,0.0,0.0
+4,J. Harvey,Los Angeles FC,37.0,33.0,295000.0,2020.0,-0.52,Jordan Harvey,Jordan Harvey,LAFC,D,11.0,8.0,757.0,0.0,1.0,2.0,0.0,0.0,0/0,0.0,0.0,0.0,0.0
+5,T. Blackmon,Los Angeles FC,24.0,21.0,708000.0,2020.0,0.51,Tristan Blackmon,Tristan Blackmon,LAFC,D,14.0,11.0,977.0,0.0,0.0,4.0,1.0,0.0,0/0,0.0,0.0,0.0,0.0
+6,E. Dueñas,Los Angeles FC,16.0,15.0,295000.0,2020.0,-0.09,Erik Duenas,Erik Dueñas,LAFC,D,2.0,0.0,34.0,0.0,0.0,0.0,0.0,0.0,0/0,0.0,0.0,0.0,0.0
+7,E. Atuesta,Los Angeles FC,23.0,21.0,3540000.0,2020.0,1.02,Eduard Atuesta,Eduard Atuesta,LAFC,M,17.0,14.0,1326.0,1.0,2.0,32.0,4.0,0.0,1/1,0.0,1.0,0.07,3.1
+8,F. Ginella,Los Angeles FC,22.0,20.0,3540000.0,2020.0,-0.44,Francisco Ginella,Francisco Ginella,LAFC,M,22.0,14.0,1159.0,1.0,4.0,10.0,5.0,1.0,0/0,1.0,0.0,0.08,10.0
+9,J. Cifuentes,Los Angeles FC,21.0,20.0,3540000.0,2020.0,0.51,Jose Cifuentes,Jose Cifuentes,LAFC,M,18.0,13.0,1150.0,1.0,3.0,34.0,10.0,0.0,0/0,1.0,0.0,0.08,2.9
+10,M. Kaye,Los Angeles FC,26.0,23.0,7080000.0,2020.0,1.06,Mark-Anthony Kaye,Mark-Anthony Kaye,LAFC,M,16.0,15.0,1095.0,3.0,4.0,13.0,4.0,0.0,0/0,3.0,0.0,0.25,23.1
+11,B. Duke,Los Angeles FC,20.0,18.0,354000.0,2020.0,-0.69,Bryce Duke,Bryce Duke,LAFC,M,11.0,2.0,234.0,0.0,0.0,3.0,1.0,0.0,0/0,0.0,0.0,0.0,0.0
+12,L. Blessing,Los Angeles FC,24.0,20.0,4720000.0,2020.0,0.41,Latif Blessing,Latif Blessing,LAFC,F,21.0,18.0,1720.0,1.0,4.0,15.0,6.0,0.0,0/0,0.0,1.0,0.05,6.7
+13,D. Rossi,Los Angeles FC,23.0,19.0,23600000.0,2020.0,2.95,Diego Rossi,Diego Rossi,LAFC,F,19.0,19.0,1698.0,14.0,4.0,71.0,34.0,1.0,1/1,11.0,3.0,0.74,19.7
+14,C. Torres,Los Angeles FC,16.0,16.0,413000.0,2020.0,0.15,Christian Torres,Christian Torres,LAFC,F,8.0,2.0,212.0,1.0,0.0,3.0,1.0,0.0,0/0,0.0,1.0,0.42,33.3
+15,R. Edwards,Los Angeles FC,25.0,25.0,354000.0,2020.0,0.33,Raheem Edwards,Raheem Edwards,MIN,M,12.0,2.0,259.0,0.0,3.0,5.0,0.0,0.0,0/0,0.0,0.0,0.0,0.0
+16,C. Vela,Los Angeles FC,32.0,28.0,17700000.0,2020.0,0.23,Carlos Vela,Carlos Vela,LAFC,F,7.0,4.0,422.0,4.0,1.0,22.0,10.0,1.0,0/0,4.0,0.0,0.85,18.2
+17,C. Baird,Los Angeles FC,25.0,24.0,1180000.0,2020.0,-1.79,Corey Baird,Corey Baird,LAFC,F,21.0,17.0,1529.0,2.0,4.0,29.0,4.0,0.0,0/0,0.0,2.0,0.12,6.9
+18,D. Musovski,Los Angeles FC,25.0,24.0,590000.0,2020.0,0.32,Danny Musovski,Danny Musovski,LAFC,F,15.0,6.0,629.0,5.0,1.0,20.0,15.0,1.0,0/0,5.0,0.0,0.72,25.0
+19,K. Opoku,Los Angeles FC,19.0,19.0,177000.0,2020.0,0.17,Kwadwo Opoku,Kwadwo Opoku,LAFC,F,3.0,0.0,52.0,0.0,1.0,1.0,0.0,0.0,0/0,0.0,0.0,0.0,0.0
+20,C. Makoun,Inter Miami CF,21.0,19.0,1180000.0,2020.0,-0.23,Christian Makoun,Christian Makoun,MIA,D,4.0,2.0,187.0,0.0,0.0,0.0,0.0,0.0,0/0,0.0,0.0,0.0,0.0
+21,P. Seagrist,Inter Miami CF,23.0,22.0,206500.0,2020.0,0.49,Patrick Seagrist,Patrick Seagrist,MIA,D,3.0,3.0,246.0,0.0,0.0,0.0,0.0,0.0,0/0,0.0,0.0,0.0,0.0
+22,D. Nealis,Inter Miami CF,22.0,21.0,531000.0,2020.0,-0.11,Dylan Nealis,Dylan Nealis,MIA,D,19.0,10.0,1104.0,0.0,0.0,10.0,1.0,0.0,0/0,0.0,0.0,0.0,0.0
+23,V. Ulloa,Inter Miami CF,29.0,27.0,944000.0,2020.0,-0.65,Victor Ulloa,Victor Ulloa,MIA,M,23.0,17.0,1434.0,0.0,3.0,10.0,1.0,0.0,0/0,0.0,0.0,0.0,0.0
+24,B. Matuidi,Inter Miami CF,33.0,33.0,5900000.0,2020.0,-0.73,Blaise Matuidi,Blaise Matuidi,MIA,M,15.0,14.0,1273.0,1.0,1.0,15.0,2.0,0.0,0/0,0.0,1.0,0.07,6.7
+25,J. Chapman,Inter Miami CF,27.0,25.0,354000.0,2020.0,-0.03,Jay Chapman,Jay Chapman,MIA,M,8.0,2.0,200.0,0.0,0.0,2.0,0.0,0.0,0/0,0.0,0.0,0.0,0.0
+26,L. Morgan,Inter Miami CF,24.0,23.0,3540000.0,2020.0,1.23,Lewis Morgan,Lewis Morgan,MIA,M,23.0,23.0,1952.0,5.0,8.0,56.0,18.0,2.0,1/1,5.0,0.0,0.23,8.9
+27,B. Shea,Inter Miami CF,31.0,30.0,590000.0,2020.0,-0.5,Brek Shea,Brek Shea,MIA,D,13.0,6.0,628.0,4.0,0.0,13.0,6.0,1.0,0/0,1.0,3.0,0.57,30.8
+28,R. Pizarro,Inter Miami CF,27.0,26.0,11800000.0,2020.0,1.78,Rodolfo Pizarro,Rodolfo Pizarro,MIA,M,19.0,17.0,1578.0,4.0,5.0,31.0,11.0,1.0,0/0,1.0,3.0,0.23,12.9
+29,F. Higuaín,Inter Miami CF,36.0,35.0,354000.0,2020.0,0.12,Federico Higuain,Federico Higuain,MIA,F,14.0,0.0,175.0,2.0,0.0,6.0,4.0,0.0,0/0,1.0,1.0,1.03,33.3
+30,M. Pellegrini,Inter Miami CF,20.0,19.0,8260000.0,2020.0,-1.01,Matias Pellegrini,Matias Pellegrini,MIA,M,19.0,12.0,965.0,1.0,4.0,16.0,5.0,0.0,0/0,0.0,1.0,0.09,6.3
+31,G. Higuaín,Inter Miami CF,33.0,32.0,11800000.0,2020.0,-0.36,Gonzalo Higuain,Gonzalo Higuaín,MIA,F,9.0,9.0,802.0,1.0,2.0,35.0,12.0,1.0,0/1,0.0,1.0,0.11,2.9
+32,J. Carranza,Inter Miami CF,20.0,19.0,5900000.0,2020.0,-0.85,Julian Carranza,Julian Carranza,MIA,F,16.0,5.0,542.0,2.0,0.0,12.0,4.0,0.0,0/0,2.0,0.0,0.33,16.7
+33,R. Robinson,Inter Miami CF,22.0,21.0,295000.0,2020.0,-0.21,Robbie Robinson,Robbie Robinson,MIA,F,12.0,4.0,426.0,0.0,1.0,11.0,2.0,0.0,0/0,0.0,0.0,0.0,0.0
+34,M. Robinson,Atlanta United FC,23.0,19.0,3540000.0,2020.0,0.43,Miles Robinson,Miles Robinson,ATL,D,17.0,16.0,1393.0,0.0,0.0,9.0,1.0,0.0,0/0,0.0,0.0,0.0,0.0
+35,G. Campbell,Atlanta United FC,19.0,18.0,177000.0,2020.0,-0.06,George Campbell,George Campbell,ATL,D,1.0,0.0,46.0,0.0,0.0,0.0,0.0,0.0,0/0,0.0,0.0,0.0,0.0
+36,G. Bello,Atlanta United FC,19.0,15.0,2360000.0,2020.0,-0.56,George Bello,George Bello,ATL,D,20.0,19.0,1648.0,1.0,1.0,8.0,2.0,0.0,0/0,0.0,1.0,0.05,12.5
+37,M. Ambrose,Atlanta United FC,27.0,27.0,413000.0,2020.0,-0.21,Mikey Ambrose,Mikey Ambrose,ATL,D,6.0,3.0,302.0,1.0,0.0,1.0,1.0,0.0,0/0,1.0,0.0,0.3,100.0
+38,B. Lennon,Atlanta United FC,23.0,22.0,1003000.0,2020.0,-0.29,Brooks Lennon,Brooks Lennon,ATL,D,23.0,19.0,1751.0,2.0,3.0,14.0,5.0,0.0,0/0,1.0,1.0,0.1,14.3
+39,A. Walkes,Atlanta United FC,24.0,22.0,708000.0,2020.0,-0.51,Anton Walkes,Anton Walkes,ATL,D,17.0,15.0,1335.0,0.0,1.0,7.0,3.0,0.0,0/0,0.0,0.0,0.0,0.0
+40,M. Moreno,Atlanta United FC,25.0,25.0,7080000.0,2020.0,-0.3,Marcelino Moreno,Marcelino Moreno,ATL,M,6.0,5.0,465.0,2.0,1.0,14.0,7.0,0.0,2/2,1.0,1.0,0.39,14.3
+41,E. Hyndman,Atlanta United FC,24.0,23.0,1180000.0,2020.0,-0.65,Emerson Hyndman,Emerson Hyndman,ATL,M,20.0,16.0,1383.0,2.0,2.0,14.0,6.0,2.0,0/0,1.0,1.0,0.13,14.3
+42,M. Rossetto,Atlanta United FC,24.0,23.0,855500.0,2020.0,-1.43,Matheus Rossetto,Matheus Rossetto,ATL,M,15.0,10.0,780.0,0.0,0.0,3.0,1.0,0.0,0/0,0.0,0.0,0.0,0.0
+43,M. Adams,Atlanta United FC,24.0,22.0,531000.0,2020.0,-0.73,Mo Adams,Mo Adams,ATL,M,13.0,9.0,778.0,0.0,1.0,1.0,0.0,0.0,0/0,0.0,0.0,0.0,0.0
+44,J. Mulraney,Atlanta United FC,24.0,23.0,590000.0,2020.0,-1.01,Jake Mulraney,Jake Mulraney,ATL,F,18.0,8.0,707.0,1.0,1.0,9.0,5.0,0.0,0/0,0.0,1.0,0.13,11.1
+45,E. Barco,Atlanta United FC,21.0,18.0,11800000.0,2020.0,-0.27,Ezequiel Barco,Ezequiel Barco,ATL,M,15.0,11.0,1034.0,2.0,3.0,31.0,14.0,0.0,0/1,1.0,1.0,0.17,6.5
+46,J. Damm,Atlanta United FC,28.0,27.0,2360000.0,2020.0,0.47,Jurgen Damm,Jurgen Damm,ATL,M,14.0,7.0,635.0,0.0,4.0,8.0,1.0,0.0,0/0,0.0,0.0,0.0,0.0
+47,T. Wolff,Atlanta United FC,18.0,17.0,118000.0,2020.0,-0.25,Tyler Wolff,Tyler Wolff,ATL,M,5.0,1.0,118.0,0.0,0.0,0.0,0.0,0.0,0/0,0.0,0.0,0.0,0.0
+48,J. Martínez,Atlanta United FC,27.0,23.0,16520000.0,2020.0,-0.35,Josef Martinez,Josef Martinez,ATL,F,1.0,1.0,69.0,0.0,0.0,1.0,0.0,0.0,0/0,0.0,0.0,0.0,0.0
+49,É. Torres,Atlanta United FC,28.0,27.0,590000.0,2020.0,0.11,Erick Torres,Erick Torres,ATL,F,13.0,4.0,492.0,1.0,1.0,15.0,6.0,0.0,0/0,0.0,1.0,0.18,6.7
+50,C. Mavinga,Toronto FC,29.0,25.0,1180000.0,2020.0,-0.31,Chris Mavinga,Chris Mavinga,TOR,D,19.0,17.0,1515.0,0.0,1.0,7.0,1.0,0.0,0/0,0.0,0.0,0.0,0.0
+51,O. González,Toronto FC,32.0,30.0,944000.0,2020.0,-0.07,Omar Gonzalez,Omar Gonzalez,TOR,D,23.0,21.0,1871.0,0.0,0.0,11.0,2.0,0.0,0/0,0.0,0.0,0.0,0.0
+52,E. Zavaleta,Toronto FC,28.0,22.0,560500.0,2020.0,-0.02,Eriq Zavaleta,Eriq Zavaleta,TOR,D,5.0,3.0,282.0,0.0,0.0,0.0,0.0,0.0,0/0,0.0,0.0,0.0,0.0
+53,J. Morrow,Toronto FC,33.0,26.0,472000.0,2020.0,0.49,Justin Morrow,Justin Morrow,TOR,D,15.0,11.0,959.0,0.0,0.0,5.0,1.0,0.0,0/0,0.0,0.0,0.0,0.0
+54,R. Laryea,Toronto FC,26.0,24.0,2360000.0,2020.0,0.61,Richie Laryea,Richie Laryea,TOR,M,20.0,15.0,1398.0,4.0,4.0,13.0,6.0,1.0,0/0,2.0,2.0,0.26,30.8
+55,L. Fraser,Toronto FC,23.0,19.0,1180000.0,2020.0,0.03,Liam Fraser,Liam Fraser,TOR,M,13.0,4.0,436.0,0.0,0.0,3.0,0.0,0.0,0/0,0.0,0.0,0.0,0.0
+56,N. Okello,Toronto FC,20.0,18.0,236000.0,2020.0,0.02,Noble Okello,Noble Okello,TOR,M,1.0,0.0,22.0,0.0,0.0,0.0,0.0,0.0,0/0,0.0,0.0,0.0,0.0
+57,J. Osorio,Toronto FC,28.0,20.0,7080000.0,2020.0,0.63,Jonathan Osorio,Jonathan Osorio,TOR,M,17.0,17.0,1408.0,1.0,3.0,18.0,6.0,0.0,0/0,0.0,1.0,0.06,5.6
+58,M. Bradley,Toronto FC,33.0,26.0,944000.0,2020.0,0.56,Michael Bradley,Michael Bradley,TOR,M,12.0,11.0,1060.0,0.0,1.0,7.0,2.0,0.0,0/0,0.0,0.0,0.0,0.0
+59,A. Pozuelo,Toronto FC,29.0,27.0,14160000.0,2020.0,0.08,Alejandro Pozuelo,Alejandro Pozuelo,TOR,M,23.0,23.0,2015.0,9.0,10.0,52.0,25.0,5.0,5/5,4.0,5.0,0.4,17.3
+60,J. Nelson,Toronto FC,18.0,17.0,1180000.0,2020.0,-0.54,Jayden Nelson,Jayden Nelson,TOR,F,7.0,1.0,141.0,0.0,0.0,3.0,0.0,0.0,0/0,0.0,0.0,0.0,0.0
+61,J. Shaffelburg,Toronto FC,21.0,19.0,236000.0,2020.0,-0.13,Jacob Shaffelburg,Jacob Shaffelburg,TOR,M-F,4.0,1.0,125.0,0.0,0.0,1.0,0.0,0.0,0/0,0.0,0.0,0.0,0.0
+62,E. Gallardo,Toronto FC,24.0,22.0,649000.0,2020.0,-0.12,Erickson Gallardo,Erickson Gallardo,TOR,F-M,5.0,2.0,162.0,0.0,0.0,4.0,2.0,0.0,0/0,0.0,0.0,0.0,0.0
+63,T. Endoh,Toronto FC,27.0,25.0,649000.0,2020.0,-0.62,Tsubasa Endoh,Tsubasa Endoh,TOR,M,17.0,7.0,615.0,1.0,0.0,11.0,4.0,0.0,0/0,0.0,1.0,0.15,9.1
+64,G. Dorsey,Toronto FC,22.0,19.0,236000.0,2020.0,-0.05,Griffin Dorsey,Griffin Dorsey,TOR,M,1.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0/0,0.0,0.0,0.0,0.0
+65,A. Akinola,Toronto FC,21.0,17.0,5900000.0,2020.0,1.46,Ayo Akinola,Ayo Akinola,TOR,F,15.0,11.0,1063.0,9.0,0.0,36.0,18.0,2.0,0/0,4.0,5.0,0.76,25.0
+66,J. Altidore,Toronto FC,31.0,25.0,2360000.0,2020.0,0.48,Jozy Altidore,Jozy Altidore,TOR,F,13.0,10.0,746.0,2.0,1.0,28.0,14.0,1.0,0/0,1.0,1.0,0.24,7.1
+67,P. Mullins,Toronto FC,29.0,27.0,413000.0,2020.0,-1.07,Patrick Mullins,Patrick Mullins,TOR,F,16.0,4.0,416.0,1.0,1.0,8.0,4.0,1.0,0/0,0.0,1.0,0.22,12.5
+68,J. Mensah,Columbus Crew SC,30.0,26.0,1180000.0,2020.0,-0.29,Jonathan Mensah,Jonathan Mensah,CLB,D,23.0,23.0,2070.0,0.0,0.0,10.0,4.0,0.0,0/0,0.0,0.0,0.0,0.0
+69,A. Keita,Columbus Crew SC,20.0,18.0,1180000.0,2020.0,-0.56,Aboubacar Keita,Aboubacar Keita,CLB,D,11.0,10.0,942.0,0.0,0.0,0.0,0.0,0.0,0/0,0.0,0.0,0.0,0.0
+70,V. Wormgoor,Columbus Crew SC,32.0,31.0,826000.0,2020.0,-0.09,Vito Wormgoor,Vito Wormgoor,CLB,D,2.0,2.0,107.0,0.0,0.0,0.0,0.0,0.0,0/0,0.0,0.0,0.0,0.0
+71,J. Williams,Columbus Crew SC,32.0,28.0,531000.0,2020.0,0.9,Josh Williams,Josh Williams,CLB,D,12.0,11.0,1021.0,0.0,1.0,4.0,2.0,0.0,0/0,0.0,0.0,0.0,0.0
+72,M. Valenzuela,Columbus Crew SC,22.0,20.0,1180000.0,2020.0,0.25,Milton Valenzuela,Milton Valenzuela,CLB,D,19.0,17.0,1448.0,0.0,3.0,9.0,1.0,0.0,0/0,0.0,0.0,0.0,0.0
+73,W. Francis,Columbus Crew SC,30.0,28.0,590000.0,2020.0,0.28,Waylon Francis,Waylon Francis,CLB,D,4.0,2.0,196.0,0.0,0.0,0.0,0.0,0.0,0/0,0.0,0.0,0.0,0.0
+74,H. Afful,Columbus Crew SC,34.0,29.0,472000.0,2020.0,-0.54,Harrison Afful,Harrison Afful,CLB,D,21.0,20.0,1795.0,1.0,2.0,11.0,3.0,0.0,0/0,0.0,1.0,0.05,9.1
+75,P. Kitchen,Columbus Crew SC,29.0,28.0,944000.0,2020.0,-1.64,Perry Kitchen,Perry Kitchen,CLB,M,21.0,19.0,1723.0,0.0,0.0,2.0,0.0,0.0,0/0,0.0,0.0,0.0,0.0
+76,D. Nagbe,Columbus Crew SC,30.0,29.0,3540000.0,2020.0,-0.82,Darlington Nagbe,Darlington Nagbe,CLB,M,15.0,14.0,1199.0,1.0,1.0,5.0,3.0,0.0,0/0,1.0,0.0,0.08,20.0
+77,A. Morris,Columbus Crew SC,19.0,18.0,708000.0,2020.0,-0.14,Aidan Morris,Aidan Morris,CLB,M,10.0,2.0,360.0,0.0,0.0,2.0,0.0,0.0,0/0,0.0,0.0,0.0,0.0
+78,L. Díaz,Columbus Crew SC,22.0,20.0,944000.0,2020.0,0.81,Luis Diaz,Luis Diaz,CLB,M,21.0,14.0,1178.0,0.0,3.0,31.0,13.0,0.0,0/0,0.0,0.0,0.0,0.0
+79,L. Zelarayán,Columbus Crew SC,28.0,27.0,11800000.0,2020.0,-1.96,Lucas Zelarayan,Lucas Zelarayan,CLB,M,16.0,12.0,1039.0,6.0,4.0,23.0,10.0,3.0,0/1,5.0,1.0,0.52,26.1
+80,K. Molino,Columbus Crew SC,30.0,30.0,2360000.0,2020.0,1.57,Kevin Molino,Kevin Molino,CLB,M,18.0,15.0,1264.0,9.0,4.0,38.0,17.0,3.0,1/1,5.0,4.0,0.64,23.7
+81,P. Santos,Columbus Crew SC,32.0,29.0,2360000.0,2020.0,-0.1,Pedro Santos,Pedro Santos,CLB,M,22.0,22.0,1841.0,6.0,8.0,44.0,16.0,4.0,1/1,4.0,2.0,0.29,13.6
+82,M. Hairston,Columbus Crew SC,26.0,26.0,708000.0,2020.0,-0.13,Marlon Hairston,Marlon Hairston,CLB,M,9.0,4.0,405.0,0.0,0.0,2.0,0.0,0.0,0/0,0.0,0.0,0.0,0.0
+83,G. Zardes,Columbus Crew SC,29.0,26.0,3540000.0,2020.0,0.86,Gyasi Zardes,Gyasi Zardes,CLB,F,21.0,20.0,1717.0,12.0,4.0,41.0,19.0,2.0,0/2,8.0,4.0,0.63,29.3
+84,B. Dibassy,Minnesota United FC,31.0,31.0,2360000.0,2020.0,0.7,Bakaye Dibassy,Bakaye Dibassy,MIN,D,11.0,10.0,858.0,0.0,0.0,7.0,1.0,0.0,0/0,0.0,0.0,0.0,0.0
+85,I. Opara,Minnesota United FC,32.0,29.0,1180000.0,2020.0,0.02,Ike Opara,Ike Opara,MIN,D,2.0,2.0,180.0,2.0,0.0,2.0,2.0,0.0,0/0,0.0,2.0,1.0,100.0
+86,M. Boxall,Minnesota United FC,32.0,28.0,767000.0,2020.0,0.93,Michael Boxall,Michael Boxall,MIN,D,19.0,19.0,1710.0,0.0,0.0,8.0,3.0,0.0,0/0,0.0,0.0,0.0,0.0
+87,B. Kallman,Minnesota United FC,30.0,26.0,354000.0,2020.0,-0.33,Brent Kallman,Brent Kallman,MIN,D,4.0,3.0,271.0,0.0,0.0,1.0,1.0,0.0,0/0,0.0,0.0,0.0,0.0
+88,C. Gasper,Minnesota United FC,25.0,22.0,2360000.0,2020.0,-1.21,Chase Gasper,Chase Gasper,MIN,D,18.0,16.0,1491.0,1.0,1.0,17.0,6.0,1.0,0/0,1.0,0.0,0.06,5.9
+89,J. Raitala,Minnesota United FC,32.0,32.0,590000.0,2020.0,0.28,Jukka Raitala,Jukka Raitala,MIN,D,15.0,15.0,1350.0,0.0,0.0,4.0,3.0,0.0,0/0,0.0,0.0,0.0,0.0
+90,R. Métanire,Minnesota United FC,30.0,28.0,1180000.0,2020.0,0.86,Romain Metanire,Romain Metanire,MIN,D,20.0,20.0,1786.0,0.0,4.0,6.0,2.0,0.0,0/0,0.0,0.0,0.0,0.0
+91,N. Billingsley,Minnesota United FC,23.0,22.0,118000.0,2020.0,-0.11,Noah Billingsley,Noah Billingsley,MIN,D,1.0,0.0,6.0,0.0,0.0,0.0,0.0,0.0,0/0,0.0,0.0,0.0,0.0
+92,W. Trapp,Minnesota United FC,28.0,27.0,2360000.0,2020.0,-0.3,Wil Trapp,Wil Trapp,MIN,M,21.0,16.0,1368.0,0.0,0.0,5.0,2.0,0.0,0/0,0.0,0.0,0.0,0.0
+93,J. Gregus,Minnesota United FC,30.0,27.0,3540000.0,2020.0,0.73,Jan Gregus,Jan Gregus,MIN,M,18.0,18.0,1599.0,1.0,6.0,35.0,8.0,0.0,0/0,0.0,1.0,0.06,2.9
+94,H. Dotson,Minnesota United FC,23.0,21.0,2360000.0,2020.0,-1.33,Hassani Dotson,Hassani Dotson,MIN,M-D,18.0,12.0,1211.0,1.0,1.0,19.0,7.0,0.0,0/0,0.0,1.0,0.07,5.3
+95,J. Hayes,Minnesota United FC,25.0,24.0,590000.0,2020.0,0.41,Jacori Hayes,Jacori Hayes,MIN,M,11.0,6.0,602.0,1.0,1.0,4.0,1.0,0.0,0/0,1.0,0.0,0.15,25.0
+96,R. Lod,Minnesota United FC,27.0,26.0,3540000.0,2020.0,0.94,Robin Lod,Robin Lod,MIN,M,20.0,18.0,1585.0,7.0,5.0,40.0,13.0,0.0,0/0,4.0,3.0,0.4,17.5
+97,E. Reynoso,Minnesota United FC,25.0,24.0,11800000.0,2020.0,0.6,Emanuel Reynoso,Emanuel Reynoso,MIN,M,13.0,9.0,826.0,1.0,7.0,22.0,7.0,0.0,0/0,1.0,0.0,0.11,4.5
+98,T. Chacón,Minnesota United FC,20.0,18.0,1180000.0,2020.0,-0.3,Thomas Chacon,Thomas Chacon,MIN,M,4.0,1.0,172.0,0.0,0.0,1.0,1.0,0.0,0/0,0.0,0.0,0.0,0.0
+99,E. Finlay,Minnesota United FC,30.0,27.0,1180000.0,2020.0,0.33,Ethan Finlay,Ethan Finlay,MIN,M,14.0,12.0,961.0,4.0,2.0,18.0,9.0,0.0,0/0,2.0,2.0,0.37,22.2
+100,J. Agudelo,Minnesota United FC,28.0,28.0,1180000.0,2020.0,0.1,Juan Agudelo,Juan Agudelo,MIN,F,14.0,9.0,842.0,3.0,0.0,19.0,4.0,0.0,0/0,1.0,2.0,0.32,15.8
+101,F. Langsdorf,Minnesota United FC,25.0,24.0,472000.0,2020.0,-0.03,Foster Langsdorf,Foster Langsdorf,MIN,M,1.0,0.0,10.0,0.0,0.0,0.0,0.0,0.0,0/0,0.0,0.0,0.0,0.0
+102,X. Arreaga,Seattle Sounders FC,26.0,24.0,1180000.0,2020.0,-0.8,Xavier Arreaga,Xavier Arreaga,SEA,D,14.0,13.0,1147.0,0.0,2.0,3.0,1.0,0.0,0/0,0.0,0.0,0.0,0.0
+103,N. Tolo,Seattle Sounders FC,23.0,19.0,1180000.0,2020.0,-0.21,Nouhou Tolo,Nouhou Tolo,SEA,D,22.0,16.0,1402.0,0.0,2.0,10.0,3.0,0.0,0/0,0.0,0.0,0.0,0.0
+104,B. Smith,Seattle Sounders FC,26.0,26.0,944000.0,2020.0,0.08,Brad Smith,Brad Smith,SEA,D,5.0,1.0,148.0,0.0,0.0,2.0,1.0,0.0,0/0,0.0,0.0,0.0,0.0
+105,J. Medranda,Seattle Sounders FC,27.0,26.0,708000.0,2020.0,0.1,Jimmy Medranda,Jimmy Medranda,SEA,D,3.0,0.0,20.0,0.0,0.0,1.0,1.0,0.0,0/0,0.0,0.0,0.0,0.0
+106,K. Leerdam,Seattle Sounders FC,30.0,27.0,1180000.0,2020.0,0.95,Kelvin Leerdam,Kelvin Leerdam,SEA,D,21.0,19.0,1551.0,3.0,3.0,18.0,3.0,0.0,0/0,2.0,1.0,0.17,16.7
+107,A. Roldán,Seattle Sounders FC,24.0,21.0,590000.0,2020.0,0.1,Alex Roldan,Alex Roldan,SEA,M,18.0,3.0,571.0,0.0,1.0,3.0,0.0,0.0,0/0,0.0,0.0,0.0,0.0
+108,J. Delem,Seattle Sounders FC,27.0,23.0,944000.0,2020.0,-0.2,Jordy Delem,Jordy Delem,SEA,M,17.0,9.0,737.0,0.0,1.0,3.0,0.0,0.0,0/0,0.0,0.0,0.0,0.0
+109,D. Leyva,Seattle Sounders FC,17.0,15.0,590000.0,2020.0,-0.07,Danny Leyva,Danny Leyva,SEA,M,2.0,1.0,56.0,0.0,0.0,0.0,0.0,0.0,0/0,0.0,0.0,0.0,0.0
+110,J. Atencio,Seattle Sounders FC,19.0,18.0,295000.0,2020.0,-0.11,Josh Atencio,Josh Atencio,SEA,M,5.0,0.0,11.0,0.0,0.0,0.0,0.0,0.0,0/0,0.0,0.0,0.0,0.0
+111,C. Roldán,Seattle Sounders FC,25.0,19.0,5900000.0,2020.0,-0.24,Cristian Roldan,Cristian Roldan,SEA,M,22.0,21.0,1890.0,2.0,5.0,27.0,10.0,0.0,0/0,0.0,2.0,0.1,7.4
+112,K. Rowe,Seattle Sounders FC,29.0,29.0,708000.0,2020.0,0.19,Kelyn Rowe,Kelyn Rowe,SEA,M,16.0,10.0,896.0,0.0,0.0,17.0,4.0,0.0,0/0,0.0,0.0,0.0,0.0
+113,E. Dobbelaere,Seattle Sounders FC,18.0,17.0,118000.0,2020.0,-0.05,Ethan Dobbelaere,Ethan Dobbelaere,SEA,M,1.0,1.0,54.0,0.0,0.0,1.0,0.0,0.0,0/0,0.0,0.0,0.0,0.0
+114,N. Lodeiro,Seattle Sounders FC,31.0,27.0,5900000.0,2020.0,0.69,Nicolas Lodeiro,Nicolás Lodeiro,SEA,M,20.0,20.0,1782.0,7.0,10.0,40.0,18.0,2.0,4/4,4.0,3.0,0.35,17.5
+115,J. Paulo,Seattle Sounders FC,29.0,29.0,2360000.0,2020.0,1.39,Joao Paulo,João Paulo,SEA,M,19.0,17.0,1501.0,2.0,5.0,16.0,6.0,0.0,0/0,2.0,0.0,0.12,12.5
+116,S. Hopeau,Seattle Sounders FC,22.0,21.0,236000.0,2020.0,-0.18,Shandon Hopeau,Shandon Hopeau,SEA,F,5.0,1.0,81.0,0.0,0.0,1.0,0.0,0.0,0/0,0.0,0.0,0.0,0.0
+117,R. Ruidíaz,Seattle Sounders FC,30.0,27.0,8260000.0,2020.0,-1.31,Raul Ruidiaz,Raul Ruidiaz,SEA,F,17.0,17.0,1427.0,12.0,4.0,55.0,23.0,4.0,1/1,8.0,4.0,0.76,21.8
+118,F. Montero,Seattle Sounders FC,33.0,33.0,944000.0,2020.0,1.1,Fredy Montero,Fredy Montero,SEA,F,16.0,11.0,1059.0,5.0,5.0,31.0,13.0,0.0,2/2,4.0,1.0,0.42,16.1
+119,W. Bruin,Seattle Sounders FC,31.0,27.0,590000.0,2020.0,-0.35,Will Bruin,Will Bruin,SEA,F,15.0,5.0,558.0,1.0,1.0,13.0,4.0,0.0,0/0,1.0,0.0,0.16,7.7
+120,A. Carlos,Orlando City SC,27.0,27.0,1180000.0,2020.0,-0.29,Antonio Carlos,Antonio Carlos,ORL,D,20.0,18.0,1634.0,1.0,1.0,8.0,2.0,0.0,0/0,1.0,0.0,0.06,12.5
+121,R. Jansson,Orlando City SC,29.0,27.0,885000.0,2020.0,-0.53,Robin Jansson,Robin Jansson,ORL,D,22.0,22.0,1980.0,0.0,0.0,4.0,1.0,0.0,0/0,0.0,0.0,0.0,0.0
+122,R. Schlegel,Orlando City SC,23.0,23.0,590000.0,2020.0,-0.66,Rodrigo Schlegel,Rodrigo Schlegel,ORL,D,10.0,7.0,645.0,0.0,0.0,1.0,0.0,0.0,0/0,0.0,0.0,0.0,0.0
+123,J. Moutinho,Orlando City SC,23.0,20.0,944000.0,2020.0,0.2,Joao Moutinho,Joao Moutinho,ORL,D,8.0,8.0,685.0,0.0,2.0,7.0,1.0,0.0,0/0,0.0,0.0,0.0,0.0
+124,K. Smith,Orlando City SC,29.0,26.0,590000.0,2020.0,0.56,Kyle Smith,Kyle Smith,ORL,D,16.0,11.0,1026.0,0.0,1.0,8.0,5.0,0.0,0/0,0.0,0.0,0.0,0.0
+125,A. Perea,Orlando City SC,20.0,20.0,3540000.0,2020.0,-1.1,Andres Perea,Andres Perea,ORL,M,23.0,11.0,1190.0,0.0,2.0,16.0,3.0,0.0,0/0,0.0,0.0,0.0,0.0
+126,O. Rosell,Orlando City SC,28.0,25.0,708000.0,2020.0,-0.13,Oriol Rosell,Oriol Rosell,ORL,M-D,8.0,8.0,585.0,0.0,0.0,0.0,0.0,0.0,0/0,0.0,0.0,0.0,0.0
+127,J. Urso,Orlando City SC,31.0,30.0,1180000.0,2020.0,-0.01,Junior Urso,Junior Urso,ORL,M,23.0,20.0,1708.0,3.0,2.0,33.0,13.0,1.0,0/0,2.0,1.0,0.16,9.1
+128,J. Bender,Orlando City SC,19.0,18.0,147500.0,2020.0,-0.26,Jordan Bender,Jordan Bender,ORL,M,2.0,1.0,46.0,0.0,0.0,1.0,0.0,0.0,0/0,0.0,0.0,0.0,0.0
+129,M. Pereyra,Orlando City SC,30.0,29.0,4720000.0,2020.0,-0.36,Mauricio Pereyra,Mauricio Pereyra,ORL,M,16.0,14.0,1107.0,2.0,8.0,9.0,4.0,1.0,0/0,1.0,1.0,0.16,22.2
+130,A. Alvarado,Orlando City SC,21.0,21.0,2360000.0,2020.0,0.01,Alexander Alvarado,Alexander Alvarado,ORL,F,2.0,0.0,25.0,0.0,0.0,0.0,0.0,0.0,0/0,0.0,0.0,0.0,0.0
+131,C. Mueller,Orlando City SC,24.0,21.0,3540000.0,2020.0,1.8,Chris Mueller,Chris Mueller,ORL,F,22.0,17.0,1477.0,10.0,7.0,36.0,19.0,3.0,0/0,8.0,2.0,0.61,27.8
+132,B. Michel,Orlando City SC,23.0,21.0,1180000.0,2020.0,-0.43,Benji Michel,Benji Michel,ORL,F,21.0,8.0,840.0,5.0,2.0,16.0,10.0,2.0,0/0,3.0,2.0,0.54,31.3
+133,T. Akindele,Orlando City SC,28.0,26.0,708000.0,2020.0,-0.71,Tesho Akindele,Tesho Akindele,ORL,F-M,17.0,8.0,821.0,3.0,0.0,12.0,6.0,0.0,0/0,2.0,1.0,0.33,25.0
+134,M. Aiás,Orlando City SC,24.0,23.0,649000.0,2020.0,-0.17,Matheus Aias,Matheus Aias,ORL,F,4.0,0.0,18.0,1.0,0.0,1.0,1.0,0.0,0/0,1.0,0.0,5.0,100.0
+135,D. Loera,Orlando City SC,22.0,21.0,118000.0,2020.0,-0.04,David Loera,David Loera,ORL,M,2.0,0.0,15.0,0.0,0.0,0.0,0.0,0.0,0/0,0.0,0.0,0.0,0.0
+136,D. Zuparic,Portland Timbers,28.0,27.0,1180000.0,2020.0,0.52,Dario Zuparic,Dario Zuparic,POR,D,19.0,18.0,1611.0,0.0,0.0,4.0,4.0,0.0,0/0,0.0,0.0,0.0,0.0
+137,B. Tuiloma,Portland Timbers,25.0,22.0,944000.0,2020.0,0.05,Bill Tuiloma,Bill Tuiloma,POR,D-M,12.0,9.0,824.0,1.0,1.0,12.0,3.0,0.0,0/0,0.0,1.0,0.11,8.3
+138,L. Mabiala,Portland Timbers,33.0,29.0,708000.0,2020.0,-0.47,Larrys Mabiala,Larrys Mabiala,POR,D,17.0,15.0,1311.0,1.0,1.0,6.0,2.0,0.0,0/0,0.0,1.0,0.07,16.7
+139,P. Bonilla,Portland Timbers,21.0,20.0,590000.0,2020.0,-0.1,Pablo Bonilla,Pablo Bonilla,POR,D,12.0,10.0,888.0,0.0,1.0,4.0,0.0,0.0,0/0,0.0,0.0,0.0,0.0
+140,E. Williamson,Portland Timbers,23.0,20.0,1180000.0,2020.0,0.95,Eryk Williamson,Eryk Williamson,POR,M,21.0,17.0,1417.0,3.0,5.0,16.0,5.0,0.0,0/0,1.0,2.0,0.19,18.8
+141,C. Paredes,Portland Timbers,22.0,21.0,708000.0,2020.0,-0.19,Cristhian Paredes,Cristhian Paredes,POR,M,17.0,9.0,822.0,0.0,0.0,10.0,4.0,0.0,0/0,0.0,0.0,0.0,0.0
+142,D. Chará,Portland Timbers,34.0,25.0,472000.0,2020.0,1.6,Diego Chara,Diego Chara,POR,M,20.0,20.0,1799.0,1.0,6.0,3.0,1.0,0.0,0/0,1.0,0.0,0.05,33.3
+143,R. Zambrano,Portland Timbers,26.0,24.0,354000.0,2020.0,-0.03,Renzo Zambrano,Renzo Zambrano,POR,M,5.0,1.0,98.0,0.0,0.0,0.0,0.0,0.0,0/0,0.0,0.0,0.0,0.0
+144,D. Váleri,Portland Timbers,34.0,27.0,2360000.0,2020.0,0.82,Diego Valeri,Diego Valeri,POR,M,22.0,18.0,1628.0,8.0,7.0,39.0,16.0,3.0,3/3,5.0,3.0,0.44,20.5
+145,S. Blanco,Portland Timbers,32.0,28.0,2360000.0,2020.0,0.43,Sebastian Blanco,Sebastian Blanco,POR,M-F,9.0,8.0,665.0,2.0,5.0,22.0,7.0,1.0,0/0,1.0,1.0,0.27,9.1
+146,Y. Chará,Portland Timbers,29.0,28.0,4720000.0,2020.0,-0.29,Yimmi Chara,Yimmi Chara,POR,M,21.0,12.0,1233.0,4.0,8.0,23.0,12.0,2.0,0/0,2.0,2.0,0.29,17.4
+147,A. Polo,Portland Timbers,26.0,24.0,2360000.0,2020.0,-1.1,Andy Polo,Andy Polo,POR,M,16.0,7.0,750.0,1.0,2.0,9.0,2.0,0.0,0/0,1.0,0.0,0.12,11.1
+148,M. Loría,Portland Timbers,23.0,21.0,708000.0,2020.0,-0.82,Marvin Loria,Marvin Loria,POR,M,17.0,9.0,712.0,0.0,2.0,15.0,6.0,0.0,0/0,0.0,0.0,0.0,0.0
+149,D. Asprilla,Portland Timbers,28.0,22.0,590000.0,2020.0,0.37,Dairon Asprilla,Dairon Asprilla,POR,M-F,3.0,0.0,46.0,0.0,0.0,2.0,0.0,0.0,0/0,0.0,0.0,0.0,0.0
+150,T. Conechny,Portland Timbers,22.0,21.0,708000.0,2020.0,-0.37,Tomas Conechny,Tomas Conechny,POR,M,8.0,3.0,182.0,0.0,0.0,4.0,1.0,0.0,0/0,0.0,0.0,0.0,0.0
+151,F. Mora,Portland Timbers,27.0,27.0,4720000.0,2020.0,0.95,Felipe Mora,Felipe Mora,POR,F,19.0,13.0,1204.0,7.0,2.0,32.0,17.0,3.0,0/0,3.0,4.0,0.52,21.9
+152,J. Niezgoda,Portland Timbers,25.0,24.0,4720000.0,2020.0,-0.5,Jaroslaw Niezgoda,Jaroslaw Niezgoda,POR,F,17.0,7.0,602.0,7.0,1.0,12.0,9.0,1.0,0/0,5.0,2.0,1.05,58.3
+153,J. Ebobisse,Portland Timbers,24.0,19.0,2360000.0,2020.0,0.48,Jeremy Ebobisse,Jeremy Ebobisse,POR,F,18.0,11.0,1062.0,8.0,2.0,32.0,14.0,1.0,0/0,2.0,6.0,0.68,25.0
+154,A. Callens,New York City FC,28.0,24.0,1180000.0,2020.0,-0.1,Alexander Callens,Alexander Callens,NYC,D,22.0,22.0,1934.0,2.0,0.0,9.0,3.0,0.0,0/0,1.0,1.0,0.09,22.2
+155,M. Chanot,New York City FC,31.0,26.0,1180000.0,2020.0,0.66,Maxime Chanot,Maxime Chanot,NYC,D,20.0,20.0,1712.0,0.0,0.0,19.0,4.0,0.0,0/0,0.0,0.0,0.0,0.0
+156,S. Ibeagha,New York City FC,29.0,26.0,590000.0,2020.0,-0.2,Sebastien Ibeagha,Sebastien Ibeagha,NYC,D,7.0,2.0,282.0,0.0,0.0,0.0,0.0,0.0,0/0,0.0,0.0,0.0,0.0
+157,A. Tinnerholm,New York City FC,30.0,26.0,2360000.0,2020.0,2.85,Anton Tinnerholm,Anton Tinnerholm,NYC,D,23.0,22.0,2001.0,4.0,4.0,21.0,6.0,2.0,0/0,3.0,1.0,0.18,19.0
+158,K. Parks,New York City FC,23.0,22.0,3540000.0,2020.0,1.08,Keaton Parks,Keaton Parks,NYC,M,23.0,20.0,1733.0,3.0,1.0,40.0,16.0,0.0,0/0,2.0,1.0,0.16,7.5
+159,J. Sands,New York City FC,20.0,16.0,2360000.0,2020.0,0.12,James Sands,James Sands,NYC,M,16.0,16.0,1409.0,0.0,1.0,5.0,0.0,0.0,0/0,0.0,0.0,0.0,0.0
+160,N. Acevedo,New York City FC,21.0,20.0,2360000.0,2020.0,-0.62,Nicolas Acevedo,Nicolas Acevedo,NYC,M,12.0,1.0,128.0,0.0,0.0,0.0,0.0,0.0,0/0,0.0,0.0,0.0,0.0
+161,J. Torres,New York City FC,21.0,19.0,177000.0,2020.0,0.0,Juan Pablo Torres,Juan Pablo Torres,NYC,M,2.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0/0,0.0,0.0,0.0,0.0
+162,G. Thórarinsson,New York City FC,28.0,27.0,944000.0,2020.0,-0.32,Gudmundur Thorarinsson,Gudmundur Thórarinsson,NYC,D,19.0,7.0,683.0,0.0,1.0,5.0,1.0,0.0,0/0,0.0,0.0,0.0,0.0
+163,T. Rocha,New York City FC,27.0,25.0,531000.0,2020.0,0.29,Tony Rocha,Tony Rocha,NYC,M,11.0,0.0,51.0,1.0,0.0,3.0,1.0,0.0,0/0,1.0,0.0,1.76,33.3
+164,M. Moralez,New York City FC,34.0,29.0,1180000.0,2020.0,0.65,Maximiliano Moralez,Maximiliano Moralez,NYC,M,13.0,10.0,875.0,1.0,4.0,13.0,7.0,1.0,0/0,1.0,0.0,0.1,7.7
+165,J. Medina,New York City FC,23.0,20.0,3540000.0,2020.0,-0.88,Jesus Medina,Jesus Medina,NYC,M,22.0,18.0,1495.0,5.0,2.0,32.0,16.0,1.0,0/0,2.0,3.0,0.3,15.6
+166,I. Tajouri-ShradiI,New York City FC,26.0,23.0,1180000.0,2020.0,-0.19,Ismael Tajouri-Shradi,Ismael Tajouri-Shradi,NYC,F,15.0,6.0,670.0,3.0,1.0,21.0,8.0,2.0,1/1,2.0,1.0,0.4,14.3
+167,V. Castellanos,New York City FC,22.0,20.0,4720000.0,2020.0,1.75,Valentin Castellanos,Valentin Castellanos,NYC,F,22.0,14.0,1341.0,6.0,3.0,75.0,34.0,1.0,2/2,4.0,2.0,0.4,8.0
+168,W. Zimmerman,Nashville SC,27.0,26.0,3540000.0,2020.0,0.71,Walker Zimmerman,Walker Zimmerman,NSH,D,22.0,22.0,1955.0,3.0,1.0,19.0,9.0,0.0,0/0,2.0,1.0,0.14,15.8
+169,D. Romney,Nashville SC,27.0,26.0,708000.0,2020.0,0.08,Dave Romney,Dave Romney,NSH,D,23.0,23.0,2070.0,1.0,2.0,12.0,3.0,0.0,0/0,0.0,1.0,0.04,8.3
+170,J. Anibaba,Nashville SC,32.0,31.0,472000.0,2020.0,-0.16,Jalil Anibaba,Jalil Anibaba,NSH,D,12.0,6.0,582.0,0.0,0.0,5.0,2.0,0.0,0/0,0.0,0.0,0.0,0.0
+171,J. Maher,Nashville SC,21.0,20.0,177000.0,2020.0,0.06,Jack Maher,Jack Maher,NSH,D,3.0,2.0,127.0,0.0,0.0,0.0,0.0,0.0,0/0,0.0,0.0,0.0,0.0
+172,D. Lovitz,Nashville SC,29.0,28.0,1180000.0,2020.0,0.35,Daniel Lovitz,Daniel Lovitz,NSH,D,21.0,21.0,1890.0,1.0,2.0,8.0,1.0,0.0,0/0,0.0,1.0,0.05,12.5
+173,T. Washington,Nashville SC,27.0,26.0,413000.0,2020.0,-0.13,Taylor Washington,Taylor Washington,NSH,D,14.0,2.0,389.0,0.0,1.0,1.0,0.0,0.0,0/0,0.0,0.0,0.0,0.0
+174,A. Johnston,Nashville SC,22.0,21.0,2360000.0,2020.0,-0.15,Alistair Johnston,Alistair Johnston,NSH,D,18.0,15.0,1366.0,0.0,1.0,4.0,3.0,0.0,0/0,0.0,0.0,0.0,0.0
+175,E. Miller,Nashville SC,28.0,26.0,472000.0,2020.0,-0.33,Eric Miller,Eric Miller,NSH,D,6.0,5.0,435.0,0.0,0.0,1.0,0.0,0.0,0/0,0.0,0.0,0.0,0.0
+176,A. Godoy,Nashville SC,31.0,29.0,708000.0,2020.0,0.03,Anibal Godoy,Anibal Godoy,NSH,M-D,20.0,18.0,1494.0,1.0,0.0,23.0,8.0,1.0,0/0,1.0,0.0,0.06,4.3
+177,H. Mukhtar,Nashville SC,25.0,24.0,7080000.0,2020.0,-0.94,Hany Mukhtar,Hany Mukhtar,NSH,M,15.0,13.0,1092.0,4.0,4.0,32.0,13.0,0.0,0/1,1.0,3.0,0.33,12.5
+178,R. Leal,Nashville SC,24.0,22.0,3540000.0,2020.0,-0.16,Randall Leal,Randall Leal,NSH,F-M,21.0,19.0,1615.0,3.0,4.0,41.0,18.0,2.0,0/0,2.0,1.0,0.17,7.3
+179,H. Bwana,Nashville SC,21.0,21.0,1180000.0,2020.0,1.01,Handwalla Bwana,Handwalla Bwana,NSH,M,7.0,2.0,217.0,1.0,1.0,5.0,3.0,0.0,0/0,0.0,1.0,0.41,20.0
+180,A. Muyl,Nashville SC,25.0,24.0,944000.0,2020.0,-1.56,Alex Muyl,Alex Muyl,NSH,M,20.0,15.0,1152.0,0.0,2.0,17.0,5.0,0.0,0/0,0.0,0.0,0.0,0.0
+181,J. Cádiz,Nashville SC,25.0,25.0,3540000.0,2020.0,-0.11,Jhonder Cadiz,Jhonder Cadiz,NSH,F,7.0,0.0,219.0,2.0,0.0,15.0,6.0,1.0,0/0,1.0,1.0,0.82,13.3
+182,D. Ríos,Nashville SC,26.0,23.0,2360000.0,2020.0,0.38,Daniel Rios,Daniel Rios,NSH,F,18.0,8.0,697.0,4.0,0.0,25.0,8.0,1.0,0/0,4.0,0.0,0.52,16.0
+183,D. Badji,Nashville SC,28.0,27.0,944000.0,2020.0,-0.08,Dominique Badji,Dominique Badji,NSH,F,12.0,10.0,750.0,1.0,1.0,18.0,5.0,0.0,0/0,1.0,0.0,0.12,5.6
+184,A. Danladi,Nashville SC,25.0,24.0,708000.0,2020.0,-0.3,Abu Danladi,Abu Danladi,NSH,F,17.0,7.0,575.0,2.0,1.0,17.0,4.0,1.0,0/0,1.0,1.0,0.31,11.8
+185,A. Trusty,Colorado Rapids,22.0,21.0,1180000.0,2020.0,-0.15,Auston Trusty,Auston Trusty,COL,D,8.0,5.0,525.0,0.0,1.0,3.0,1.0,0.0,0/0,0.0,0.0,0.0,0.0
+186,L. Abubakar,Colorado Rapids,26.0,24.0,1180000.0,2020.0,1.23,Lalas Abubakar,Lalas Abubakar,COL,D,17.0,17.0,1515.0,1.0,0.0,4.0,1.0,0.0,0/0,1.0,0.0,0.06,25.0
+187,D. Wilson,Colorado Rapids,29.0,26.0,590000.0,2020.0,0.71,Danny Wilson,Danny Wilson,COL,D,9.0,9.0,742.0,0.0,0.0,2.0,1.0,0.0,0/0,0.0,0.0,0.0,0.0
+188,D. Moor,Colorado Rapids,37.0,35.0,236000.0,2020.0,0.19,Drew Moor,Drew Moor,COL,D,8.0,5.0,487.0,1.0,0.0,4.0,2.0,1.0,0/0,1.0,0.0,0.18,25.0
+189,S. Vines,Colorado Rapids,21.0,18.0,2360000.0,2020.0,-1.1,Sam Vines,Sam Vines,COL,D,18.0,18.0,1620.0,1.0,3.0,3.0,1.0,0.0,0/0,0.0,1.0,0.06,33.3
+190,K. Rosenberry,Colorado Rapids,27.0,25.0,1180000.0,2020.0,0.15,Keegan Rosenberry,Keegan Rosenberry,COL,D,17.0,16.0,1361.0,1.0,2.0,14.0,5.0,1.0,0/0,1.0,0.0,0.07,7.1
+191,J. Kelly,Colorado Rapids,23.0,22.0,206500.0,2020.0,-0.37,Jeremy Kelly,Jeremy Kelly,COL,D,8.0,2.0,246.0,0.0,1.0,1.0,0.0,0.0,0/0,0.0,0.0,0.0,0.0
+192,K. Acosta,Colorado Rapids,25.0,22.0,3540000.0,2020.0,0.7,Kellyn Acosta,Kellyn Acosta,COL,M,15.0,14.0,1150.0,2.0,1.0,27.0,11.0,1.0,0/0,0.0,2.0,0.16,7.4
+193,C. Bassett,Colorado Rapids,19.0,17.0,5900000.0,2020.0,-0.14,Cole Bassett,Cole Bassett,COL,M,14.0,12.0,982.0,5.0,5.0,22.0,9.0,2.0,0/0,3.0,2.0,0.46,22.7
+194,J. Price,Colorado Rapids,28.0,25.0,1180000.0,2020.0,-0.1,Jack Price,Jack Price,COL,M,16.0,14.0,1318.0,0.0,5.0,5.0,2.0,0.0,0/0,0.0,0.0,0.0,0.0
+195,C. Warner,Colorado Rapids,32.0,32.0,236000.0,2020.0,-0.31,Collen Warner,Collen Warner,COL,M,7.0,4.0,263.0,0.0,0.0,1.0,0.0,0.0,0/0,0.0,0.0,0.0,0.0
+196,Y. Namli,Colorado Rapids,26.0,25.0,2360000.0,2020.0,0.26,Younes Namli,Younes Namli,COL,M,17.0,16.0,1272.0,2.0,4.0,23.0,10.0,0.0,0/0,1.0,1.0,0.14,8.7
+197,N. Mezquida,Colorado Rapids,29.0,26.0,708000.0,2020.0,-0.4,Nicolas Mezquida,Nicolas Mezquida,COL,F-M,17.0,2.0,463.0,1.0,1.0,18.0,7.0,0.0,0/0,1.0,0.0,0.19,5.6
+198,A. Shinyashiki,Colorado Rapids,23.0,21.0,3540000.0,2020.0,-0.26,Andre Shinyashiki,Andre Shinyashiki,COL,F,15.0,13.0,1034.0,4.0,1.0,33.0,18.0,0.0,0/0,2.0,2.0,0.35,12.1
+199,J. Lewis,Colorado Rapids,23.0,21.0,1180000.0,2020.0,0.15,Jonathan Lewis,Jonathan Lewis,COL,F,18.0,7.0,705.0,5.0,0.0,27.0,10.0,1.0,0/0,2.0,3.0,0.64,18.5
+200,N. Benezet,Colorado Rapids,30.0,28.0,944000.0,2020.0,0.35,Nicolas Benezet,Nicolas Benezet,COL,F,12.0,5.0,491.0,0.0,3.0,9.0,3.0,0.0,0/0,0.0,0.0,0.0,0.0
+201,M. Barrios,Colorado Rapids,29.0,29.0,2360000.0,2020.0,1.68,Michael Barrios,Michael Barrios,COL,M,21.0,19.0,1681.0,1.0,5.0,35.0,10.0,0.0,0/0,1.0,0.0,0.05,2.9
+202,B. Galván,Colorado Rapids,20.0,19.0,295000.0,2020.0,0.09,Braian Galvan,Braian Galvan,COL,M,9.0,2.0,244.0,1.0,1.0,8.0,2.0,0.0,0/0,0.0,1.0,0.37,12.5
+203,D. Rubio,Colorado Rapids,27.0,25.0,1180000.0,2020.0,-0.91,Diego Rubio,Diego Rubio,COL,F,16.0,12.0,1040.0,3.0,4.0,24.0,7.0,2.0,0/0,0.0,3.0,0.26,12.5
+204,R. Puncec,Sporting Kansas City,29.0,28.0,826000.0,2020.0,-1.37,Roberto Puncec,Roberto Puncec,SKC,D,20.0,18.0,1675.0,0.0,1.0,3.0,1.0,0.0,0/0,0.0,0.0,0.0,0.0
+205,A. Fontàs,Sporting Kansas City,31.0,28.0,590000.0,2020.0,0.35,Andreu Fontas,Andreu Fontas,SKC,D,3.0,3.0,270.0,1.0,0.0,1.0,1.0,0.0,0/0,1.0,0.0,0.33,100.0
+206,G. Smith,Sporting Kansas City,25.0,22.0,413000.0,2020.0,-0.1,Graham Smith,Graham Smith,SKC,D,4.0,4.0,315.0,0.0,0.0,1.0,0.0,0.0,0/0,0.0,0.0,0.0,0.0
+207,L. Martins,Sporting Kansas City,28.0,27.0,708000.0,2020.0,0.09,Luis Martins,Luis Martins,SKC,D,11.0,9.0,773.0,0.0,2.0,6.0,3.0,0.0,0/0,0.0,0.0,0.0,0.0
+208,A. Dia,Sporting Kansas City,27.0,26.0,354000.0,2020.0,0.07,Amadou Dia,Amadou Dia,SKC,D,12.0,9.0,847.0,0.0,1.0,1.0,0.0,0.0,0/0,0.0,0.0,0.0,0.0
+209,J. Lindsey,Sporting Kansas City,20.0,17.0,1180000.0,2020.0,-0.18,Jaylin Lindsey,Jaylin Lindsey,SKC,D,12.0,11.0,1059.0,0.0,2.0,6.0,0.0,0.0,0/0,0.0,0.0,0.0,0.0
+210,C. Duke,Sporting Kansas City,20.0,18.0,590000.0,2020.0,-0.18,Cameron Duke,Cameron Duke,SKC,M,8.0,2.0,218.0,0.0,0.0,2.0,1.0,0.0,0/0,0.0,0.0,0.0,0.0
+211,G. Zusi,Sporting Kansas City,34.0,22.0,354000.0,2020.0,-0.31,Graham Zusi,Graham Zusi,SKC,M,15.0,14.0,1224.0,1.0,1.0,21.0,4.0,1.0,0/0,1.0,0.0,0.07,4.8
+212,I. Sánchez,Sporting Kansas City,30.0,26.0,1180000.0,2020.0,0.27,Ilie Sanchez,Ilie Sanchez,SKC,M,15.0,13.0,1259.0,0.0,1.0,7.0,1.0,0.0,0/0,0.0,0.0,0.0,0.0
+213,G. Busio,Sporting Kansas City,18.0,15.0,4720000.0,2020.0,0.1,Gianluca Busio,Gianluca Busio,SKC,M-F,19.0,15.0,1275.0,1.0,3.0,36.0,6.0,0.0,0/0,0.0,1.0,0.07,2.8
+214,F. Hernández,Sporting Kansas City,22.0,21.0,590000.0,2020.0,-0.64,Felipe Hernandez,Felipe Hernandez,SKC,M,16.0,8.0,778.0,0.0,1.0,8.0,0.0,0.0,0/0,0.0,0.0,0.0,0.0
+215,R. Espinoza,Sporting Kansas City,34.0,28.0,472000.0,2020.0,-0.59,Roger Espinoza,Roger Espinoza,SKC,M,16.0,12.0,950.0,2.0,2.0,19.0,8.0,1.0,0/0,1.0,1.0,0.19,10.5
+216,G. Kinda,Sporting Kansas City,26.0,26.0,4720000.0,2020.0,0.61,Gadi Kinda,Gadi Kinda,SKC,M,18.0,16.0,1394.0,6.0,4.0,35.0,11.0,1.0,0/0,3.0,3.0,0.39,17.1
+217,D. Sallói,Sporting Kansas City,24.0,19.0,1180000.0,2020.0,0.16,Daniel Salloi,Daniel Salloi,SKC,F,7.0,1.0,165.0,0.0,0.0,6.0,3.0,0.0,0/0,0.0,0.0,0.0,0.0
+218,J. Russell,Sporting Kansas City,30.0,27.0,1180000.0,2020.0,0.91,Johnny Russell,Johnny Russell,SKC,F,21.0,17.0,1529.0,6.0,4.0,50.0,17.0,2.0,0/0,5.0,1.0,0.35,12.0
+219,A. Pulido,Sporting Kansas City,29.0,28.0,10620000.0,2020.0,0.46,Alan Pulido,Alan Pulido,SKC,F,12.0,11.0,962.0,6.0,5.0,36.0,18.0,3.0,1/1,3.0,3.0,0.56,16.7
+220,K. Shelton,Sporting Kansas City,27.0,26.0,944000.0,2020.0,-0.26,Khiry Shelton,Khiry Shelton,SKC,F,20.0,17.0,1447.0,5.0,1.0,29.0,14.0,1.0,0/0,4.0,1.0,0.31,17.2
+221,T. Pettersson,FC Cincinnati,30.0,29.0,767000.0,2020.0,-0.7,Tom Pettersson,Tom Pettersson,CIN,D,15.0,13.0,1142.0,0.0,0.0,7.0,1.0,0.0,0/0,0.0,0.0,0.0,0.0
+222,N. Hagglund,FC Cincinnati,28.0,26.0,708000.0,2020.0,0.13,Nick Hagglund,Nick Hagglund,CIN,D,11.0,8.0,744.0,1.0,0.0,10.0,3.0,1.0,0/0,1.0,0.0,0.12,10.0
+223,M. van der Werff,FC Cincinnati,31.0,30.0,708000.0,2020.0,0.43,Maikel van der Werff,Maikel van der Werff,CIN,D,13.0,11.0,973.0,0.0,0.0,7.0,1.0,0.0,0/0,0.0,0.0,0.0,0.0
+224,R. Matarrita,FC Cincinnati,26.0,26.0,2360000.0,2020.0,1.77,Ronald Matarrita,Ronald Matarrita,CIN,D,21.0,19.0,1649.0,0.0,2.0,16.0,3.0,0.0,0/0,0.0,0.0,0.0,0.0
+225,Z. Bailey,FC Cincinnati,20.0,19.0,206500.0,2020.0,0.08,Zico Bailey,Zico Bailey,CIN,D,5.0,3.0,296.0,0.0,0.0,1.0,0.0,0.0,0/0,0.0,0.0,0.0,0.0
+226,K. Mokotjo,FC Cincinnati,29.0,29.0,1180000.0,2020.0,-0.3,Kamohelo Mokotjo,Kamohelo Mokotjo,CIN,M,9.0,6.0,551.0,0.0,0.0,0.0,0.0,0.0,0/0,0.0,0.0,0.0,0.0
+227,C. Stanko,FC Cincinnati,27.0,25.0,590000.0,2020.0,-0.53,Caleb Stanko,Caleb Stanko,CIN,M,13.0,5.0,470.0,0.0,0.0,0.0,0.0,0.0,0/0,0.0,0.0,0.0,0.0
+228,A. Cruz,FC Cincinnati,25.0,22.0,1180000.0,2020.0,-0.87,Allan Cruz,Allan Cruz,CIN,M,14.0,8.0,751.0,1.0,0.0,8.0,2.0,0.0,0/0,0.0,1.0,0.12,12.5
+229,H. Medunjanin,FC Cincinnati,35.0,34.0,590000.0,2020.0,1.11,Haris Medunjanin,Haris Medunjanin,CIN,M,21.0,19.0,1729.0,1.0,1.0,9.0,2.0,1.0,0/0,0.0,1.0,0.05,11.1
+230,F. Amaya,FC Cincinnati,20.0,18.0,2360000.0,2020.0,-1.49,Frankie Amaya,Frankie Amaya,CIN,M,21.0,21.0,1737.0,1.0,0.0,21.0,6.0,1.0,0/0,0.0,1.0,0.05,4.8
+231,Á. Barreal,FC Cincinnati,20.0,20.0,1180000.0,2020.0,-0.59,Alvaro Barreal,Alvaro Barreal,CIN,M,5.0,4.0,326.0,0.0,0.0,6.0,0.0,0.0,0/0,0.0,0.0,0.0,0.0
+232,B. Mines,FC Cincinnati,20.0,20.0,236000.0,2020.0,-0.01,Ben Mines,Ben Mines,CIN,M,5.0,1.0,172.0,1.0,1.0,3.0,1.0,0.0,0/0,0.0,1.0,0.52,33.3
+233,J. Locadia,FC Cincinnati,27.0,26.0,5900000.0,2020.0,-1.51,Jurgen Locadia,Jurgen Locadia,CIN,F,17.0,15.0,1364.0,1.0,0.0,51.0,14.0,0.0,0/0,0.0,1.0,0.07,2.0
+234,Y. Kubo,FC Cincinnati,27.0,26.0,1180000.0,2020.0,-2.38,Yuya Kubo,Yuya Kubo,CIN,F,19.0,15.0,1284.0,3.0,0.0,19.0,7.0,1.0,1/1,2.0,1.0,0.21,15.8
+235,B. Vázquez,FC Cincinnati,22.0,21.0,531000.0,2020.0,-1.07,Brandon Vazquez,Brandon Vazquez,CIN,F,19.0,8.0,774.0,2.0,2.0,23.0,9.0,0.0,0/0,1.0,1.0,0.23,8.7
+236,F. Kovacevic,FC Cincinnati,21.0,21.0,236000.0,2020.0,0.09,Franko Kovacevic,Franko Kovacevic,CIN,F,1.0,1.0,90.0,0.0,0.0,3.0,1.0,0.0,0/0,0.0,0.0,0.0,0.0
+237,H. Kessler,New England Revolution,22.0,21.0,1180000.0,2020.0,0.69,Henry Kessler,Henry Kessler,NE,D,22.0,19.0,1823.0,1.0,0.0,12.0,2.0,0.0,0/0,1.0,0.0,0.05,8.3
+238,D. Jones,New England Revolution,23.0,21.0,944000.0,2020.0,1.14,DeJuan Jones,DeJuan Jones,NE,D,18.0,13.0,1134.0,0.0,0.0,7.0,5.0,0.0,0/0,0.0,0.0,0.0,0.0
+239,A. Farrell,New England Revolution,29.0,20.0,1180000.0,2020.0,-0.36,Andrew Farrell,Andrew Farrell,NE,D,20.0,19.0,1711.0,0.0,0.0,0.0,0.0,0.0,0/0,0.0,0.0,0.0,0.0
+240,B. Bye,New England Revolution,25.0,22.0,944000.0,2020.0,-0.02,Brandon Bye,Brandon Bye,NE,D,22.0,18.0,1636.0,0.0,1.0,13.0,2.0,0.0,0/0,0.0,0.0,0.0,0.0
+241,M. Polster,New England Revolution,27.0,27.0,944000.0,2020.0,0.15,Matt Polster,Matt Polster,NE,D,15.0,8.0,756.0,0.0,2.0,2.0,0.0,0.0,0/0,0.0,0.0,0.0,0.0
+242,S. Caldwell,New England Revolution,29.0,21.0,944000.0,2020.0,-0.4,Scott Caldwell,Scott Caldwell,NE,M,18.0,15.0,1155.0,0.0,0.0,2.0,0.0,0.0,0/0,0.0,0.0,0.0,0.0
+243,E. Boateng,New England Revolution,27.0,26.0,708000.0,2020.0,0.16,Emmanuel Boateng,Emmanuel Boateng,NE,M,10.0,3.0,323.0,0.0,1.0,3.0,1.0,0.0,0/0,0.0,0.0,0.0,0.0
+244,C. Gil,New England Revolution,28.0,26.0,4720000.0,2020.0,0.32,Carles Gil,Carles Gil,NE,F,6.0,4.0,366.0,0.0,2.0,7.0,2.0,0.0,0/1,0.0,0.0,0.0,0.0
+245,T. Buchanan,New England Revolution,22.0,19.0,2360000.0,2020.0,0.22,Tajon Buchanan,Tajon Buchanan,NE,F,23.0,11.0,1084.0,2.0,2.0,30.0,12.0,0.0,0/0,1.0,1.0,0.17,6.7
+246,G. Bou,New England Revolution,31.0,29.0,7080000.0,2020.0,-0.24,Gustavo Bou,Gustavo Bou,NE,F,18.0,14.0,1329.0,5.0,3.0,64.0,22.0,3.0,0/0,2.0,3.0,0.34,7.8
+247,A. Buksa,New England Revolution,24.0,23.0,4720000.0,2020.0,1.8,Adam Buksa,Adam Buksa,NE,F,23.0,16.0,1499.0,6.0,2.0,59.0,24.0,1.0,0/1,2.0,4.0,0.36,10.2
+248,T. Bunbury,New England Revolution,31.0,23.0,1180000.0,2020.0,-0.08,Teal Bunbury,Teal Bunbury,NE,F,22.0,19.0,1466.0,8.0,1.0,43.0,12.0,3.0,0/0,2.0,6.0,0.49,18.6
+249,J. Rennicks,New England Revolution,21.0,19.0,206500.0,2020.0,0.57,Justin Rennicks,Justin Rennicks,NE,F,4.0,0.0,29.0,0.0,0.0,2.0,0.0,0.0,0/0,0.0,0.0,0.0,0.0
+250,L. Binks,Club de Foot Montréal,19.0,18.0,1180000.0,2020.0,0.81,Luis Binks,Luis Binks,MTL,D,21.0,20.0,1762.0,0.0,0.0,10.0,1.0,0.0,0/0,0.0,0.0,0.0,0.0
+251,A. Struna,Club de Foot Montréal,30.0,30.0,885000.0,2020.0,-2.28,Aljaz Struna,Aljaz Struna,MTL,D,17.0,16.0,1436.0,0.0,0.0,2.0,0.0,0.0,0/0,0.0,0.0,0.0,0.0
+252,R. Camacho,Club de Foot Montréal,30.0,27.0,590000.0,2020.0,-0.54,Rudy Camacho,Rudy Camacho,MTL,D,14.0,14.0,1189.0,1.0,0.0,7.0,1.0,1.0,0/0,0.0,1.0,0.08,14.3
+253,J. Waterman,Club de Foot Montréal,25.0,23.0,236000.0,2020.0,-0.43,Joel Waterman,Joel Waterman,MTL,D,7.0,6.0,549.0,0.0,1.0,2.0,0.0,0.0,0/0,0.0,0.0,0.0,0.0
+254,K. Miller,Club de Foot Montréal,23.0,23.0,944000.0,2020.0,0.47,Kamal Miller,Kamal Miller,MTL,D,12.0,9.0,805.0,0.0,0.0,3.0,0.0,0.0,0/0,0.0,0.0,0.0,0.0
+255,M. Kizza,Club de Foot Montréal,21.0,20.0,295000.0,2020.0,0.1,Mustafa Kizza,Mustafa Kizza,MTL,D,1.0,0.0,19.0,0.0,1.0,0.0,0.0,0.0,0/0,0.0,0.0,0.0,0.0
+256,V. Wanyama,Club de Foot Montréal,29.0,28.0,9440000.0,2020.0,-0.45,Victor Wanyama,Victor Wanyama,MTL,M,21.0,21.0,1890.0,2.0,2.0,22.0,8.0,0.0,0/0,1.0,1.0,0.1,9.1
+257,S. Piette,Club de Foot Montréal,26.0,22.0,2360000.0,2020.0,-1.01,Samuel Piette,Samuel Piette,MTL,M,22.0,22.0,1943.0,1.0,1.0,19.0,6.0,1.0,0/0,0.0,1.0,0.05,5.3
+258,A. Sejdic,Club de Foot Montréal,24.0,22.0,236000.0,2020.0,0.17,Amar Sejdic,Amar Sejdic,MTL,M,14.0,7.0,684.0,2.0,0.0,12.0,5.0,0.0,0/0,1.0,1.0,0.26,16.7
+259,E. Maciel,Club de Foot Montréal,23.0,22.0,354000.0,2020.0,-0.68,Emanuel Maciel,Emanuel Maciel,MTL,M,11.0,10.0,780.0,0.0,3.0,1.0,0.0,0.0,0/0,0.0,0.0,0.0,0.0
+260,D. Mihailovic,Club de Foot Montréal,22.0,22.0,4720000.0,2020.0,1.23,Djordje Mihailovic,Djordje Mihailovic,MTL,M,20.0,14.0,1171.0,2.0,7.0,26.0,7.0,0.0,0/0,2.0,0.0,0.15,7.7
+261,R. Quioto,Club de Foot Montréal,29.0,28.0,2360000.0,2020.0,2.09,Romell Quioto,Romell Quioto,MTL,M,19.0,17.0,1483.0,8.0,6.0,51.0,20.0,2.0,0/0,4.0,4.0,0.49,15.7
+262,L. Lappalainen,Club de Foot Montréal,22.0,20.0,944000.0,2020.0,0.05,Lassi Lappalainen,Lassi Lappalainen,MTL,M,13.0,7.0,680.0,4.0,1.0,13.0,11.0,0.0,0/0,2.0,2.0,0.53,30.8
+263,C. Bayiha,Club de Foot Montréal,22.0,19.0,590000.0,2020.0,-0.07,Clement Bayiha,Clement Bayiha,MTL,M,4.0,1.0,66.0,0.0,0.0,0.0,0.0,0.0,0/0,0.0,0.0,0.0,0.0
+264,M. Toye,Club de Foot Montréal,22.0,21.0,708000.0,2020.0,-0.62,Mason Toye,Mason Toye,MTL,F,14.0,8.0,596.0,1.0,1.0,10.0,4.0,0.0,0/0,1.0,0.0,0.15,10.0
+265,E. Hurtado,Club de Foot Montréal,30.0,30.0,590000.0,2020.0,0.24,Erik Hurtado,Erik Hurtado,MTL,F,15.0,3.0,376.0,5.0,0.0,19.0,8.0,1.0,0/0,1.0,4.0,1.2,26.3
+266,M. Besler,Austin FC,34.0,33.0,590000.0,2020.0,1.58,Matt Besler,Matt Besler,ATX,D,10.0,9.0,810.0,0.0,0.0,1.0,0.0,0.0,0/0,0.0,0.0,0.0,0.0
+267,J. Cascante,Austin FC,27.0,27.0,472000.0,2020.0,-0.02,Julio Cascante,Julio Cascante,ATX,D,5.0,4.0,405.0,1.0,0.0,5.0,2.0,0.0,0/0,0.0,1.0,0.22,20.0
+268,B. Sweat,Austin FC,29.0,29.0,1121000.0,2020.0,0.34,Ben Sweat,Ben Sweat,ATX,D,22.0,20.0,1675.0,0.0,2.0,10.0,5.0,0.0,0/0,0.0,0.0,0.0,0.0
+269,H. Jiménez,Austin FC,32.0,32.0,590000.0,2020.0,0.11,Hector Jimenez,Hector Jimenez,ATX,M,8.0,4.0,376.0,0.0,1.0,1.0,0.0,0.0,0/0,0.0,0.0,0.0,0.0
+270,N. Lima,Austin FC,26.0,26.0,1180000.0,2020.0,-0.81,Nick Lima,Nick Lima,ATX,D,20.0,19.0,1531.0,2.0,2.0,16.0,6.0,1.0,0/0,0.0,2.0,0.12,12.5
+271,A. Ring,Austin FC,29.0,29.0,2360000.0,2020.0,-0.26,Alexander Ring,Alexander Ring,ATX,M,23.0,23.0,2016.0,4.0,4.0,26.0,8.0,2.0,0/0,4.0,0.0,0.18,15.4
+272,S. Berhalter,Austin FC,19.0,19.0,590000.0,2020.0,-0.61,Sebastian Berhalter,Sebastian Berhalter,ATX,M,9.0,4.0,395.0,0.0,0.0,6.0,0.0,0.0,0/0,0.0,0.0,0.0,0.0
+273,J. Stroud,Austin FC,24.0,24.0,944000.0,2020.0,0.41,Jared Stroud,Jared Stroud,ATX,M,20.0,11.0,925.0,0.0,2.0,8.0,0.0,0.0,0/0,0.0,0.0,0.0,0.0
+274,U. Segura,Austin FC,27.0,27.0,885000.0,2020.0,-1.18,Ulises Segura,Ulises Segura,ATX,M,10.0,7.0,683.0,0.0,0.0,9.0,5.0,0.0,0/0,0.0,0.0,0.0,0.0
+275,D. Fagúndez,Austin FC,26.0,25.0,1180000.0,2020.0,0.36,Diego Fagundez,Diego Fagundez,ATX,M,19.0,9.0,966.0,1.0,0.0,21.0,5.0,0.0,0/0,1.0,0.0,0.09,4.8
+276,K. Manneh,Austin FC,26.0,26.0,885000.0,2020.0,0.33,Kekuta Manneh,Kekuta Manneh,ATX,F,8.0,3.0,246.0,1.0,1.0,9.0,5.0,0.0,0/0,0.0,1.0,0.37,11.1
+277,J. Gallagher,Austin FC,25.0,24.0,590000.0,2020.0,0.46,Jon Gallagher,Jon Gallagher,ATX,F,16.0,11.0,982.0,4.0,0.0,13.0,7.0,1.0,0/0,2.0,2.0,0.37,30.8
+278,D. Hoesen,Austin FC,30.0,29.0,708000.0,2020.0,-0.55,Danny Hoesen,Danny Hoesen,ATX,F,8.0,3.0,249.0,1.0,0.0,11.0,3.0,0.0,0/0,0.0,1.0,0.36,9.1
+279,A. Schoenfeld,Austin FC,30.0,30.0,472000.0,2020.0,0.18,Aaron Schoenfeld,Aaron Schoenfeld,ATX,F,14.0,3.0,390.0,1.0,0.0,14.0,4.0,1.0,0/0,0.0,1.0,0.23,7.1
+280,F. Calvo,Chicago Fire FC,28.0,26.0,1180000.0,2020.0,-1.13,Francisco Calvo,Francisco Calvo,CHI,D,22.0,22.0,1911.0,1.0,2.0,16.0,3.0,0.0,0/0,0.0,1.0,0.05,6.3
+281,M. Pineda,Chicago Fire FC,23.0,22.0,767000.0,2020.0,-0.62,Mauricio Pineda,Mauricio Pineda,CHI,D-M,23.0,23.0,2022.0,3.0,2.0,9.0,3.0,1.0,0/0,1.0,2.0,0.13,33.3
+282,J. Kappelhof,Chicago Fire FC,30.0,25.0,708000.0,2020.0,0.19,Johan Kappelhof,Johan Kappelhof,CHI,D,4.0,2.0,200.0,0.0,0.0,1.0,0.0,0.0,0/0,0.0,0.0,0.0,0.0
+283,C. Terán,Chicago Fire FC,20.0,19.0,236000.0,2020.0,-0.14,Carlos Teran,Carlos Teran,CHI,D,2.0,0.0,14.0,0.0,0.0,1.0,0.0,0.0,0/0,0.0,0.0,0.0,0.0
+284,W. Omsberg,Chicago Fire FC,25.0,24.0,206500.0,2020.0,0.38,Wyatt Omsberg,Wyatt Omsberg,CHI,D,5.0,2.0,185.0,0.0,1.0,0.0,0.0,0.0,0/0,0.0,0.0,0.0,0.0
+285,M. Ángel Navarro,Chicago Fire FC,22.0,20.0,590000.0,2020.0,-0.93,Miguel Angel Navarro,Miguel Angel Navarro,CHI,D,19.0,10.0,971.0,0.0,1.0,11.0,1.0,0.0,0/0,0.0,0.0,0.0,0.0
+286,J. Bornstein,Chicago Fire FC,36.0,34.0,236000.0,2020.0,0.11,Jonathan Bornstein,Jonathan Bornstein,CHI,D,20.0,13.0,1141.0,1.0,1.0,4.0,3.0,0.0,0/0,0.0,1.0,0.08,25.0
+287,B. Sekulic,Chicago Fire FC,29.0,28.0,767000.0,2020.0,0.06,Boris Sekulic,Boris Sekulic,CHI,D,21.0,21.0,1826.0,2.0,2.0,14.0,4.0,1.0,0/0,1.0,1.0,0.1,14.3
+288,G. Giménez,Chicago Fire FC,29.0,28.0,4720000.0,2020.0,-0.45,Gaston Gimenez,Gaston Gimenez,CHI,M,18.0,17.0,1557.0,0.0,3.0,21.0,7.0,0.0,0/0,0.0,0.0,0.0,0.0
+289,Á. Medrán,Chicago Fire FC,26.0,25.0,2360000.0,2020.0,1.83,Alvaro Medran,Alvaro Medran,CHI,M,23.0,23.0,1996.0,2.0,6.0,37.0,13.0,0.0,0/1,2.0,0.0,0.09,5.4
+290,L. Stojanovic,Chicago Fire FC,27.0,26.0,826000.0,2020.0,-0.11,Luka Stojanovic,Luka Stojanovic,CHI,M,2.0,1.0,60.0,0.0,0.0,2.0,1.0,0.0,0/0,0.0,0.0,0.0,0.0
+291,B. Gutiérrez,Chicago Fire FC,17.0,16.0,118000.0,2020.0,-0.11,Brian Gutierrez,Brian Gutierrez,CHI,M,6.0,0.0,27.0,0.0,0.0,1.0,1.0,0.0,0/0,0.0,0.0,0.0,0.0
+292,I. Aliseda,Chicago Fire FC,20.0,19.0,3540000.0,2020.0,-1.21,Ignacio Aliseda,Ignacio Aliseda,CHI,M,20.0,16.0,1402.0,1.0,2.0,26.0,6.0,0.0,0/0,1.0,0.0,0.06,3.8
+293,P. Frankowski,Chicago Fire FC,25.0,23.0,2360000.0,2020.0,0.28,Przemyslaw Frankowski,Przemyslaw Frankowski,CHI,M,19.0,16.0,1459.0,3.0,1.0,27.0,13.0,0.0,0/0,3.0,0.0,0.19,11.1
+294,F. Herbers,Chicago Fire FC,27.0,25.0,1180000.0,2020.0,1.45,Fabian Herbers,Fabian Herbers,CHI,F,21.0,18.0,1366.0,4.0,1.0,31.0,10.0,2.0,0/0,4.0,0.0,0.26,12.9
+295,R. Beric,Chicago Fire FC,29.0,28.0,3540000.0,2020.0,-0.87,Robert Beric,Robert Beric,CHI,F,23.0,22.0,1931.0,12.0,1.0,62.0,29.0,1.0,1/2,7.0,5.0,0.56,19.4
+296,E. Collier,Chicago Fire FC,26.0,22.0,472000.0,2020.0,0.3,Elliot Collier,Elliot Collier,CHI,F,21.0,2.0,519.0,0.0,1.0,20.0,7.0,0.0,0/0,0.0,0.0,0.0,0.0
+297,M. Hedges,FC Dallas,30.0,30.0,1180000.0,2020.0,1.04,Matt Hedges,Matt Hedges,DAL,D,19.0,18.0,1538.0,0.0,1.0,8.0,2.0,0.0,0/0,0.0,0.0,0.0,0.0
+298,R. Hollingshead,FC Dallas,29.0,22.0,1180000.0,2020.0,0.37,Ryan Hollingshead,Ryan Hollingshead,DAL,M,20.0,19.0,1731.0,4.0,1.0,31.0,11.0,4.0,0/0,2.0,2.0,0.21,12.9
+299,J. Nelson,FC Dallas,22.0,20.0,472000.0,2020.0,-0.66,John Nelson,John Nelson,DAL,D,11.0,8.0,705.0,0.0,1.0,2.0,1.0,0.0,0/0,0.0,0.0,0.0,0.0
+300,T. Santos,FC Dallas,31.0,30.0,1180000.0,2020.0,-0.7,Thiago Santos,Thiago Santos,DAL,M,20.0,19.0,1623.0,0.0,1.0,8.0,0.0,0.0,0/0,0.0,0.0,0.0,0.0
+301,E. Cerrillo,FC Dallas,20.0,18.0,472000.0,2020.0,-0.1,Edwin Cerrillo,Edwin Cerrillo,DAL,M,2.0,0.0,17.0,0.0,0.0,0.0,0.0,0.0,0/0,0.0,0.0,0.0,0.0
+302,B. Acosta,FC Dallas,27.0,25.0,2360000.0,2020.0,-0.18,Bryan Acosta,Bryan Acosta,DAL,M,11.0,10.0,759.0,0.0,2.0,17.0,8.0,0.0,0/0,0.0,0.0,0.0,0.0
+303,T. Tessmann,FC Dallas,19.0,18.0,1180000.0,2020.0,-1.21,Tanner Tessmann,Tanner Tessmann,DAL,M,19.0,9.0,1001.0,0.0,1.0,16.0,4.0,0.0,0/0,0.0,0.0,0.0,0.0
+304,P. Pomykal,FC Dallas,21.0,16.0,3540000.0,2020.0,0.25,Paxton Pomykal,Paxton Pomykal,DAL,M,5.0,1.0,150.0,1.0,0.0,1.0,1.0,0.0,0/0,1.0,0.0,0.6,100.0
+305,A. Ricaurte,FC Dallas,29.0,28.0,1180000.0,2020.0,-0.38,Andres Ricaurte,Andres Ricaurte,DAL,M,14.0,13.0,1112.0,1.0,2.0,17.0,6.0,0.0,0/0,1.0,0.0,0.08,5.9
+306,D. Sealy,FC Dallas,17.0,15.0,236000.0,2020.0,-0.08,Dante Sealy,Dante Sealy,DAL,F,5.0,0.0,49.0,0.0,0.0,2.0,0.0,0.0,0/0,0.0,0.0,0.0,0.0
+307,E. Twumasi,FC Dallas,23.0,20.0,177000.0,2020.0,-0.1,Ema Twumasi,Ema Twumasi,DAL,F,4.0,0.0,35.0,0.0,0.0,0.0,0.0,0.0,0/0,0.0,0.0,0.0,0.0
+308,J. Ferreira,FC Dallas,20.0,16.0,3540000.0,2020.0,-1.07,Jesus Ferreira,Jesus Ferreira,DAL,F,19.0,13.0,979.0,1.0,1.0,19.0,7.0,1.0,0/0,1.0,0.0,0.09,5.3
+309,F. Jara,FC Dallas,32.0,31.0,2360000.0,2020.0,0.28,Franco Jara,Franco Jara,DAL,F,19.0,16.0,1388.0,7.0,0.0,37.0,20.0,3.0,1/1,4.0,3.0,0.45,18.9
+310,R. Pepi,FC Dallas,18.0,16.0,1180000.0,2020.0,0.9,Ricardo Pepi,Ricardo Pepi,DAL,F,17.0,4.0,458.0,2.0,1.0,14.0,6.0,0.0,0/0,1.0,1.0,0.39,14.3
+311,A. Long,New York Red Bulls,28.0,24.0,3540000.0,2020.0,-0.53,Aaron Long,Aaron Long,RBNY,D,16.0,15.0,1330.0,2.0,0.0,6.0,4.0,2.0,0/0,1.0,1.0,0.14,33.3
+312,A. Tarek,New York Red Bulls,28.0,26.0,708000.0,2020.0,-0.36,Amro Tarek,Amro Tarek,RBNY,D,12.0,10.0,935.0,0.0,0.0,1.0,0.0,0.0,0/0,0.0,0.0,0.0,0.0
+313,A. Reyes,New York Red Bulls,21.0,21.0,708000.0,2020.0,-0.93,Andres Reyes,Andres Reyes,RBNY,D,13.0,13.0,1101.0,0.0,0.0,9.0,3.0,0.0,0/0,0.0,0.0,0.0,0.0
+314,S. Nealis,New York Red Bulls,24.0,21.0,413000.0,2020.0,-0.01,Sean Nealis,Sean Nealis,RBNY,D,6.0,5.0,453.0,0.0,1.0,2.0,0.0,0.0,0/0,0.0,0.0,0.0,0.0
+315,J. Pendant,New York Red Bulls,24.0,23.0,944000.0,2020.0,-0.78,Jason Pendant,Jason Pendant,RBNY,D,20.0,17.0,1612.0,0.0,2.0,8.0,0.0,0.0,0/0,0.0,0.0,0.0,0.0
+316,K. Duncan,New York Red Bulls,23.0,20.0,1180000.0,2020.0,0.39,Kyle Duncan,Kyle Duncan,RBNY,D,23.0,21.0,1908.0,3.0,4.0,13.0,4.0,1.0,0/0,2.0,1.0,0.14,23.1
+317,M. Egbo,New York Red Bulls,23.0,22.0,354000.0,2020.0,0.28,Mandela Egbo,Mandela Egbo,RBNY,D,9.0,6.0,451.0,1.0,1.0,5.0,3.0,0.0,1/1,0.0,1.0,0.2,20.0
+318,S. Davis,New York Red Bulls,28.0,21.0,1180000.0,2020.0,-0.59,Sean Davis,Sean Davis,RBNY,M,14.0,13.0,1086.0,0.0,1.0,6.0,2.0,0.0,0/0,0.0,0.0,0.0,0.0
+319,D. Yearwood,New York Red Bulls,21.0,20.0,590000.0,2020.0,-0.87,Dru Yearwood,Dru Yearwood,RBNY,M,12.0,8.0,612.0,0.0,0.0,3.0,1.0,0.0,0/0,0.0,0.0,0.0,0.0
+320,C. Clark,New York Red Bulls,17.0,17.0,3540000.0,2020.0,-0.6,Caden Clark,Caden Clark,RBNY,M,7.0,3.0,280.0,2.0,0.0,5.0,2.0,1.0,0/0,0.0,2.0,0.64,40.0
+321,D. Royer,New York Red Bulls,30.0,26.0,2360000.0,2020.0,0.79,Daniel Royer,Daniel Royer,RBNY,M,20.0,15.0,1354.0,4.0,3.0,30.0,10.0,1.0,0/0,2.0,2.0,0.27,13.3
+322,O. Fernandez,New York Red Bulls,22.0,19.0,944000.0,2020.0,-0.14,Omir Fernandez,Omir Fernandez,RBNY,M,15.0,5.0,569.0,2.0,1.0,12.0,3.0,0.0,0/0,1.0,1.0,0.32,16.7
+323,F. Valot,New York Red Bulls,28.0,24.0,826000.0,2020.0,-0.42,Florian Valot,Florian Valot,RBNY,M,23.0,17.0,1510.0,2.0,3.0,24.0,6.0,1.0,0/0,0.0,2.0,0.12,8.3
+324,B. White,New York Red Bulls,25.0,22.0,1180000.0,2020.0,-0.14,Brian White,Brian White,RBNY,F,18.0,10.0,872.0,5.0,1.0,26.0,11.0,2.0,0/0,2.0,3.0,0.52,19.2
+325,T. Barlow,New York Red Bulls,25.0,23.0,590000.0,2020.0,1.05,Tom Barlow,Tom Barlow,RBNY,F,21.0,12.0,974.0,3.0,0.0,39.0,20.0,1.0,0/0,3.0,0.0,0.28,7.7
+326,R. Veselinovic,Vancouver Whitecaps FC,21.0,21.0,1180000.0,2020.0,-0.32,Ranko Veselinovic,Ranko Veselinovic,VAN,D,18.0,16.0,1384.0,0.0,0.0,5.0,0.0,0.0,0/0,0.0,0.0,0.0,0.0
+327,É. Godoy,Vancouver Whitecaps FC,27.0,26.0,1180000.0,2020.0,0.85,Erik Godoy,Erik Godoy,VAN,D,12.0,11.0,940.0,0.0,0.0,2.0,0.0,0.0,0/0,0.0,0.0,0.0,0.0
+328,D. Cornelius,Vancouver Whitecaps FC,23.0,21.0,590000.0,2020.0,-0.25,Derek Cornelius,Derek Cornelius,VAN,D,13.0,11.0,1011.0,0.0,0.0,7.0,1.0,0.0,0/0,0.0,0.0,0.0,0.0
+329,J. Khmiri,Vancouver Whitecaps FC,23.0,21.0,472000.0,2020.0,-0.42,Jasser Khmiri,Jasser Khmiri,VAN,D,5.0,5.0,387.0,0.0,0.0,2.0,0.0,0.0,0/0,0.0,0.0,0.0,0.0
+330,A. Adnan,Vancouver Whitecaps FC,27.0,25.0,1180000.0,2020.0,0.53,Ali Adnan,Ali Adnan,VAN,D,22.0,20.0,1769.0,2.0,5.0,14.0,5.0,0.0,0/0,2.0,0.0,0.1,14.3
+331,C. Gutiérrez,Vancouver Whitecaps FC,24.0,22.0,944000.0,2020.0,0.0,Cristian Gutierrez,Cristian Gutierrez,VAN,D,12.0,7.0,665.0,0.0,2.0,0.0,0.0,0.0,0/0,0.0,0.0,0.0,0.0
+332,J. Nerwinski,Vancouver Whitecaps FC,26.0,22.0,826000.0,2020.0,-1.28,Jake Nerwinski,Jake Nerwinski,VAN,D,21.0,18.0,1700.0,2.0,0.0,5.0,4.0,1.0,0/0,2.0,0.0,0.11,40.0
+333,R. Teibert,Vancouver Whitecaps FC,28.0,16.0,1180000.0,2020.0,-1.53,Russell Teibert,Russell Teibert,VAN,M,20.0,19.0,1585.0,0.0,1.0,5.0,4.0,0.0,0/0,0.0,0.0,0.0,0.0
+334,M. Baldisimo,Vancouver Whitecaps FC,20.0,18.0,708000.0,2020.0,0.03,Michael Baldisimo,Michael Baldisimo,VAN,M,13.0,7.0,703.0,1.0,3.0,4.0,3.0,0.0,0/0,1.0,0.0,0.13,25.0
+335,J. Bikel,Vancouver Whitecaps FC,25.0,24.0,1180000.0,2020.0,-0.01,Janio Bikel,Janio Bikel,VAN,D,12.0,12.0,948.0,0.0,0.0,0.0,0.0,0.0,0/0,0.0,0.0,0.0,0.0
+336,L. Owusu,Vancouver Whitecaps FC,23.0,22.0,885000.0,2020.0,-0.9,Leonard Owusu,Leonard Owusu,VAN,M,20.0,14.0,1301.0,0.0,1.0,10.0,0.0,0.0,0/0,0.0,0.0,0.0,0.0
+337,A. Rose,Vancouver Whitecaps FC,31.0,28.0,531000.0,2020.0,0.16,Andy Rose,Andy Rose,VAN,M,13.0,10.0,854.0,0.0,1.0,4.0,2.0,0.0,0/0,0.0,0.0,0.0,0.0
+338,P. Metcalfe,Vancouver Whitecaps FC,22.0,21.0,177000.0,2020.0,-0.3,Patrick Metcalfe,Patrick Metcalfe,VAN,M,7.0,2.0,200.0,0.0,0.0,0.0,0.0,0.0,0/0,0.0,0.0,0.0,0.0
+339,C. Dájome,Vancouver Whitecaps FC,27.0,26.0,2360000.0,2020.0,-0.86,Cristian Dajome,Cristian Dajome,VAN,F,23.0,18.0,1604.0,3.0,4.0,31.0,10.0,1.0,0/0,2.0,1.0,0.17,9.7
+340,R. Raposo,Vancouver Whitecaps FC,22.0,20.0,590000.0,2020.0,-1.02,Ryan Raposo,Ryan Raposo,VAN,M,15.0,2.0,375.0,0.0,1.0,0.0,0.0,0.0,0/0,0.0,0.0,0.0,0.0
+341,L. Cavallini,Vancouver Whitecaps FC,28.0,27.0,4720000.0,2020.0,1.04,Lucas Cavallini,Lucas Cavallini,VAN,F,18.0,16.0,1457.0,6.0,0.0,44.0,18.0,4.0,0/2,5.0,1.0,0.37,13.6
+342,T. Bair,Vancouver Whitecaps FC,21.0,19.0,590000.0,2020.0,-0.65,Theo Bair,Theo Bair,VAN,F,16.0,6.0,446.0,1.0,0.0,6.0,3.0,0.0,0/0,1.0,0.0,0.2,16.7
+343,T. Ricketts,Vancouver Whitecaps FC,33.0,32.0,413000.0,2020.0,-1.06,Tosaint Ricketts,Tosaint Ricketts,VAN,F,16.0,5.0,456.0,2.0,0.0,5.0,2.0,2.0,0/0,1.0,1.0,0.39,40.0
+344,D. Pines,D.C. United,22.0,20.0,767000.0,2020.0,1.14,Donovan Pines,Donovan Pines,DC,D,16.0,15.0,1353.0,3.0,0.0,15.0,8.0,0.0,0/0,2.0,1.0,0.2,20.0
+345,F. Brillant,D.C. United,35.0,32.0,354000.0,2020.0,-0.24,Frederic Brillant,Frederic Brillant,DC,D,19.0,18.0,1682.0,2.0,0.0,6.0,3.0,1.0,0/0,1.0,1.0,0.11,33.3
+346,J. Mora,D.C. United,28.0,25.0,944000.0,2020.0,-1.07,Joseph Mora,Joseph Mora,DC,D,21.0,19.0,1585.0,0.0,1.0,4.0,0.0,0.0,0/0,0.0,0.0,0.0,0.0
+347,J. Moreno,D.C. United,27.0,24.0,1180000.0,2020.0,-1.44,Junior Moreno,Junior Moreno,DC,M,20.0,20.0,1721.0,0.0,1.0,10.0,3.0,0.0,0/0,0.0,0.0,0.0,0.0
+348,M. Nyeman,D.C. United,17.0,15.0,413000.0,2020.0,-0.14,Moses Nyeman,Moses Nyeman,DC,M,11.0,5.0,490.0,0.0,1.0,2.0,0.0,0.0,0/0,0.0,0.0,0.0,0.0
+349,R. Canouse,D.C. United,25.0,22.0,1180000.0,2020.0,-0.54,Russell Canouse,Russell Canouse,DC,M,15.0,15.0,1233.0,2.0,0.0,5.0,3.0,0.0,0/0,1.0,1.0,0.15,40.0
+350,J. Gressel,D.C. United,27.0,26.0,4720000.0,2020.0,0.18,Julian Gressel,Julian Gressel,DC,M,22.0,19.0,1682.0,2.0,3.0,28.0,5.0,1.0,0/0,1.0,1.0,0.11,7.1
+351,K. Paredes,D.C. United,17.0,16.0,944000.0,2020.0,-0.41,Kevin Paredes,Kevin Paredes,DC,M,17.0,9.0,944.0,0.0,1.0,5.0,3.0,0.0,0/0,0.0,0.0,0.0,0.0
+352,E. Flores,D.C. United,26.0,25.0,3540000.0,2020.0,-0.95,Edison Flores,Edison Flores,DC,M,13.0,11.0,872.0,0.0,3.0,15.0,4.0,0.0,0/0,0.0,0.0,0.0,0.0
+353,Y. Asad,D.C. United,26.0,25.0,2360000.0,2020.0,-1.25,Yamil Asad,Yamil Asad,DC,M,23.0,18.0,1582.0,3.0,2.0,19.0,7.0,0.0,2/2,2.0,1.0,0.17,15.8
+354,G. Yow,D.C. United,18.0,16.0,354000.0,2020.0,-0.64,Griffin Yow,Griffin Yow,DC,F,12.0,4.0,391.0,2.0,0.0,5.0,5.0,0.0,0/0,1.0,1.0,0.46,40.0
+355,O. Kamara,D.C. United,31.0,29.0,1180000.0,2020.0,-0.9,Ola Kamara,Ola Kamara,DC,F,22.0,17.0,1327.0,4.0,0.0,28.0,9.0,0.0,2/2,3.0,1.0,0.27,14.3
+356,Y. Reyna,D.C. United,27.0,27.0,944000.0,2020.0,-0.71,Yordy Reyna,Yordy Reyna,DC,M-F,13.0,7.0,632.0,1.0,2.0,12.0,3.0,1.0,0/0,0.0,1.0,0.14,8.3
+357,E. Sorga,D.C. United,21.0,20.0,590000.0,2020.0,-0.62,Erik Sorga,Erik Sorga,DC,F,17.0,6.0,668.0,1.0,0.0,16.0,4.0,1.0,0/0,0.0,1.0,0.13,6.3
+358,A. Perez,D.C. United,25.0,25.0,295000.0,2020.0,-0.39,Adrien Perez,Adrien Perez,DC,F,9.0,2.0,299.0,0.0,0.0,7.0,1.0,0.0,0/0,0.0,0.0,0.0,0.0
+359,J. Elliott,Philadelphia Union,25.0,21.0,1180000.0,2020.0,0.73,Jack Elliott,Jack Elliott,PHI,D,17.0,10.0,981.0,1.0,0.0,10.0,6.0,0.0,0/0,1.0,0.0,0.09,10.0
+360,J. Glesnes,Philadelphia Union,26.0,25.0,1180000.0,2020.0,-0.57,Jakob Glesnes,Jakob Glesnes,PHI,D,19.0,17.0,1493.0,1.0,0.0,8.0,2.0,0.0,0/0,0.0,1.0,0.06,12.5
+361,K. Wagner,Philadelphia Union,24.0,21.0,2360000.0,2020.0,-0.42,Kai Wagner,Kai Wagner,PHI,D,14.0,14.0,1186.0,1.0,2.0,5.0,1.0,0.0,0/0,1.0,0.0,0.08,20.0
+362,M. Real,Philadelphia Union,21.0,18.0,708000.0,2020.0,-0.8,Matthew Real,Matthew Real,PHI,D,15.0,5.0,622.0,1.0,2.0,7.0,2.0,0.0,0/0,0.0,1.0,0.14,14.3
+363,O. Mbaizo,Philadelphia Union,23.0,20.0,708000.0,2020.0,-0.01,Olivier Mbaizo,Olivier Mbaizo,PHI,D,14.0,12.0,1057.0,0.0,2.0,3.0,2.0,0.0,0/0,0.0,0.0,0.0,0.0
+364,J. Andrés Martínez,Philadelphia Union,26.0,25.0,708000.0,2020.0,-0.39,Jose Andres Martinez,Jose Andres Martinez,PHI,M,14.0,14.0,1148.0,0.0,2.0,20.0,3.0,0.0,0/0,0.0,0.0,0.0,0.0
+365,C. Turner,Philadelphia Union,19.0,18.0,206500.0,2020.0,-0.03,Cole Turner,Cole Turner,PHI,M,1.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0/0,0.0,0.0,0.0,0.0
+366,J. Monteiro,Philadelphia Union,27.0,26.0,3540000.0,2020.0,-0.44,Jamiro Monteiro,Jamiro Monteiro,PHI,M,22.0,22.0,1941.0,3.0,6.0,32.0,14.0,0.0,1/1,2.0,1.0,0.14,9.4
+367,A. Bedoya,Philadelphia Union,33.0,29.0,826000.0,2020.0,1.64,Alejandro Bedoya,Alejandro Bedoya,PHI,M,21.0,21.0,1832.0,3.0,3.0,31.0,12.0,1.0,0/0,1.0,2.0,0.15,9.7
+368,A. Fontana,Philadelphia Union,21.0,18.0,2360000.0,2020.0,-0.29,Anthony Fontana,Anthony Fontana,PHI,M,17.0,5.0,509.0,6.0,0.0,16.0,13.0,3.0,0/0,3.0,3.0,1.06,37.5
+369,K. Przybylko,Philadelphia Union,27.0,25.0,2360000.0,2020.0,0.65,Kacper Przybylko,Kacper Przybylko,PHI,F,23.0,23.0,1974.0,8.0,6.0,54.0,25.0,4.0,1/1,5.0,3.0,0.36,14.8
+370,S. Santos,Philadelphia Union,26.0,24.0,1180000.0,2020.0,1.32,Sergio Santos,Sergio Santos,PHI,F,21.0,17.0,1218.0,8.0,2.0,34.0,12.0,3.0,0/0,6.0,2.0,0.59,23.5
+371,C. Burke,Philadelphia Union,29.0,26.0,708000.0,2020.0,0.83,Cory Burke,Cory Burke,PHI,F,5.0,0.0,110.0,2.0,0.0,9.0,5.0,1.0,0/0,2.0,0.0,1.64,22.2
+372,O. Alanís,San Jose Earthquakes,31.0,30.0,1180000.0,2020.0,0.69,Oswaldo Alanis,Oswaldo Alanis,SJ,D,14.0,14.0,1188.0,2.0,1.0,13.0,4.0,0.0,0/0,1.0,1.0,0.15,15.4
+373,F. Jungwirth,San Jose Earthquakes,32.0,28.0,944000.0,2020.0,-0.81,Florian Jungwirth,Florian Jungwirth,SJ,D,19.0,18.0,1612.0,0.0,0.0,4.0,1.0,0.0,0/0,0.0,0.0,0.0,0.0
+374,T. Beason,San Jose Earthquakes,23.0,22.0,295000.0,2020.0,-1.01,Tanner Beason,Tanner Beason,SJ,D,9.0,9.0,810.0,0.0,0.0,5.0,0.0,0.0,0/0,0.0,0.0,0.0,0.0
+375,M. López,San Jose Earthquakes,21.0,19.0,1180000.0,2020.0,0.4,Marcos Lopez,Marcos Lopez,SJ,D,13.0,11.0,990.0,2.0,2.0,7.0,4.0,0.0,0/0,1.0,1.0,0.18,28.6
+376,T. Thompson,San Jose Earthquakes,25.0,18.0,1180000.0,2020.0,0.41,Tommy Thompson,Tommy Thompson,SJ,D,20.0,13.0,1125.0,1.0,4.0,10.0,4.0,0.0,0/0,0.0,1.0,0.08,10.0
+377,P. Marie,San Jose Earthquakes,25.0,22.0,354000.0,2020.0,0.15,Paul Marie,Paul Marie,SJ,D,12.0,4.0,353.0,1.0,0.0,4.0,2.0,0.0,0/0,1.0,0.0,0.25,25.0
+378,J. Akanyirige,San Jose Earthquakes,19.0,15.0,236000.0,2020.0,0.1,Jacob Akanyirige,Jacob Akanyirige,SJ,D,1.0,1.0,69.0,0.0,0.0,0.0,0.0,0.0,0/0,0.0,0.0,0.0,0.0
+379,E. Remedi,San Jose Earthquakes,25.0,25.0,2360000.0,2020.0,-0.85,Eric Remedi,Eric Remedi,SJ,M,18.0,12.0,1161.0,1.0,1.0,11.0,1.0,0.0,0/0,0.0,1.0,0.08,9.1
+380,J. Yueill,San Jose Earthquakes,23.0,19.0,2360000.0,2020.0,-0.17,Jackson Yueill,Jackson Yueill,SJ,M,21.0,21.0,1861.0,1.0,1.0,20.0,8.0,1.0,0/0,0.0,1.0,0.05,5.0
+381,E. Calvillo,San Jose Earthquakes,23.0,20.0,236000.0,2020.0,0.09,Eric Calvillo,Eric Calvillo,SJ,M,6.0,1.0,184.0,0.0,1.0,2.0,1.0,0.0,0/0,0.0,0.0,0.0,0.0
+382,J. Skahan,San Jose Earthquakes,23.0,21.0,118000.0,2020.0,-0.05,Jack Skahan,Jack Skahan,SJ,M,1.0,0.0,11.0,0.0,0.0,0.0,0.0,0.0,0/0,0.0,0.0,0.0,0.0
+383,G. Fuentes,San Jose Earthquakes,19.0,15.0,206500.0,2020.0,-0.18,Gilbert Fuentes,Gilbert Fuentes,SJ,M,1.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,0/0,0.0,0.0,0.0,0.0
+384,C. Fierro,San Jose Earthquakes,26.0,24.0,1180000.0,2020.0,0.14,Carlos Fierro,Carlos Fierro,SJ,M,16.0,11.0,961.0,2.0,3.0,21.0,8.0,0.0,0/0,1.0,1.0,0.19,9.5
+385,S. Salinas,San Jose Earthquakes,34.0,25.0,354000.0,2020.0,1.34,Shea Salinas,Shea Salinas,SJ,M,23.0,4.0,774.0,2.0,2.0,10.0,3.0,1.0,0/0,0.0,2.0,0.23,20.0
+386,C. Espinoza,San Jose Earthquakes,25.0,24.0,2360000.0,2020.0,0.61,Cristian Espinoza,Cristian Espinoza,SJ,M,23.0,22.0,1812.0,3.0,9.0,52.0,19.0,3.0,0/0,2.0,1.0,0.15,5.8
+387,S. Haji,San Jose Earthquakes,21.0,19.0,206500.0,2020.0,0.18,Siad Haji,Siad Haji,SJ,M,4.0,0.0,49.0,0.0,0.0,1.0,1.0,0.0,0/0,0.0,0.0,0.0,0.0
+388,A. Ríos,San Jose Earthquakes,31.0,29.0,944000.0,2020.0,-2.4,Andres Rios,Andres Rios,SJ,F,22.0,20.0,1711.0,5.0,1.0,28.0,8.0,1.0,1/1,3.0,2.0,0.26,17.9
+389,C. Cowell,San Jose Earthquakes,17.0,15.0,708000.0,2020.0,0.11,Cade Cowell,Cade Cowell,SJ,F,17.0,4.0,466.0,1.0,1.0,14.0,7.0,0.0,0/0,0.0,1.0,0.19,7.1
+390,C. Wondolowski,San Jose Earthquakes,38.0,26.0,354000.0,2020.0,-1.03,Chris Wondolowski,Chris Wondolowski,SJ,F,22.0,13.0,1275.0,7.0,1.0,31.0,19.0,1.0,2/3,4.0,3.0,0.49,22.6
+391,D. Steres,Los Angeles Galaxy,30.0,25.0,885000.0,2020.0,0.93,Daniel Steres,Daniel Steres,LA,D,20.0,20.0,1800.0,1.0,0.0,9.0,3.0,0.0,0/0,1.0,0.0,0.05,11.1
+392,G. González,Los Angeles Galaxy,33.0,31.0,885000.0,2020.0,-0.74,Giancarlo Gonzalez,Giancarlo Gonzalez,LA,D,10.0,9.0,754.0,1.0,0.0,3.0,2.0,0.0,0/0,1.0,0.0,0.12,33.3
+393,J. Villafaña,Los Angeles Galaxy,31.0,31.0,1180000.0,2020.0,-0.13,Jorge Villafana,Jorge Villafaña,LA,F,19.0,17.0,1550.0,1.0,5.0,3.0,1.0,0.0,0/0,0.0,1.0,0.06,33.3
+394,D. Traoré,Los Angeles Galaxy,22.0,20.0,236000.0,2020.0,0.25,Diedie Traore,Diedie Traore,LA,D,6.0,0.0,85.0,0.0,0.0,0.0,0.0,0.0,0/0,0.0,0.0,0.0,0.0
+395,J. Araujo,Los Angeles Galaxy,19.0,17.0,2360000.0,2020.0,0.24,Julian Araujo,Julian Araujo,LA,D,17.0,17.0,1298.0,1.0,3.0,8.0,3.0,0.0,0/0,1.0,0.0,0.07,12.5
+396,O. Fisher,Los Angeles Galaxy,29.0,29.0,354000.0,2020.0,-0.43,Oniel Fisher,Oniel Fisher,LA,D,15.0,6.0,673.0,0.0,0.0,1.0,0.0,0.0,0/0,0.0,0.0,0.0,0.0
+397,C. Harvey,Los Angeles Galaxy,21.0,21.0,206500.0,2020.0,-0.19,Carlos Harvey,Carlos Harvey,LA,M,6.0,1.0,104.0,0.0,0.0,0.0,0.0,0.0,0/0,0.0,0.0,0.0,0.0
+398,S. Lletget,Los Angeles Galaxy,28.0,22.0,2360000.0,2020.0,-0.42,Sebastian Lletget,Sebastian Lletget,LA,M,21.0,19.0,1692.0,6.0,4.0,37.0,18.0,1.0,0/0,4.0,2.0,0.32,16.2
+399,J. dos Santos,Los Angeles Galaxy,30.0,27.0,1180000.0,2020.0,-0.92,Jonathan dos Santos,Jonathan dos Santos,LA,M,13.0,7.0,700.0,0.0,0.0,2.0,0.0,0.0,0/0,0.0,0.0,0.0,0.0
+400,E. Álvarez,Los Angeles Galaxy,18.0,15.0,4720000.0,2020.0,0.25,Efrain Alvarez,Efrain Alvarez,LA,M,16.0,6.0,718.0,1.0,2.0,17.0,4.0,0.0,0/0,0.0,1.0,0.13,5.9
+401,S. Kljestan,Los Angeles Galaxy,35.0,34.0,413000.0,2020.0,0.42,Sacha Kljestan,Sacha Kljestan,LA,M,15.0,8.0,769.0,0.0,0.0,13.0,4.0,0.0,0/0,0.0,0.0,0.0,0.0
+402,K. Koreniuk,Los Angeles Galaxy,23.0,22.0,236000.0,2020.0,0.3,Kai Koreniuk,Kai Koreniuk,LA,M,4.0,0.0,12.0,1.0,0.0,2.0,2.0,1.0,0/0,1.0,0.0,7.5,50.0
+403,C. Dunbar,Los Angeles Galaxy,18.0,17.0,236000.0,2020.0,-0.01,Cameron Dunbar,Cameron Dunbar,LA,F,4.0,1.0,82.0,0.0,0.0,3.0,0.0,0.0,0/0,0.0,0.0,0.0,0.0
+404,E. Zubak,Los Angeles Galaxy,22.0,20.0,472000.0,2020.0,0.26,Ethan Zubak,Ethan Zubak,LA,F,15.0,11.0,787.0,2.0,0.0,19.0,7.0,1.0,0/0,1.0,1.0,0.23,10.5
+405,T. Parker,Houston Dynamo FC,28.0,27.0,1180000.0,2020.0,-0.91,Tim Parker,Tim Parker,HOU,D,19.0,18.0,1620.0,0.0,1.0,2.0,1.0,0.0,0/0,0.0,0.0,0.0,0.0
+406,A. Fuenmayor,Houston Dynamo FC,24.0,21.0,354000.0,2020.0,0.0,Alejandro Fuenmayor,Alejandro Fuenmayor,HOU,D,5.0,3.0,301.0,0.0,0.0,1.0,0.0,0.0,0/0,0.0,0.0,0.0,0.0
+407,M. Figueroa,Houston Dynamo FC,37.0,35.0,236000.0,2020.0,1.48,Maynor Figueroa,Maynor Figueroa,HOU,D,20.0,19.0,1717.0,2.0,0.0,19.0,3.0,0.0,0/0,1.0,1.0,0.1,10.5
+408,S. Junqua,Houston Dynamo FC,24.0,22.0,295000.0,2020.0,-0.04,Sam Junqua,Sam Junqua,HOU,D,9.0,2.0,250.0,1.0,0.0,5.0,3.0,0.0,0/0,1.0,0.0,0.36,20.0
+409,Z. Valentin,Houston Dynamo FC,29.0,28.0,885000.0,2020.0,-0.27,Zarek Valentin,Zarek Valentin,HOU,D,19.0,18.0,1621.0,0.0,3.0,2.0,0.0,0.0,0/0,0.0,0.0,0.0,0.0
+410,J. Bizama,Houston Dynamo FC,26.0,25.0,590000.0,2020.0,0.4,Jose Bizama,Jose Bizama,HOU,D,8.0,6.0,567.0,0.0,0.0,3.0,0.0,0.0,0/0,0.0,0.0,0.0,0.0
+411,M. Vera,Houston Dynamo FC,25.0,23.0,1180000.0,2020.0,-1.16,Matias Vera,Matias Vera,HOU,M,20.0,20.0,1690.0,0.0,0.0,9.0,2.0,0.0,0/0,0.0,0.0,0.0,0.0
+412,D. Cerén,Houston Dynamo FC,31.0,28.0,708000.0,2020.0,-0.31,Darwin Ceren,Darwin Ceren,HOU,M,20.0,18.0,1535.0,1.0,4.0,14.0,6.0,0.0,1/1,1.0,0.0,0.06,7.1
+413,J. Corona,Houston Dynamo FC,30.0,30.0,1180000.0,2020.0,-0.2,Joe Corona,Joe Corona,HOU,M,16.0,12.0,986.0,1.0,0.0,10.0,6.0,1.0,0/0,0.0,1.0,0.09,10.0
+414,D. Jones,Houston Dynamo FC,24.0,23.0,472000.0,2020.0,-0.61,Derrick Jones,Derrick Jones,HOU,M,18.0,9.0,912.0,0.0,2.0,9.0,3.0,0.0,0/0,0.0,0.0,0.0,0.0
+415,B. García,Houston Dynamo FC,36.0,27.0,236000.0,2020.0,0.02,Boniek Garcia,Boniek Garcia,HOU,M,18.0,7.0,819.0,0.0,0.0,12.0,1.0,0.0,0/0,0.0,0.0,0.0,0.0
+416,N. Lemoine,Houston Dynamo FC,20.0,20.0,177000.0,2020.0,-0.41,Nico Lemoine,Nico Lemoine,HOU,F,11.0,0.0,163.0,0.0,0.0,2.0,0.0,0.0,0/0,0.0,0.0,0.0,0.0
+417,M. Rodríguez,Houston Dynamo FC,25.0,21.0,1180000.0,2020.0,0.93,Memo Rodriguez,Memo Rodriguez,HOU,M,21.0,20.0,1604.0,5.0,3.0,52.0,16.0,0.0,0/0,1.0,4.0,0.28,9.6
+418,D. Rios,Houston Dynamo FC,17.0,17.0,,2020.0,0.38,Daniel Rios,Daniel Rios,NSH,F,18.0,8.0,697.0,4.0,0.0,25.0,8.0,1.0,0/0,4.0,0.0,0.52,16.0
+419,D. Quintero,Houston Dynamo FC,33.0,32.0,1180000.0,2020.0,2.44,Darwin Quintero,Darwin Quintero,HOU,F,22.0,20.0,1689.0,7.0,10.0,59.0,24.0,2.0,0/1,4.0,3.0,0.37,11.9
+420,F. Picault,Houston Dynamo FC,30.0,29.0,826000.0,2020.0,-0.43,Fafa Picault,Fafa Picault,HOU,M,18.0,11.0,1040.0,3.0,2.0,22.0,8.0,0.0,0/0,3.0,0.0,0.26,13.6
+421,A. Lassiter,Houston Dynamo FC,26.0,26.0,472000.0,2020.0,0.14,Ariel Lassiter,Ariel Lassiter,HOU,F,16.0,10.0,949.0,3.0,1.0,30.0,16.0,0.0,0/0,2.0,1.0,0.28,10.0
+422,M. Urruti,Houston Dynamo FC,30.0,29.0,1180000.0,2020.0,0.33,Maximiliano Urruti,Maximiliano Urruti,HOU,F,15.0,10.0,895.0,5.0,2.0,22.0,11.0,2.0,0/0,3.0,2.0,0.5,22.7
+423,C. Ramirez,Houston Dynamo FC,29.0,28.0,1180000.0,2020.0,-0.73,Christian Ramirez,Christian Ramirez,HOU,F,15.0,8.0,675.0,2.0,2.0,13.0,7.0,0.0,0/0,0.0,2.0,0.27,15.4
+424,J. Glad,Real Salt Lake City,24.0,17.0,944000.0,2020.0,0.58,Justen Glad,Justen Glad,RSL,D,17.0,14.0,1279.0,1.0,0.0,6.0,3.0,0.0,0/0,1.0,0.0,0.07,16.7
+425,M. Silva,Real Salt Lake City,31.0,28.0,472000.0,2020.0,-0.28,Marcelo Silva,Marcelo Silva,RSL,D,15.0,15.0,1309.0,0.0,0.0,12.0,4.0,0.0,0/0,0.0,0.0,0.0,0.0
+426,E. Holt,Real Salt Lake City,24.0,22.0,354000.0,2020.0,-0.61,Erik Holt,Erik Holt,RSL,D,7.0,4.0,383.0,0.0,0.0,2.0,0.0,0.0,0/0,0.0,0.0,0.0,0.0
+427,D. Toia,Real Salt Lake City,28.0,26.0,944000.0,2020.0,-0.87,Donny Toia,Donny Toia,RSL,D,20.0,19.0,1674.0,0.0,1.0,7.0,0.0,0.0,0/0,0.0,0.0,0.0,0.0
+428,A. Herrera,Real Salt Lake City,23.0,20.0,1180000.0,2020.0,0.58,Aaron Herrera,Aaron Herrera,RSL,D,20.0,20.0,1796.0,0.0,1.0,17.0,2.0,0.0,0/0,0.0,0.0,0.0,0.0
+429,E. Luiz,Real Salt Lake City,32.0,31.0,708000.0,2020.0,-1.07,Everton Luiz,Everton Luiz,RSL,M,14.0,11.0,919.0,0.0,0.0,3.0,0.0,0.0,0/0,0.0,0.0,0.0,0.0
+430,J. Portillo,Real Salt Lake City,28.0,26.0,354000.0,2020.0,-0.23,Justin Portillo,Justin Portillo,RSL,M,5.0,3.0,265.0,0.0,0.0,2.0,0.0,0.0,0/0,0.0,0.0,0.0,0.0
+431,D. Kreilach,Real Salt Lake City,31.0,28.0,2360000.0,2020.0,-1.25,Damir Kreilach,Damir Kreilach,RSL,M,21.0,20.0,1770.0,8.0,1.0,48.0,20.0,2.0,0/0,5.0,3.0,0.41,16.7
+432,P. Ruiz,Real Salt Lake City,22.0,19.0,1180000.0,2020.0,-0.54,Pablo Ruiz,Pablo Ruiz,RSL,M,18.0,15.0,1328.0,1.0,1.0,33.0,8.0,0.0,0/0,1.0,0.0,0.07,3.0
+433,N. Besler,Real Salt Lake City,27.0,24.0,354000.0,2020.0,-0.68,Nick Besler,Nick Besler,RSL,M,12.0,6.0,569.0,0.0,0.0,3.0,1.0,0.0,0/0,0.0,0.0,0.0,0.0
+434,M. Chang,Real Salt Lake City,29.0,28.0,708000.0,2020.0,-0.44,Maikel Chang,Maikel Chang,RSL,M,19.0,12.0,1107.0,1.0,6.0,14.0,4.0,1.0,0/0,0.0,1.0,0.08,7.1
+435,J. Ramírez,Real Salt Lake City,19.0,18.0,590000.0,2020.0,0.17,Jeizon Ramirez,Jeizon Ramirez,RSL,F,10.0,0.0,80.0,0.0,0.0,5.0,1.0,0.0,0/0,0.0,0.0,0.0,0.0
+436,A. Rusnák,Real Salt Lake City,26.0,22.0,2360000.0,2020.0,0.63,Albert Rusnak,Albert Rusnak,RSL,M,16.0,15.0,1291.0,3.0,2.0,31.0,8.0,2.0,2/3,3.0,0.0,0.21,9.7
+437,J. Meram,Real Salt Lake City,32.0,31.0,1180000.0,2020.0,-0.03,Justin Meram,Justin Meram,RSL,M,21.0,13.0,1146.0,3.0,3.0,16.0,8.0,0.0,0/0,2.0,1.0,0.24,18.8
+438,T. Schmitt,Real Salt Lake City,23.0,21.0,236000.0,2020.0,-0.5,Tate Schmitt,Tate Schmitt,RSL,M,4.0,3.0,254.0,0.0,0.0,1.0,0.0,0.0,0/0,0.0,0.0,0.0,0.0
+439,C. Garcia,Real Salt Lake City,18.0,17.0,118000.0,2020.0,-0.01,Christopher Garcia,Christopher Garcia,RSL,F,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0/0,0.0,0.0,0.0,0.0
+440,D. Martínez,Real Salt Lake City,23.0,22.0,708000.0,2020.0,0.08,Douglas Martinez,Douglas Martinez,RSL,F,18.0,9.0,837.0,2.0,0.0,20.0,8.0,0.0,0/0,1.0,1.0,0.22,10.0

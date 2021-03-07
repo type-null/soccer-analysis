@@ -1,445 +1,445 @@
-,player,club,value,age,join_age,name,Player,Team,Season,Position,Minutes,Dribbling,Fouling,Interrupting,Passing,Receiving,Shooting,Goals Added
-0,E. Segura,Los Angeles FC,€2.50m,24.0,22.0,Eddie Segura,Eddie Segura,LAFC,2020.0,CB,2068.0,0.51,-0.11,-0.26,0.61,-0.02,-0.28,0.46
-1,M. Traore,Los Angeles FC,€100Th.,18.0,18.0,Mohamed Traore,Mohamed Traore,LAFC,2020.0,CB,49.0,-0.02,0.01,-0.03,-0.02,-0.01,-0.03,-0.11
-2,D. Palacios,Los Angeles FC,€1.50m,21.0,20.0,Diego Palacios,Diego Palacios,LAFC,2020.0,FB,1321.0,-0.02,0.15,0.22,-0.26,0.18,0.01,0.27
-3,M. Farfán,Los Angeles FC,€1.00m,22.0,22.0,Marco Farfan,Marco Farfan,POR,2020.0,FB,949.0,-0.25,-0.03,0.61,-0.37,-0.11,-0.04,-0.2
-4,J. Harvey,Los Angeles FC,€250Th.,37.0,33.0,Jordan Harvey,Jordan Harvey,LAFC,2020.0,FB,831.0,-0.09,-0.17,-0.43,0.24,-0.06,-0.0,-0.52
-5,T. Blackmon,Los Angeles FC,€600Th.,24.0,21.0,Tristan Blackmon,Tristan Blackmon,LAFC,2020.0,FB,1078.0,0.06,0.03,-0.22,0.33,0.09,0.21,0.51
-6,E. Dueñas,Los Angeles FC,€250Th.,16.0,15.0,Erik Duenas,Erik Dueñas,LAFC,2020.0,FB,49.0,-0.04,-0.03,-0.02,-0.01,-0.0,-0.0,-0.09
-7,E. Atuesta,Los Angeles FC,€3.50m,23.0,21.0,Eduard Atuesta,Eduard Atuesta,LAFC,2020.0,DM,1472.0,0.03,-0.0,-0.03,0.89,0.13,-0.0,1.02
-8,F. Ginella,Los Angeles FC,€3.00m,22.0,20.0,Francisco Ginella,Francisco Ginella,LAFC,2020.0,CM,1277.0,-0.36,-0.02,-0.07,0.11,-0.05,-0.06,-0.44
-9,J. Cifuentes,Los Angeles FC,€3.00m,21.0,20.0,Jose Cifuentes,José Cifuentes,LAFC,2020.0,CM,1239.0,0.19,0.05,-0.19,0.28,0.18,0.01,0.51
-10,M. Kaye,Los Angeles FC,€6.00m,26.0,23.0,Mark-Anthony Kaye,Mark-Anthony Kaye,LAFC,2020.0,CM,1173.0,0.29,0.03,0.07,0.26,0.3,0.11,1.06
-11,B. Duke,Los Angeles FC,€300Th.,20.0,18.0,Bryce Duke,Bryce Duke,LAFC,2020.0,CM,299.0,-0.17,-0.01,-0.13,-0.37,-0.0,-0.02,-0.69
-12,L. Blessing,Los Angeles FC,€4.00m,24.0,20.0,Latif Blessing,Latif Blessing,LAFC,2020.0,CM,1878.0,0.05,-0.18,0.07,-0.07,0.25,0.29,0.41
-13,D. Rossi,Los Angeles FC,€20.00m,23.0,19.0,Diego Rossi,Diego Rossi,LAFC,2020.0,W,1851.0,-0.52,0.03,0.17,0.15,2.01,1.12,2.95
-14,C. Torres,Los Angeles FC,€350Th.,16.0,16.0,Christian Torres,Christian Torres,LAFC,2020.0,W,253.0,0.04,-0.03,-0.02,0.28,-0.11,-0.01,0.15
-15,R. Edwards,Los Angeles FC,€300Th.,25.0,25.0,Raheem Edwards,Raheem Edwards,MIN,2020.0,W,329.0,-0.6,0.02,0.35,0.19,0.14,0.23,0.33
-16,C. Vela,Los Angeles FC,€15.00m,32.0,28.0,Carlos Vela,Carlos Vela,LAFC,2020.0,W,479.0,-0.21,0.05,-0.17,-0.02,0.21,0.36,0.23
-17,C. Baird,Los Angeles FC,€1.60m,25.0,24.0,Corey Baird,Corey Baird,RSL,2020.0,W,1649.0,-0.3,-0.17,0.1,-0.79,-0.58,-0.04,-1.79
-18,D. Musovski,Los Angeles FC,€500Th.,25.0,24.0,Danny Musovski,Danny Musovski,LAFC,2020.0,ST,724.0,0.07,-0.1,0.12,-0.34,0.41,0.17,0.32
-19,K. Opoku,Los Angeles FC,€150Th.,19.0,19.0,Kwadwo Opoku,Kwadwo Opoku,LAFC,2020.0,W,70.0,-0.04,0.25,-0.01,-0.04,0.01,0.01,0.17
-20,C. Makoun,Inter Miami CF,€1.00m,21.0,19.0,Christian Makoun,Christian Makoun,MIA,2020.0,CB,203.0,-0.1,0.02,0.03,-0.13,-0.04,-0.0,-0.23
-21,P. Seagrist,Inter Miami CF,€175Th.,23.0,22.0,Patrick Seagrist,Patrick Seagrist,NYRB,2020.0,FB,263.0,-0.03,-0.04,0.56,0.05,-0.04,-0.0,0.49
-22,D. Nealis,Inter Miami CF,€450Th.,22.0,21.0,Dylan Nealis,Dylan Nealis,MIA,2020.0,FB,1239.0,-0.09,0.04,0.26,-0.41,0.14,-0.04,-0.11
-23,V. Ulloa,Inter Miami CF,€800Th.,29.0,27.0,Victor Ulloa,Victor Ulloa,MIA,2020.0,DM,1582.0,-0.43,-0.02,0.23,-0.34,-0.12,0.02,-0.65
-24,B. Matuidi,Inter Miami CF,€5.00m,33.0,33.0,Blaise Matuidi,Blaise Matuidi,MIA,2020.0,DM,1387.0,-0.54,-0.27,-0.27,0.26,0.08,0.0,-0.73
-25,J. Chapman,Inter Miami CF,€300Th.,27.0,25.0,Jay Chapman,Jay Chapman,MIA,2020.0,DM,254.0,0.02,-0.05,-0.08,0.1,0.03,-0.05,-0.03
-26,L. Morgan,Inter Miami CF,€3.50m,24.0,23.0,Lewis Morgan,Lewis Morgan,MIA,2020.0,W,2105.0,1.25,-0.0,0.3,0.55,-0.64,-0.23,1.23
-27,B. Shea,Inter Miami CF,€500Th.,31.0,30.0,Brek Shea,Brek Shea,MIA,2020.0,W,704.0,-0.25,-0.05,-0.08,-0.22,0.26,-0.16,-0.5
-28,R. Pizarro,Inter Miami CF,€10.00m,27.0,26.0,Rodolfo Pizarro,Rodolfo Pizarro,MIA,2020.0,AM,1761.0,-0.03,0.1,-0.16,0.2,0.87,0.8,1.78
-29,F. Higuaín,Inter Miami CF,€300Th.,36.0,35.0,Federico Higuain,Federico Higuaín,"DCU, MIA",2020.0,AM,267.0,0.06,-0.04,-0.03,-0.06,0.1,0.1,0.12
-30,M. Pellegrini,Inter Miami CF,€7.50m,20.0,19.0,Matias Pellegrini,Matías Pellegrini,MIA,2020.0,W,1060.0,-0.54,-0.33,0.59,-0.5,-0.13,-0.11,-1.01
-31,G. Higuaín,Inter Miami CF,€10.00m,33.0,32.0,Gonzalo Higuain,Gonzalo Higuaín,MIA,2020.0,ST,861.0,-0.13,-0.01,-0.13,0.07,-0.33,0.17,-0.36
-32,J. Carranza,Inter Miami CF,€5.00m,20.0,19.0,Julian Carranza,Julián Carranza,MIA,2020.0,ST,655.0,-1.13,0.04,0.04,-0.04,0.15,0.09,-0.85
-33,R. Robinson,Inter Miami CF,€250Th.,22.0,21.0,Robbie Robinson,Robbie Robinson,MIA,2020.0,ST,498.0,0.25,-0.01,-0.09,-0.21,-0.12,-0.03,-0.21
-34,M. Robinson,Atlanta United FC,€3.00m,23.0,19.0,Miles Robinson,Miles Robinson,ATL,2020.0,CB,1534.0,0.2,0.15,-0.16,0.05,0.13,0.04,0.43
-35,G. Campbell,Atlanta United FC,€150Th.,19.0,18.0,George Campbell,George Campbell,ATL,2020.0,CB,58.0,0.01,0.0,-0.1,0.03,-0.01,-0.0,-0.06
-36,G. Bello,Atlanta United FC,€2.50m,19.0,15.0,George Bello,George Bello,ATL,2020.0,FB,1777.0,-0.17,0.09,0.2,-0.86,0.17,-0.01,-0.56
-37,M. Ambrose,Atlanta United FC,€350Th.,27.0,27.0,Mikey Ambrose,Mikey Ambrose,MIA,2020.0,FB,352.0,-0.3,0.0,0.03,-0.03,0.09,-0.02,-0.21
-38,B. Lennon,Atlanta United FC,€850Th.,23.0,22.0,Brooks Lennon,Brooks Lennon,ATL,2020.0,FB,1941.0,-0.35,-0.01,0.6,-0.57,0.03,-0.0,-0.29
-39,A. Walkes,Atlanta United FC,€600Th.,24.0,22.0,Anton Walkes,Anton Walkes,ATL,2020.0,CB,1479.0,0.16,0.13,-0.22,-0.28,-0.24,-0.06,-0.51
-40,M. Moreno,Atlanta United FC,€6.50m,25.0,25.0,Marcelino Moreno,Marcelino Moreno,ATL,2020.0,AM,498.0,-0.25,-0.01,0.15,0.02,-0.2,-0.01,-0.3
-41,E. Hyndman,Atlanta United FC,€1.80m,24.0,23.0,Emerson Hyndman,Emerson Hyndman,ATL,2020.0,CM,1515.0,0.15,-0.0,-0.14,0.05,-0.46,-0.24,-0.65
-42,M. Rossetto,Atlanta United FC,€725Th.,24.0,23.0,Matheus Rossetto,Matheus Rossetto,ATL,2020.0,CM,861.0,-0.12,-0.05,-0.16,-0.58,-0.38,-0.13,-1.43
-43,M. Adams,Atlanta United FC,€450Th.,24.0,22.0,Mo Adams,Mo Adams,ATL,2020.0,DM,846.0,-0.19,-0.08,0.01,-0.18,-0.23,-0.08,-0.73
-44,J. Mulraney,Atlanta United FC,€500Th.,24.0,23.0,Jake Mulraney,Jake Mulraney,ATL,2020.0,W,800.0,0.18,0.04,-0.08,-0.63,-0.37,-0.16,-1.01
-45,E. Barco,Atlanta United FC,€10.00m,21.0,18.0,Ezequiel Barco,Ezequiel Barco,ATL,2020.0,W,1145.0,0.84,0.16,-0.22,-0.74,-0.43,0.13,-0.27
-46,J. Damm,Atlanta United FC,€2.00m,28.0,27.0,Jurgen Damm,Jürgen Damm,ATL,2020.0,W,700.0,0.64,0.14,-0.08,0.16,-0.22,-0.16,0.47
-47,T. Wolff,Atlanta United FC,€100Th.,18.0,17.0,Tyler Wolff,Tyler Wolff,ATL,2020.0,CM,141.0,-0.02,-0.01,0.06,-0.13,-0.11,-0.03,-0.25
-48,J. Martínez,Atlanta United FC,€14.00m,27.0,23.0,Josef Martinez,Josef Martínez,ATL,2020.0,ST,71.0,0.03,-0.01,-0.21,-0.06,-0.14,0.05,-0.35
-49,É. Torres,Atlanta United FC,€500Th.,28.0,27.0,Erick Torres,Erick Torres,ATL,2020.0,ST,569.0,-0.54,-0.04,-0.12,-0.11,0.59,0.33,0.11
-50,C. Mavinga,Toronto FC,€1.00m,29.0,25.0,Chris Mavinga,Chris Mavinga,TOR,2020.0,CB,1650.0,0.12,-0.08,0.03,-0.06,-0.25,-0.06,-0.31
-51,O. González,Toronto FC,€800Th.,32.0,30.0,Omar Gonzalez,Omar González,TOR,2020.0,CB,2044.0,-0.14,0.17,0.11,-0.33,0.17,-0.05,-0.07
-52,E. Zavaleta,Toronto FC,€475Th.,28.0,22.0,Eriq Zavaleta,Eriq Zavaleta,TOR,2020.0,CB,320.0,-0.12,0.03,0.16,-0.0,-0.09,-0.0,-0.02
-53,J. Morrow,Toronto FC,€400Th.,33.0,26.0,Justin Morrow,Justin Morrow,TOR,2020.0,FB,1053.0,0.08,0.3,-0.05,-0.17,0.13,0.2,0.49
-54,R. Laryea,Toronto FC,€2.50m,26.0,24.0,Richie Laryea,Richie Laryea,TOR,2020.0,FB,1498.0,0.64,0.41,-0.17,-0.16,0.05,-0.15,0.61
-55,L. Fraser,Toronto FC,€1.50m,23.0,19.0,Liam Fraser,Liam Fraser,TOR,2020.0,CM,504.0,0.01,-0.05,0.31,0.07,-0.23,-0.07,0.03
-56,N. Okello,Toronto FC,€200Th.,20.0,18.0,Noble Okello,Noble Okello,TOR,2020.0,CM,29.0,0.0,-0.0,0.01,0.02,-0.01,-0.0,0.02
-57,J. Osorio,Toronto FC,€6.00m,28.0,20.0,Jonathan Osorio,Jonathan Osorio,TOR,2020.0,DM,1533.0,-0.49,0.06,0.04,0.3,0.48,0.23,0.63
-58,M. Bradley,Toronto FC,€800Th.,33.0,26.0,Michael Bradley,Michael Bradley,TOR,2020.0,CM,1157.0,0.1,0.08,0.61,-0.01,-0.21,-0.02,0.56
-59,A. Pozuelo,Toronto FC,€12.00m,29.0,27.0,Alejandro Pozuelo,Alejandro Pozuelo,TOR,2020.0,ST,2162.0,0.63,-0.17,0.02,0.49,-1.0,0.11,0.08
-60,J. Nelson,Toronto FC,€1.00m,18.0,17.0,Jayden Nelson,Jayden Nelson,TOR,2020.0,W,182.0,-0.14,-0.04,-0.09,-0.16,-0.12,0.0,-0.54
-61,J. Shaffelburg,Toronto FC,€200Th.,21.0,19.0,Jacob Shaffelburg,Jacob Shaffelburg,TOR,2020.0,W,147.0,-0.11,-0.02,0.01,0.02,-0.06,0.03,-0.13
-62,I. Achara,Toronto FC,€200Th.,23.0,22.0,Ifunanyachi Achara,Ifunanyachi Achara,TOR,2020.0,W,101.0,-0.08,-0.0,0.04,0.01,-0.13,0.07,-0.09
-63,E. Gallardo,Toronto FC,€550Th.,24.0,22.0,Erickson Gallardo,Erickson Gallardo,TOR,2020.0,W,195.0,0.01,-0.0,0.05,-0.05,-0.15,0.03,-0.12
-64,T. Endoh,Toronto FC,€550Th.,27.0,25.0,Tsubasa Endoh,Tsubasa Endoh,TOR,2020.0,W,714.0,0.02,-0.07,-0.23,-0.13,-0.32,0.1,-0.62
-65,G. Dorsey,Toronto FC,€200Th.,22.0,19.0,Griffin Dorsey,Griffin Dorsey,TOR,2020.0,ST,12.0,-0.01,0.0,-0.01,0.01,-0.03,-0.01,-0.05
-66,A. Akinola,Toronto FC,€5.00m,21.0,17.0,Ayo Akinola,Ayo Akinola,TOR,2020.0,ST,1147.0,0.38,0.12,-0.36,-0.16,1.27,0.22,1.46
-67,J. Altidore,Toronto FC,€2.00m,31.0,25.0,Jozy Altidore,Jozy Altidore,TOR,2020.0,ST,804.0,-0.68,0.64,-0.23,-0.2,0.65,0.3,0.48
-68,P. Mullins,Toronto FC,€350Th.,29.0,27.0,Patrick Mullins,Patrick Mullins,TOR,2020.0,ST,486.0,-0.15,-0.02,-0.17,-0.07,-0.45,-0.21,-1.07
-69,J. Mensah,Columbus Crew SC,€1.00m,30.0,26.0,Jonathan Mensah,Jonathan Mensah,CLB,2020.0,CB,2277.0,0.12,-0.12,-0.63,0.29,0.06,0.0,-0.29
-70,A. Keita,Columbus Crew SC,€1.00m,20.0,18.0,Aboubacar Keita,Aboubacar Keita,CLB,2020.0,CB,1043.0,0.0,0.17,-0.28,-0.23,-0.22,-0.01,-0.56
-71,V. Wormgoor,Columbus Crew SC,€700Th.,32.0,31.0,Vito Wormgoor,Vito Wormgoor,CLB,2020.0,CB,117.0,-0.02,0.0,-0.12,0.07,-0.02,-0.0,-0.09
-72,J. Williams,Columbus Crew SC,€450Th.,32.0,28.0,Josh Williams,Josh Williams,CLB,2020.0,CB,1119.0,0.18,0.09,0.43,0.15,0.05,0.0,0.9
-73,M. Valenzuela,Columbus Crew SC,€1.50m,22.0,20.0,Milton Valenzuela,Milton Valenzuela,CLB,2020.0,FB,1578.0,0.23,-0.21,0.09,0.25,-0.0,-0.11,0.25
-74,W. Francis,Columbus Crew SC,€500Th.,30.0,28.0,Waylon Francis,Waylon Francis,CLB,2020.0,FB,226.0,-0.03,-0.01,0.31,0.05,-0.05,-0.0,0.28
-75,H. Afful,Columbus Crew SC,€400Th.,34.0,29.0,Harrison Afful,Harrison Afful,CLB,2020.0,FB,1968.0,-0.27,-0.5,0.16,0.39,-0.26,-0.05,-0.54
-76,P. Kitchen,Columbus Crew SC,€800Th.,29.0,28.0,Perry Kitchen,Perry Kitchen,LAG,2020.0,DM,1845.0,-0.54,-0.29,0.1,-0.47,-0.37,-0.08,-1.64
-77,D. Nagbe,Columbus Crew SC,€3.50m,30.0,29.0,Darlington Nagbe,Darlington Nagbe,CLB,2020.0,DM,1300.0,0.25,0.04,-0.15,-0.78,-0.24,0.05,-0.82
-78,A. Morris,Columbus Crew SC,€600Th.,19.0,18.0,Aidan Morris,Aidan Morris,CLB,2020.0,DM,434.0,0.04,0.01,0.26,-0.26,-0.14,-0.05,-0.14
-79,L. Díaz,Columbus Crew SC,€800Th.,22.0,20.0,Luis Diaz,Luis Díaz,CLB,2020.0,W,1291.0,0.71,0.61,0.12,-0.24,-0.33,-0.06,0.81
-80,L. Zelarayán,Columbus Crew SC,€10.00m,28.0,27.0,Lucas Zelarayan,Lucas Zelarayán,CLB,2020.0,AM,1129.0,-0.31,-0.03,-0.23,-0.47,-0.43,-0.49,-1.96
-81,K. Molino,Columbus Crew SC,€2.00m,30.0,30.0,Kevin Molino,Kevin Molino,MIN,2020.0,W,1364.0,0.15,0.08,0.41,-0.6,0.51,1.02,1.57
-82,P. Santos,Columbus Crew SC,€2.00m,32.0,29.0,Pedro Santos,Pedro Santos,CLB,2020.0,W,1983.0,0.09,0.23,0.43,0.38,-1.0,-0.22,-0.1
-83,M. Hairston,Columbus Crew SC,€600Th.,26.0,26.0,Marlon Hairston,Marlon Hairston,MIN,2020.0,DM,452.0,-0.19,0.07,0.24,-0.18,-0.08,0.01,-0.13
-84,G. Zardes,Columbus Crew SC,€3.50m,29.0,26.0,Gyasi Zardes,Gyasi Zardes,CLB,2020.0,ST,1849.0,-0.21,-0.23,-0.19,-0.4,1.53,0.35,0.86
-85,B. Dibassy,Minnesota United FC,€2.00m,31.0,31.0,Bakaye Dibassy,Bakaye Dibassy,MIN,2020.0,CB,938.0,-0.07,0.07,0.78,-0.27,0.14,0.04,0.7
-86,I. Opara,Minnesota United FC,€1.00m,32.0,29.0,Ike Opara,Ike Opara,MIN,2020.0,CB,196.0,0.0,-0.0,-0.03,-0.06,0.07,0.03,0.02
-87,M. Boxall,Minnesota United FC,€650Th.,32.0,28.0,Michael Boxall,Michael Boxall,MIN,2020.0,CB,1868.0,0.38,-0.21,1.01,-0.45,0.03,0.18,0.93
-88,B. Kallman,Minnesota United FC,€300Th.,30.0,26.0,Brent Kallman,Brent Kallman,MIN,2020.0,CB,299.0,-0.04,0.04,-0.23,-0.08,-0.02,0.0,-0.33
-89,C. Gasper,Minnesota United FC,€2.00m,25.0,22.0,Chase Gasper,Chase Gasper,MIN,2020.0,FB,1639.0,0.23,-0.2,-0.84,-0.14,-0.16,-0.09,-1.21
-90,J. Raitala,Minnesota United FC,€500Th.,32.0,32.0,Jukka Raitala,Jukka Raitala,MTL,2020.0,FB,1475.0,0.0,0.07,-0.06,0.37,-0.1,-0.01,0.28
-91,R. Métanire,Minnesota United FC,€1.70m,30.0,28.0,Romain Metanire,Romain Métanire,MIN,2020.0,FB,1946.0,0.03,0.46,0.2,0.39,-0.13,-0.08,0.86
-92,N. Billingsley,Minnesota United FC,€100Th.,23.0,22.0,Noah Billingsley,Noah Billingsley,MIN,2020.0,FB,13.0,0.0,0.0,-0.12,0.0,-0.0,-0.0,-0.11
-93,W. Trapp,Minnesota United FC,€2.50m,28.0,27.0,Wil Trapp,Wil Trapp,MIA,2020.0,DM,1488.0,-0.08,-0.05,0.1,0.19,-0.38,-0.07,-0.3
-94,J. Gregus,Minnesota United FC,€3.00m,30.0,27.0,Jan Gregus,Jan Gregus,MIN,2020.0,DM,1745.0,0.31,0.01,0.34,0.17,-0.27,0.17,0.73
-95,H. Dotson,Minnesota United FC,€2.00m,23.0,21.0,Hassani Dotson,Hassani Dotson,MIN,2020.0,DM,1339.0,-0.42,0.03,-0.05,-0.56,-0.25,-0.07,-1.33
-96,J. Hayes,Minnesota United FC,€500Th.,25.0,24.0,Jacori Hayes,Jacori Hayes,MIN,2020.0,DM,657.0,0.16,0.02,0.14,-0.1,0.21,-0.01,0.41
-97,R. Lod,Minnesota United FC,€3.00m,27.0,26.0,Robin Lod,Robin Lod,MIN,2020.0,W,1720.0,0.95,-0.23,0.17,-0.08,-0.14,0.26,0.94
-98,E. Reynoso,Minnesota United FC,€10.00m,25.0,24.0,Emanuel Reynoso,Emanuel Reynoso,MIN,2020.0,AM,897.0,0.64,-0.03,0.02,0.49,-0.2,-0.31,0.6
-99,T. Chacón,Minnesota United FC,€1.50m,20.0,18.0,Thomas Chacon,Thomás Chacón,MIN,2020.0,W,191.0,-0.11,-0.05,-0.01,0.05,-0.14,-0.04,-0.3
-100,E. Finlay,Minnesota United FC,€1.50m,30.0,27.0,Ethan Finlay,Ethan Finlay,MIN,2020.0,W,1035.0,0.16,-0.16,-0.18,0.03,0.12,0.35,0.33
-101,J. Agudelo,Minnesota United FC,€1.00m,28.0,28.0,Juan Agudelo,Juan Agudelo,MIA,2020.0,ST,940.0,-0.26,-0.11,0.04,0.13,0.46,-0.15,0.1
-102,F. Langsdorf,Minnesota United FC,€400Th.,25.0,24.0,Foster Langsdorf,Foster Langsdorf,MIN,2020.0,W,17.0,-0.02,-0.0,0.01,-0.01,-0.0,-0.0,-0.03
-103,X. Arreaga,Seattle Sounders FC,€1.00m,26.0,24.0,Xavier Arreaga,Xavier Arreaga,SEA,2020.0,CB,1158.0,0.08,-0.23,0.04,-0.44,-0.21,-0.04,-0.8
-104,N. Tolo,Seattle Sounders FC,€1.80m,23.0,19.0,Nouhou Tolo,Nouhou Tolo,SEA,2020.0,FB,1448.0,-0.28,0.17,-0.26,-0.51,0.4,0.25,-0.21
-105,B. Smith,Seattle Sounders FC,€800Th.,26.0,26.0,Brad Smith,Brad Smith,SEA,2020.0,FB,150.0,-0.02,0.01,0.15,-0.11,0.07,-0.02,0.08
-106,J. Medranda,Seattle Sounders FC,€600Th.,27.0,26.0,Jimmy Medranda,Jimmy Medranda,"SEA, NSH",2020.0,FB,35.0,-0.09,-0.0,0.18,-0.0,-0.0,0.02,0.1
-107,K. Leerdam,Seattle Sounders FC,€1.00m,30.0,27.0,Kelvin Leerdam,Kelvin Leerdam,SEA,2020.0,FB,1586.0,-0.04,0.12,-0.4,-0.16,1.32,0.11,0.95
-108,A. Roldán,Seattle Sounders FC,€500Th.,24.0,21.0,Alex Roldan,Alex Roldan,SEA,2020.0,FB,658.0,-0.04,-0.01,0.31,0.02,-0.15,-0.02,0.1
-109,J. Delem,Seattle Sounders FC,€800Th.,27.0,23.0,Jordy Delem,Jordy Delem,SEA,2020.0,DM,805.0,-0.03,-0.04,0.23,-0.18,-0.2,0.01,-0.2
-110,D. Leyva,Seattle Sounders FC,€500Th.,17.0,15.0,Danny Leyva,Danny Leyva,SEA,2020.0,DM,70.0,-0.04,0.0,-0.02,-0.01,0.0,-0.0,-0.07
-111,J. Atencio,Seattle Sounders FC,€250Th.,19.0,18.0,Josh Atencio,Josh Atencio,SEA,2020.0,DM,38.0,0.0,-0.05,-0.02,-0.02,-0.01,-0.0,-0.11
-112,C. Roldán,Seattle Sounders FC,€5.00m,25.0,19.0,Cristian Roldan,Cristian Roldan,SEA,2020.0,W,1984.0,0.39,0.11,-0.34,-0.56,0.38,-0.23,-0.24
-113,K. Rowe,Seattle Sounders FC,€600Th.,29.0,29.0,Kelyn Rowe,Kelyn Rowe,NER,2020.0,DM,980.0,-0.02,-0.01,0.04,-0.18,0.27,0.09,0.19
-114,E. Dobbelaere,Seattle Sounders FC,€100Th.,18.0,17.0,Ethan Dobbelaere,Ethan Dobbelaere,SEA,2020.0,W,56.0,-0.0,-0.05,0.03,0.04,-0.06,0.0,-0.05
-115,N. Lodeiro,Seattle Sounders FC,€5.00m,31.0,27.0,Nicolas Lodeiro,Nicolás Lodeiro,SEA,2020.0,AM,1854.0,-0.52,0.64,-0.1,0.29,0.09,0.3,0.69
-116,J. Paulo,Seattle Sounders FC,€2.00m,29.0,29.0,Joao Paulo,João Paulo,SEA,2020.0,DM,1521.0,0.5,0.13,0.37,0.64,-0.18,-0.06,1.39
-117,S. Hopeau,Seattle Sounders FC,€200Th.,22.0,21.0,Shandon Hopeau,Shandon Hopeau,SEA,2020.0,W,116.0,-0.07,-0.03,0.07,-0.07,-0.06,-0.03,-0.18
-118,R. Ruidíaz,Seattle Sounders FC,€7.00m,30.0,27.0,Raul Ruidiaz,Raúl Ruidíaz,SEA,2020.0,ST,1558.0,-0.64,-0.24,-0.29,-0.16,0.01,0.01,-1.31
-119,F. Montero,Seattle Sounders FC,€800Th.,33.0,33.0,Fredy Montero,Fredy Montero,VAN,2020.0,ST,1158.0,0.35,0.12,0.14,1.0,-0.56,0.05,1.1
-120,W. Bruin,Seattle Sounders FC,€500Th.,31.0,27.0,Will Bruin,Will Bruin,SEA,2020.0,ST,567.0,-0.44,-0.04,-0.14,-0.34,0.77,-0.17,-0.35
-121,A. Carlos,Orlando City SC,€1.50m,27.0,27.0,Antonio Carlos,Antônio Carlos,ORL,2020.0,CB,1835.0,-0.15,0.15,-0.32,0.07,0.04,-0.08,-0.29
-122,R. Jansson,Orlando City SC,€750Th.,29.0,27.0,Robin Jansson,Robin Jansson,ORL,2020.0,CB,2201.0,-0.02,0.24,-0.23,-0.32,-0.29,0.08,-0.53
-123,R. Schlegel,Orlando City SC,€500Th.,23.0,23.0,Rodrigo Schlegel,Rodrigo Schlegel,ORL,2020.0,CB,735.0,-0.03,0.03,-0.46,-0.08,-0.1,-0.03,-0.66
-124,J. Moutinho,Orlando City SC,€800Th.,23.0,20.0,Joao Moutinho,João Moutinho,ORL,2020.0,FB,746.0,0.17,-0.0,-0.04,0.23,-0.03,-0.13,0.2
-125,K. Smith,Orlando City SC,€500Th.,29.0,26.0,Kyle Smith,Kyle Smith,ORL,2020.0,FB,1161.0,-0.18,-0.02,0.57,0.19,-0.18,0.19,0.56
-126,A. Perea,Orlando City SC,€3.00m,20.0,20.0,Andres Perea,Andrés Perea,ORL,2020.0,AM,1386.0,0.24,-0.27,0.08,-0.27,-0.75,-0.12,-1.1
-127,O. Rosell,Orlando City SC,€600Th.,28.0,25.0,Oriol Rosell,Oriol Rosell,ORL,2020.0,DM,635.0,-0.1,-0.03,0.18,0.02,-0.16,-0.04,-0.13
-128,J. Urso,Orlando City SC,€1.50m,31.0,30.0,Junior Urso,Júnior Urso,ORL,2020.0,CM,1888.0,-0.27,-0.07,-0.65,-0.45,0.68,0.76,-0.01
-129,J. Bender,Orlando City SC,€125Th.,19.0,18.0,Jordan Bender,Jordan Bender,ORL,2020.0,W,58.0,-0.15,-0.01,-0.02,-0.02,-0.02,-0.02,-0.26
-130,M. Pereyra,Orlando City SC,€4.00m,30.0,29.0,Mauricio Pereyra,Mauricio Pereyra,ORL,2020.0,AM,1174.0,-0.03,-0.1,0.02,0.78,-0.74,-0.28,-0.36
-131,A. Alvarado,Orlando City SC,€2.00m,21.0,21.0,Alexander Alvarado,Alexander Alvarado,ORL,2020.0,ST,36.0,-0.0,0.07,0.0,-0.0,-0.05,-0.01,0.01
-132,C. Mueller,Orlando City SC,€3.00m,24.0,21.0,Chris Mueller,Chris Mueller,ORL,2020.0,W,1575.0,0.03,-0.14,-0.04,-0.18,1.85,0.29,1.8
-133,B. Michel,Orlando City SC,€1.20m,23.0,21.0,Benji Michel,Benji Michel,ORL,2020.0,W,974.0,0.21,-0.06,-0.09,-0.24,-0.08,-0.18,-0.43
-134,T. Akindele,Orlando City SC,€600Th.,28.0,26.0,Tesho Akindele,Tesho Akindele,ORL,2020.0,ST,922.0,-0.24,-0.1,0.05,-0.43,-0.09,0.11,-0.71
-135,M. Aiás,Orlando City SC,€550Th.,24.0,23.0,Matheus Aias,Matheus Aias,ORL,2020.0,ST,36.0,-0.05,-0.0,0.03,-0.07,0.0,-0.08,-0.17
-136,D. Loera,Orlando City SC,€100Th.,22.0,21.0,David Loera,David Loera,ORL,2020.0,DM,33.0,-0.0,0.0,-0.01,-0.02,-0.0,-0.0,-0.04
-137,D. Zuparic,Portland Timbers,€1.00m,28.0,27.0,Dario Zuparic,Dario Zuparic,POR,2020.0,CB,1772.0,0.1,-0.07,0.46,-0.18,-0.0,0.21,0.52
-138,B. Tuiloma,Portland Timbers,€800Th.,25.0,22.0,Bill Tuiloma,Bill Tuiloma,POR,2020.0,CB,915.0,0.22,0.06,-0.3,-0.12,0.19,-0.0,0.05
-139,L. Mabiala,Portland Timbers,€600Th.,33.0,29.0,Larrys Mabiala,Larrys Mabiala,POR,2020.0,CB,1454.0,-0.28,0.14,-0.15,-0.27,0.04,0.07,-0.47
-140,P. Bonilla,Portland Timbers,€500Th.,21.0,20.0,Pablo Bonilla,Pablo Bonilla,POR,2020.0,FB,947.0,-0.19,0.05,0.17,-0.15,0.01,0.02,-0.1
-141,E. Williamson,Portland Timbers,€1.00m,23.0,20.0,Eryk Williamson,Eryk Williamson,POR,2020.0,DM,1538.0,0.4,0.19,-0.03,0.17,0.17,0.04,0.95
-142,C. Paredes,Portland Timbers,€600Th.,22.0,21.0,Cristhian Paredes,Cristhian Paredes,POR,2020.0,CM,911.0,0.14,0.02,0.22,-0.39,-0.05,-0.12,-0.19
-143,D. Chará,Portland Timbers,€400Th.,34.0,25.0,Diego Chara,Diego Chara,POR,2020.0,DM,1971.0,0.47,-0.24,0.71,1.01,-0.39,0.04,1.6
-144,R. Zambrano,Portland Timbers,€300Th.,26.0,24.0,Renzo Zambrano,Renzo Zambrano,POR,2020.0,DM,115.0,0.06,0.03,-0.01,-0.08,-0.02,-0.01,-0.03
-145,D. Váleri,Portland Timbers,€2.00m,34.0,27.0,Diego Valeri,Diego Valeri,POR,2020.0,AM,1763.0,-0.39,-0.02,0.04,1.27,-0.35,0.26,0.82
-146,S. Blanco,Portland Timbers,€2.50m,32.0,28.0,Sebastian Blanco,Sebastián Blanco,POR,2020.0,W,722.0,0.32,-0.09,0.17,0.09,-0.04,-0.02,0.43
-147,Y. Chará,Portland Timbers,€4.00m,29.0,28.0,Yimmi Chara,Yimmi Chará,POR,2020.0,W,1345.0,-0.56,0.19,0.24,-0.32,0.16,0.01,-0.29
-148,A. Polo,Portland Timbers,€2.00m,26.0,24.0,Andy Polo,Andy Polo,POR,2020.0,W,855.0,-0.14,-0.03,-0.06,-0.49,-0.29,-0.09,-1.1
-149,M. Loría,Portland Timbers,€600Th.,23.0,21.0,Marvin Loria,Marvin Loría,POR,2020.0,W,781.0,-0.14,-0.09,0.01,-0.33,-0.29,0.01,-0.82
-150,D. Asprilla,Portland Timbers,€500Th.,28.0,22.0,Dairon Asprilla,Dairon Asprilla,POR,2020.0,W,67.0,0.07,-0.02,0.05,-0.04,0.25,0.05,0.37
-151,T. Conechny,Portland Timbers,€600Th.,22.0,21.0,Tomas Conechny,Tomás Conechny,POR,2020.0,W,217.0,-0.11,0.09,-0.01,-0.17,-0.04,-0.14,-0.37
-152,F. Mora,Portland Timbers,€4.00m,27.0,27.0,Felipe Mora,Felipe Mora,POR,2020.0,ST,1312.0,-0.08,0.24,-0.05,-0.57,1.3,0.1,0.95
-153,J. Niezgoda,Portland Timbers,€4.00m,25.0,24.0,Jaroslaw Niezgoda,Jaroslaw Niezgoda,POR,2020.0,ST,692.0,0.3,-0.09,-0.06,-0.23,-0.12,-0.31,-0.5
-154,J. Ebobisse,Portland Timbers,€2.80m,24.0,19.0,Jeremy Ebobisse,Jeremy Ebobisse,POR,2020.0,W,1163.0,-0.45,-0.06,0.15,0.02,0.78,0.03,0.48
-155,A. Callens,New York City FC,€1.80m,28.0,24.0,Alexander Callens,Alexander Callens,NYC,2020.0,CB,2131.0,0.23,-0.08,-0.64,0.35,-0.06,0.1,-0.1
-156,M. Chanot,New York City FC,€1.00m,31.0,26.0,Maxime Chanot,Maxime Chanot,NYC,2020.0,CB,1887.0,-0.13,-0.11,-0.08,0.48,0.51,-0.01,0.66
-157,S. Ibeagha,New York City FC,€500Th.,29.0,26.0,Sebastien Ibeagha,Sebastien Ibeagha,NYC,2020.0,CB,329.0,-0.02,0.02,0.09,-0.19,-0.09,-0.01,-0.2
-158,A. Tinnerholm,New York City FC,€2.50m,30.0,26.0,Anton Tinnerholm,Anton Tinnerholm,NYC,2020.0,FB,2210.0,0.46,0.15,0.64,1.15,0.2,0.25,2.85
-159,K. Parks,New York City FC,€3.00m,23.0,22.0,Keaton Parks,Keaton Parks,NYC,2020.0,DM,1884.0,0.39,0.06,-0.95,0.22,0.86,0.5,1.08
-160,J. Sands,New York City FC,€2.50m,20.0,16.0,James Sands,James Sands,NYC,2020.0,DM,1539.0,0.11,0.06,0.09,-0.05,-0.19,0.09,0.12
-161,N. Acevedo,New York City FC,€2.00m,21.0,20.0,Nicolas Acevedo,Nicolás Acevedo,NYC,2020.0,DM,189.0,-0.08,-0.24,-0.15,-0.08,-0.06,-0.01,-0.62
-162,J. Torres,New York City FC,€150Th.,21.0,19.0,Juan Pablo Torres,Juan Pablo Torres,NYC,2020.0,W,5.0,0.0,-0.0,0.0,-0.0,0.0,-0.0,0.0
-163,G. Thórarinsson,New York City FC,€800Th.,28.0,27.0,Gudmundur Thorarinsson,Gudmundur Thórarinsson,NYC,2020.0,FB,802.0,0.02,0.02,-0.11,-0.11,-0.1,-0.05,-0.32
-164,T. Rocha,New York City FC,€450Th.,27.0,25.0,Tony Rocha,Tony Rocha,NYC,2020.0,W,114.0,0.14,-0.02,0.04,0.04,0.06,0.03,0.29
-165,M. Moralez,New York City FC,€1.50m,34.0,29.0,Maximiliano Moralez,Maximiliano Moralez,NYC,2020.0,AM,956.0,0.22,0.18,-0.22,0.24,0.08,0.15,0.65
-166,J. Medina,New York City FC,€3.00m,23.0,20.0,Jesus Medina,Jesús Medina,NYC,2020.0,W,1605.0,-0.93,-0.16,-0.08,-0.72,0.63,0.39,-0.88
-167,I. Tajouri-ShradiI,New York City FC,€1.00m,26.0,23.0,Ismael Tajouri-Shradi,Ismael Tajouri-Shradi,NYC,2020.0,W,776.0,-0.22,-0.04,-0.18,0.07,0.0,0.19,-0.19
-168,V. Castellanos,New York City FC,€4.00m,22.0,20.0,Valentin Castellanos,Valentín Castellanos,NYC,2020.0,ST,1493.0,-0.97,-0.17,0.36,-0.33,2.06,0.79,1.75
-169,W. Zimmerman,Nashville SC,€3.50m,27.0,26.0,Walker Zimmerman,Walker Zimmerman,NSH,2020.0,CB,2110.0,0.19,0.12,-0.02,-0.15,0.39,0.18,0.71
-170,D. Romney,Nashville SC,€600Th.,27.0,26.0,Dave Romney,Dave Romney,NSH,2020.0,CB,2235.0,-0.5,0.14,0.4,0.16,-0.12,-0.01,0.08
-171,J. Anibaba,Nashville SC,€400Th.,32.0,31.0,Jalil Anibaba,Jalil Anibaba,NSH,2020.0,FB,648.0,-0.07,0.03,0.05,-0.09,-0.11,0.04,-0.16
-172,J. Maher,Nashville SC,€150Th.,21.0,20.0,Jack Maher,Jack Maher,NSH,2020.0,CB,134.0,-0.01,0.01,0.15,-0.06,-0.03,-0.0,0.06
-173,D. Lovitz,Nashville SC,€1.00m,29.0,28.0,Daniel Lovitz,Daniel Lovitz,NSH,2020.0,FB,2041.0,0.28,0.05,0.31,-0.08,-0.23,0.01,0.35
-174,T. Washington,Nashville SC,€350Th.,27.0,26.0,Taylor Washington,Taylor Washington,NSH,2020.0,W,471.0,0.05,-0.01,0.11,-0.01,-0.2,-0.06,-0.13
-175,A. Johnston,Nashville SC,€2.00m,22.0,21.0,Alistair Johnston,Alistair Johnston,NSH,2020.0,FB,1474.0,-0.19,-0.02,0.27,-0.08,-0.12,0.0,-0.15
-176,E. Miller,Nashville SC,€400Th.,28.0,26.0,Eric Miller,Eric Miller,NSH,2020.0,FB,472.0,-0.11,0.03,-0.15,-0.25,0.22,-0.08,-0.33
-177,A. Godoy,Nashville SC,€600Th.,31.0,29.0,Anibal Godoy,Aníbal Godoy,NSH,2020.0,DM,1606.0,0.1,0.09,0.16,-0.02,-0.22,-0.07,0.03
-178,H. Mukhtar,Nashville SC,€6.00m,25.0,24.0,Hany Mukhtar,Hany Mukhtar,NSH,2020.0,AM,1159.0,-0.0,0.22,-0.26,-0.48,-0.18,-0.24,-0.94
-179,R. Leal,Nashville SC,€3.00m,24.0,22.0,Randall Leal,Randall Leal,NSH,2020.0,W,1697.0,-0.11,-0.07,0.83,0.2,-0.8,-0.2,-0.16
-180,H. Bwana,Nashville SC,€1.00m,21.0,21.0,Handwalla Bwana,Handwalla Bwana,"SEA, NSH",2020.0,W,259.0,-0.03,-0.04,0.05,-0.16,1.0,0.19,1.01
-181,A. Muyl,Nashville SC,€800Th.,25.0,24.0,Alex Muyl,Alex Muyl,"NSH, NYRB",2020.0,W,1236.0,-0.78,-0.13,-0.01,-0.22,-0.17,-0.25,-1.56
-182,J. Cádiz,Nashville SC,€3.00m,25.0,25.0,Jhonder Cadiz,Jhonder Cádiz,NSH,2020.0,ST,255.0,-0.18,-0.02,-0.05,-0.06,0.19,-0.0,-0.11
-183,D. Ríos,Nashville SC,€2.00m,26.0,23.0,Daniel Rios,Daniel Ríos,NSH,2020.0,ST,790.0,-0.69,-0.11,-0.12,-0.23,1.28,0.25,0.38
-184,C. Sapong,Nashville SC,€850Th.,32.0,32.0,C.J. Sapong,C.J. Sapong,CHI,2020.0,ST,542.0,-0.16,0.17,0.05,-0.01,-0.25,0.02,-0.17
-185,D. Badji,Nashville SC,€800Th.,28.0,27.0,Dominique Badji,Dominique Badji,NSH,2020.0,ST,788.0,0.27,-0.08,-0.06,0.02,-0.39,0.16,-0.08
-186,A. Danladi,Nashville SC,€600Th.,25.0,24.0,Abu Danladi,Abu Danladi,NSH,2020.0,ST,644.0,0.01,-0.1,-0.04,-0.18,0.14,-0.13,-0.3
-187,A. Trusty,Colorado Rapids,€1.50m,22.0,21.0,Auston Trusty,Auston Trusty,COL,2020.0,CB,589.0,0.22,0.05,-0.49,0.15,-0.21,0.12,-0.15
-188,L. Abubakar,Colorado Rapids,€1.00m,26.0,24.0,Lalas Abubakar,Lalas Abubakar,COL,2020.0,CB,1658.0,0.06,0.1,1.26,0.04,-0.23,-0.01,1.23
-189,D. Wilson,Colorado Rapids,€500Th.,29.0,26.0,Danny Wilson,Danny Wilson,COL,2020.0,CB,804.0,0.09,0.0,0.43,0.33,-0.14,-0.0,0.71
-190,D. Moor,Colorado Rapids,€200Th.,37.0,35.0,Drew Moor,Drew Moor,COL,2020.0,CB,532.0,0.06,0.05,-0.17,0.09,0.09,0.07,0.19
-191,S. Vines,Colorado Rapids,€2.00m,21.0,18.0,Sam Vines,Sam Vines,COL,2020.0,FB,1776.0,-0.19,-0.16,-0.06,-0.87,0.14,0.04,-1.1
-192,K. Rosenberry,Colorado Rapids,€1.00m,27.0,25.0,Keegan Rosenberry,Keegan Rosenberry,COL,2020.0,FB,1493.0,0.09,0.04,0.44,-0.12,-0.23,-0.07,0.15
-193,J. Kelly,Colorado Rapids,€175Th.,23.0,22.0,Jeremy Kelly,Jeremy Kelly,COL,2020.0,FB,281.0,0.27,0.0,-0.23,-0.35,0.0,-0.07,-0.37
-194,K. Acosta,Colorado Rapids,€3.00m,25.0,22.0,Kellyn Acosta,Kellyn Acosta,COL,2020.0,DM,1246.0,0.46,0.03,-0.17,-0.4,0.64,0.14,0.7
-195,C. Bassett,Colorado Rapids,€5.00m,19.0,17.0,Cole Bassett,Cole Bassett,COL,2020.0,AM,1062.0,-0.06,-0.07,0.07,-0.75,0.6,0.07,-0.14
-196,J. Price,Colorado Rapids,€1.50m,28.0,25.0,Jack Price,Jack Price,COL,2020.0,DM,1438.0,-0.02,-0.04,-0.12,0.37,-0.25,-0.05,-0.1
-197,C. Warner,Colorado Rapids,€200Th.,32.0,32.0,Collen Warner,Collen Warner,COL,2020.0,DM,297.0,-0.06,-0.05,0.01,-0.12,-0.04,-0.04,-0.31
-198,Y. Namli,Colorado Rapids,€2.00m,26.0,25.0,Younes Namli,Younes Namli,COL,2020.0,W,1350.0,1.41,-0.08,-0.15,0.17,-0.83,-0.25,0.26
-199,N. Mezquida,Colorado Rapids,€600Th.,29.0,26.0,Nicolas Mezquida,Nicolás Mezquida,COL,2020.0,AM,577.0,-0.09,-0.01,-0.11,-0.41,0.11,0.11,-0.4
-200,A. Shinyashiki,Colorado Rapids,€3.00m,23.0,21.0,Andre Shinyashiki,Andre Shinyashiki,COL,2020.0,W,1094.0,0.14,-0.11,0.19,-0.41,-0.02,-0.06,-0.26
-201,J. Lewis,Colorado Rapids,€1.20m,23.0,21.0,Jonathan Lewis,Jonathan Lewis,COL,2020.0,W,796.0,0.77,-0.01,-0.12,-0.14,-0.36,0.01,0.15
-202,N. Benezet,Colorado Rapids,€800Th.,30.0,28.0,Nicolas Benezet,Nicolas Benezet,COL,2020.0,W,551.0,-0.13,-0.03,0.32,0.27,-0.1,0.01,0.35
-203,M. Barrios,Colorado Rapids,€2.00m,29.0,29.0,Michael Barrios,Michael Barrios,FCD,2020.0,W,1819.0,0.8,0.29,0.1,0.07,0.38,0.05,1.68
-204,B. Galván,Colorado Rapids,€250Th.,20.0,19.0,Braian Galvan,Braian Galván,COL,2020.0,W,280.0,0.01,-0.05,-0.08,-0.05,0.14,0.12,0.09
-205,D. Rubio,Colorado Rapids,€1.50m,27.0,25.0,Diego Rubio,Diego Rubio,COL,2020.0,ST,1137.0,-0.11,-0.27,0.15,0.18,-0.89,0.04,-0.91
-206,R. Puncec,Sporting Kansas City,€700Th.,29.0,28.0,Roberto Puncec,Roberto Puncec,SKC,2020.0,CB,1858.0,0.19,-0.06,-1.01,-0.08,-0.4,-0.01,-1.37
-207,A. Fontàs,Sporting Kansas City,€500Th.,31.0,28.0,Andreu Fontas,Andreu Fontàs,SKC,2020.0,CB,292.0,0.09,0.03,0.11,0.14,-0.07,0.04,0.35
-208,G. Smith,Sporting Kansas City,€350Th.,25.0,22.0,Graham Smith,Graham Smith,SKC,2020.0,CB,350.0,0.04,0.02,-0.07,0.0,-0.04,-0.05,-0.1
-209,L. Martins,Sporting Kansas City,€600Th.,28.0,27.0,Luis Martins,Luis Martins,SKC,2020.0,FB,861.0,0.1,0.01,-0.04,0.14,-0.09,-0.03,0.09
-210,A. Dia,Sporting Kansas City,€300Th.,27.0,26.0,Amadou Dia,Amadou Dia,SKC,2020.0,FB,929.0,0.06,0.02,0.15,-0.16,0.02,-0.02,0.07
-211,J. Lindsey,Sporting Kansas City,€1.00m,20.0,17.0,Jaylin Lindsey,Jaylin Lindsey,SKC,2020.0,FB,1157.0,0.35,0.04,-0.29,-0.12,-0.11,-0.05,-0.18
-212,C. Duke,Sporting Kansas City,€500Th.,20.0,18.0,Cameron Duke,Cameron Duke,SKC,2020.0,CM,262.0,-0.03,0.03,-0.13,-0.06,0.0,0.0,-0.18
-213,G. Zusi,Sporting Kansas City,€300Th.,34.0,22.0,Graham Zusi,Graham Zusi,SKC,2020.0,FB,1356.0,-0.3,0.29,-0.54,0.4,-0.04,-0.13,-0.31
-214,I. Sánchez,Sporting Kansas City,€1.00m,30.0,26.0,Ilie Sanchez,Ilie Sánchez,SKC,2020.0,DM,1390.0,0.03,0.05,-0.11,-0.01,0.33,-0.01,0.27
-215,G. Busio,Sporting Kansas City,€4.00m,18.0,15.0,Gianluca Busio,Gianluca Busio,SKC,2020.0,DM,1408.0,0.06,0.06,-0.04,-0.35,0.02,0.35,0.1
-216,F. Hernández,Sporting Kansas City,€500Th.,22.0,21.0,Felipe Hernandez,Felipe Hernandez,SKC,2020.0,CM,867.0,-0.23,0.04,-0.18,-0.1,-0.28,0.12,-0.64
-217,R. Espinoza,Sporting Kansas City,€400Th.,34.0,28.0,Roger Espinoza,Roger Espinoza,SKC,2020.0,CM,1054.0,-0.14,-0.01,-0.55,0.06,0.01,0.04,-0.59
-218,G. Kinda,Sporting Kansas City,€4.00m,26.0,26.0,Gadi Kinda,Gadi Kinda,SKC,2020.0,CM,1486.0,-0.04,0.02,-0.2,-0.33,0.78,0.38,0.61
-219,D. Sallói,Sporting Kansas City,€1.00m,24.0,19.0,Daniel Salloi,Dániel Sallói,SKC,2020.0,W,199.0,-0.13,-0.02,0.07,-0.15,0.12,0.26,0.16
-220,J. Russell,Sporting Kansas City,€1.70m,30.0,27.0,Johnny Russell,Johnny Russell,SKC,2020.0,W,1656.0,0.89,0.01,-0.27,-0.14,0.6,-0.18,0.91
-221,A. Pulido,Sporting Kansas City,€9.00m,29.0,28.0,Alan Pulido,Alan Pulido,SKC,2020.0,ST,1045.0,0.87,0.04,-0.08,-0.44,-0.65,0.72,0.46
-222,K. Shelton,Sporting Kansas City,€800Th.,27.0,26.0,Khiry Shelton,Khiry Shelton,SKC,2020.0,W,1594.0,0.13,-0.09,-0.26,-0.91,0.73,0.13,-0.26
-223,T. Pettersson,FC Cincinnati,€650Th.,30.0,29.0,Tom Pettersson,Tom Pettersson,CIN,2020.0,CB,1255.0,0.13,-0.12,-0.5,-0.07,-0.14,0.0,-0.7
-224,N. Hagglund,FC Cincinnati,€600Th.,28.0,26.0,Nick Hagglund,Nick Hagglund,CIN,2020.0,CB,822.0,0.03,0.05,-0.46,0.31,0.31,-0.1,0.13
-225,M. van der Werff,FC Cincinnati,€600Th.,31.0,30.0,Maikel van der Werff,Maikel van der Werff,CIN,2020.0,CB,1073.0,0.27,0.03,-0.14,-0.01,0.17,0.12,0.43
-226,R. Matarrita,FC Cincinnati,€2.50m,26.0,26.0,Ronald Matarrita,Ronald Matarrita,NYC,2020.0,FB,1809.0,-0.17,-0.1,1.28,0.8,0.01,-0.04,1.77
-227,Z. Bailey,FC Cincinnati,€175Th.,20.0,19.0,Zico Bailey,Zico Bailey,CIN,2020.0,FB,321.0,0.01,0.0,0.19,-0.05,-0.05,-0.01,0.08
-228,K. Mokotjo,FC Cincinnati,€1.20m,29.0,29.0,Kamohelo Mokotjo,Kamohelo Mokotjo,CIN,2020.0,DM,595.0,-0.1,0.08,0.29,-0.49,-0.05,-0.03,-0.3
-229,C. Stanko,FC Cincinnati,€500Th.,27.0,25.0,Caleb Stanko,Caleb Stanko,CIN,2020.0,CM,546.0,-0.13,-0.01,0.23,-0.35,-0.22,-0.05,-0.53
-230,A. Cruz,FC Cincinnati,€1.00m,25.0,22.0,Allan Cruz,Allan Cruz,CIN,2020.0,AM,841.0,-0.57,0.14,-0.29,-0.18,0.0,0.03,-0.87
-231,H. Medunjanin,FC Cincinnati,€500Th.,35.0,34.0,Haris Medunjanin,Haris Medunjanin,CIN,2020.0,DM,1906.0,-0.21,-0.07,-0.23,1.37,-0.39,0.64,1.11
-232,F. Amaya,FC Cincinnati,€2.00m,20.0,18.0,Frankie Amaya,Frankie Amaya,CIN,2020.0,CM,1881.0,-0.18,0.07,0.19,-0.81,-0.76,-0.0,-1.49
-233,Á. Barreal,FC Cincinnati,€1.20m,20.0,20.0,Alvaro Barreal,Álvaro Barreal,CIN,2020.0,W,348.0,-0.04,0.02,-0.02,-0.17,-0.17,-0.21,-0.59
-234,B. Mines,FC Cincinnati,€200Th.,20.0,20.0,Ben Mines,Ben Mines,NYRB,2020.0,W,207.0,-0.04,0.01,-0.0,0.06,0.1,-0.15,-0.01
-235,J. Locadia,FC Cincinnati,€5.00m,27.0,26.0,Jurgen Locadia,Jürgen Locadia,CIN,2020.0,ST,1483.0,0.14,-0.16,-0.28,-0.6,-0.66,0.06,-1.51
-236,Y. Kubo,FC Cincinnati,€1.80m,27.0,26.0,Yuya Kubo,Yuya Kubo,CIN,2020.0,W,1412.0,-0.53,-0.07,-0.14,-0.71,-0.73,-0.2,-2.38
-237,B. Vázquez,FC Cincinnati,€450Th.,22.0,21.0,Brandon Vazquez,Brandon Vázquez,CIN,2020.0,ST,881.0,-0.12,-0.11,-0.3,-0.24,-0.1,-0.2,-1.07
-238,F. Kovacevic,FC Cincinnati,€200Th.,21.0,21.0,Franko Kovacevic,Franko Kovacevic,CIN,2020.0,ST,97.0,0.03,0.1,0.03,0.03,-0.08,-0.03,0.09
-239,H. Kessler,New England Revolution,€1.00m,22.0,21.0,Henry Kessler,Henry Kessler,NER,2020.0,CB,1997.0,0.03,0.24,0.81,-0.06,-0.17,-0.16,0.69
-240,D. Jones,New England Revolution,€800Th.,23.0,21.0,DeJuan Jones,DeJuan Jones,NER,2020.0,FB,1242.0,0.38,0.1,0.32,0.39,-0.07,0.02,1.14
-241,A. Farrell,New England Revolution,€1.00m,29.0,20.0,Andrew Farrell,Andrew Farrell,NER,2020.0,CB,1865.0,-0.35,0.13,-0.22,0.53,-0.42,-0.01,-0.36
-242,B. Bye,New England Revolution,€800Th.,25.0,22.0,Brandon Bye,Brandon Bye,NER,2020.0,FB,1791.0,-0.36,0.09,-0.45,0.34,0.43,-0.07,-0.02
-243,M. Polster,New England Revolution,€800Th.,27.0,27.0,Matt Polster,Matt Polster,NER,2020.0,DM,841.0,-0.14,0.21,-0.17,0.37,-0.04,-0.08,0.15
-244,S. Caldwell,New England Revolution,€800Th.,29.0,21.0,Scott Caldwell,Scott Caldwell,NER,2020.0,DM,1249.0,-0.06,0.06,-0.2,0.04,-0.27,0.03,-0.4
-245,E. Boateng,New England Revolution,€600Th.,27.0,26.0,Emmanuel Boateng,Emmanuel Boateng,CLB,2020.0,W,377.0,-0.23,-0.09,0.25,0.25,0.0,-0.02,0.16
-246,C. Gil,New England Revolution,€4.00m,28.0,26.0,Carles Gil,Carles Gil,NER,2020.0,AM,405.0,0.4,-0.01,-0.08,0.23,-0.21,-0.01,0.32
-247,T. Buchanan,New England Revolution,€2.00m,22.0,19.0,Tajon Buchanan,Tajon Buchanan,NER,2020.0,W,1229.0,-0.4,0.12,0.06,-0.61,1.04,0.01,0.22
-248,G. Bou,New England Revolution,€6.00m,31.0,29.0,Gustavo Bou,Gustavo Bou,NER,2020.0,ST,1449.0,-0.33,-0.13,-0.11,-0.06,0.45,-0.06,-0.24
-249,A. Buksa,New England Revolution,€4.50m,24.0,23.0,Adam Buksa,Adam Buksa,NER,2020.0,ST,1643.0,0.28,0.03,-0.17,0.31,0.79,0.56,1.8
-250,T. Bunbury,New England Revolution,€1.00m,31.0,23.0,Teal Bunbury,Teal Bunbury,NER,2020.0,W,1582.0,-0.75,-0.15,-0.1,-0.74,1.63,0.03,-0.08
-251,J. Rennicks,New England Revolution,€175Th.,21.0,19.0,Justin Rennicks,Justin Rennicks,NER,2020.0,W,53.0,0.07,-0.01,-0.01,0.07,0.34,0.11,0.57
-252,L. Binks,Club de Foot Montréal,€1.00m,19.0,18.0,Luis Binks,Luis Binks,MTL,2020.0,CB,1942.0,0.39,0.04,0.29,0.15,-0.05,-0.01,0.81
-253,A. Struna,Club de Foot Montréal,€750Th.,30.0,30.0,Aljaz Struna,Aljaz Struna,HOU,2020.0,CB,1575.0,0.17,-0.47,-1.69,-0.04,-0.26,0.01,-2.28
-254,R. Camacho,Club de Foot Montréal,€500Th.,30.0,27.0,Rudy Camacho,Rudy Camacho,MTL,2020.0,CB,1306.0,0.05,-0.68,-0.09,0.28,-0.15,0.04,-0.54
-255,J. Waterman,Club de Foot Montréal,€200Th.,25.0,23.0,Joel Waterman,Joel Waterman,MTL,2020.0,CB,604.0,0.08,0.03,-0.35,-0.03,-0.1,-0.06,-0.43
-256,K. Miller,Club de Foot Montréal,€800Th.,23.0,23.0,Kamal Miller,Kamal Miller,ORL,2020.0,FB,901.0,-0.01,0.02,0.4,0.28,-0.18,-0.03,0.47
-257,M. Kizza,Club de Foot Montréal,€250Th.,21.0,20.0,Mustafa Kizza,Mustafa Kizza,MTL,2020.0,W,28.0,0.0,-0.0,0.12,0.01,-0.03,-0.01,0.1
-258,V. Wanyama,Club de Foot Montréal,€8.00m,29.0,28.0,Victor Wanyama,Victor Wanyama,MTL,2020.0,DM,2079.0,-0.1,-0.0,0.55,-0.66,-0.18,-0.06,-0.45
-259,S. Piette,Club de Foot Montréal,€2.00m,26.0,22.0,Samuel Piette,Samuel Piette,MTL,2020.0,CM,2116.0,-0.61,-0.14,0.05,-0.21,0.07,-0.18,-1.01
-260,A. Sejdic,Club de Foot Montréal,€200Th.,24.0,22.0,Amar Sejdic,Amar Sejdic,MTL,2020.0,CM,767.0,-0.28,-0.02,0.21,-0.16,0.21,0.21,0.17
-261,E. Maciel,Club de Foot Montréal,€300Th.,23.0,22.0,Emanuel Maciel,Emanuel Maciel,MTL,2020.0,CM,841.0,0.06,0.01,0.02,-0.39,-0.28,-0.09,-0.68
-262,D. Mihailovic,Club de Foot Montréal,€4.00m,22.0,22.0,Djordje Mihailovic,Djordje Mihailovic,CHI,2020.0,W,1279.0,-0.1,0.26,0.49,0.21,0.1,0.26,1.23
-263,R. Quioto,Club de Foot Montréal,€2.00m,29.0,28.0,Romell Quioto,Romell Quioto,MTL,2020.0,ST,1603.0,0.64,0.29,0.27,-0.28,1.09,0.09,2.09
-264,L. Lappalainen,Club de Foot Montréal,€800Th.,22.0,20.0,Lassi Lappalainen,Lassi Lappalainen,MTL,2020.0,FB,748.0,0.41,-0.04,-0.22,-0.25,0.1,0.05,0.05
-265,B. Tabla,Club de Foot Montréal,€500Th.,21.0,20.0,Ballou Tabla,Ballou Tabla,MTL,2020.0,ST,126.0,0.01,-0.01,-0.05,-0.01,-0.13,-0.04,-0.23
-266,C. Bayiha,Club de Foot Montréal,€500Th.,22.0,19.0,Clement Bayiha,Clément Bayiha,MTL,2020.0,FB,91.0,-0.02,0.01,-0.0,-0.04,-0.02,-0.01,-0.07
-267,M. Toye,Club de Foot Montréal,€600Th.,22.0,21.0,Mason Toye,Mason Toye,"MIN, MTL",2020.0,ST,667.0,0.18,-0.04,-0.2,-0.27,-0.32,0.04,-0.62
-268,E. Hurtado,Club de Foot Montréal,€500Th.,30.0,30.0,Erik Hurtado,Erik Hurtado,SKC,2020.0,ST,450.0,0.38,-0.03,0.0,-0.01,-0.12,0.02,0.24
-269,M. Besler,Austin FC,€500Th.,34.0,33.0,Matt Besler,Matt Besler,SKC,2020.0,CB,900.0,0.43,0.1,0.58,0.67,-0.19,0.0,1.58
-270,J. Cascante,Austin FC,€400Th.,27.0,27.0,Julio Cascante,Julio Cascante,POR,2020.0,CB,443.0,0.1,0.04,-0.33,-0.02,0.15,0.03,-0.02
-271,B. Sweat,Austin FC,€950Th.,29.0,29.0,Ben Sweat,Ben Sweat,MIA,2020.0,FB,1830.0,-0.07,-0.16,0.51,-0.26,0.15,0.17,0.34
-272,H. Jiménez,Austin FC,€500Th.,32.0,32.0,Hector Jimenez,Héctor Jiménez,CLB,2020.0,FB,431.0,0.05,-0.22,0.19,0.17,-0.07,-0.02,0.11
-273,N. Lima,Austin FC,€1.50m,26.0,26.0,Nick Lima,Nick Lima,SJE,2020.0,FB,1649.0,0.35,0.12,-0.58,-0.59,-0.08,-0.03,-0.81
-274,A. Ring,Austin FC,€2.50m,29.0,29.0,Alexander Ring,Alexander Ring,NYC,2020.0,DM,2223.0,-0.33,0.08,0.32,-0.38,0.06,-0.02,-0.26
-275,S. Berhalter,Austin FC,€500Th.,19.0,19.0,Sebastian Berhalter,Sebastian Berhalter,CLB,2020.0,DM,442.0,-0.04,-0.01,-0.12,-0.28,-0.11,-0.04,-0.61
-276,J. Stroud,Austin FC,€800Th.,24.0,24.0,Jared Stroud,Jared Stroud,NYRB,2020.0,W,1033.0,0.12,0.25,0.44,0.24,-0.33,-0.32,0.41
-277,U. Segura,Austin FC,€750Th.,27.0,27.0,Ulises Segura,Ulises Segura,DCU,2020.0,ST,745.0,-0.17,-0.05,0.02,-0.43,-0.53,-0.03,-1.18
-278,D. Fagúndez,Austin FC,€1.20m,26.0,25.0,Diego Fagundez,Diego Fagundez,NER,2020.0,DM,1076.0,-0.17,-0.08,0.11,-0.07,0.17,0.4,0.36
-279,K. Manneh,Austin FC,€750Th.,26.0,26.0,Kekuta Manneh,Kekuta Manneh,"NER, CIN",2020.0,W,288.0,0.11,-0.01,0.03,0.14,0.02,0.02,0.33
-280,J. Gallagher,Austin FC,€500Th.,25.0,24.0,Jon Gallagher,Jon Gallagher,ATL,2020.0,W,1055.0,0.68,0.68,0.0,-0.47,-0.22,-0.2,0.46
-281,D. Hoesen,Austin FC,€600Th.,30.0,29.0,Danny Hoesen,Danny Hoesen,SJE,2020.0,W,286.0,-0.13,-0.03,-0.14,-0.23,0.07,-0.1,-0.55
-282,A. Schoenfeld,Austin FC,€400Th.,30.0,30.0,Aaron Schoenfeld,Aaron Schoenfeld,MIN,2020.0,ST,472.0,-0.08,0.0,-0.09,-0.06,0.31,0.09,0.18
-283,F. Calvo,Chicago Fire FC,€1.20m,28.0,26.0,Francisco Calvo,Francisco Calvo,CHI,2020.0,CB,2085.0,0.06,-0.14,-1.47,0.75,-0.17,-0.16,-1.13
-284,M. Pineda,Chicago Fire FC,€650Th.,23.0,22.0,Mauricio Pineda,Mauricio Pineda,CHI,2020.0,CB,2195.0,-0.09,0.17,0.12,-0.54,-0.17,-0.12,-0.62
-285,J. Kappelhof,Chicago Fire FC,€600Th.,30.0,25.0,Johan Kappelhof,Johan Kappelhof,CHI,2020.0,CB,228.0,0.02,0.03,0.27,-0.07,-0.04,-0.01,0.19
-286,C. Terán,Chicago Fire FC,€200Th.,20.0,19.0,Carlos Teran,Carlos Terán,CHI,2020.0,CB,30.0,-0.02,0.0,-0.11,-0.01,0.0,0.01,-0.14
-287,W. Omsberg,Chicago Fire FC,€175Th.,25.0,24.0,Wyatt Omsberg,Wyatt Omsberg,CHI,2020.0,CB,218.0,0.04,0.02,0.35,0.02,-0.05,-0.0,0.38
-288,M. Ángel Navarro,Chicago Fire FC,€500Th.,22.0,20.0,Miguel Angel Navarro,Miguel Ángel Navarro,CHI,2020.0,FB,1096.0,-0.27,0.01,0.0,-0.65,0.09,-0.1,-0.93
-289,J. Bornstein,Chicago Fire FC,€200Th.,36.0,34.0,Jonathan Bornstein,Jonathan Bornstein,CHI,2020.0,FB,1258.0,-0.18,0.09,0.56,-0.32,-0.06,0.01,0.11
-290,B. Sekulic,Chicago Fire FC,€650Th.,29.0,28.0,Boris Sekulic,Boris Sekulic,CHI,2020.0,FB,1975.0,-0.12,0.07,-0.07,-0.13,0.54,-0.22,0.06
-291,G. Giménez,Chicago Fire FC,€4.00m,29.0,28.0,Gaston Gimenez,Gastón Giménez,CHI,2020.0,DM,1718.0,0.0,-0.07,0.34,-0.51,-0.13,-0.08,-0.45
-292,Á. Medrán,Chicago Fire FC,€2.00m,26.0,25.0,Alvaro Medran,Álvaro Medrán,CHI,2020.0,DM,2157.0,0.1,0.08,0.33,1.24,0.01,0.08,1.83
-293,L. Stojanovic,Chicago Fire FC,€700Th.,27.0,26.0,Luka Stojanovic,Luka Stojanovic,CHI,2020.0,CM,73.0,-0.06,0.0,0.02,-0.04,-0.0,-0.03,-0.11
-294,B. Gutiérrez,Chicago Fire FC,€100Th.,17.0,16.0,Brian Gutierrez,Brian Gutierrez,CHI,2020.0,W,61.0,-0.01,-0.0,-0.02,-0.05,-0.02,-0.01,-0.11
-295,I. Aliseda,Chicago Fire FC,€3.00m,20.0,19.0,Ignacio Aliseda,Ignacio Aliseda,CHI,2020.0,W,1525.0,0.16,-0.11,-0.2,-0.37,-0.91,0.22,-1.21
-296,P. Frankowski,Chicago Fire FC,€2.00m,25.0,23.0,Przemyslaw Frankowski,Przemyslaw Frankowski,CHI,2020.0,W,1593.0,-1.27,-0.11,-0.02,-0.36,1.53,0.52,0.28
-297,F. Herbers,Chicago Fire FC,€1.00m,27.0,25.0,Fabian Herbers,Fabian Herbers,CHI,2020.0,AM,1459.0,-0.07,0.15,0.82,-0.56,1.01,0.09,1.45
-298,R. Beric,Chicago Fire FC,€3.00m,29.0,28.0,Robert Beric,Robert Beric,CHI,2020.0,ST,2101.0,-0.5,-0.15,-0.19,-0.28,-0.14,0.4,-0.87
-299,E. Collier,Chicago Fire FC,€400Th.,26.0,22.0,Elliot Collier,Elliot Collier,CHI,2020.0,W,655.0,0.5,-0.03,-0.06,-0.31,0.11,0.09,0.3
-300,M. Hedges,FC Dallas,€1.80m,30.0,30.0,Matt Hedges,Matt Hedges,FCD,2020.0,CB,1695.0,0.07,-0.2,0.28,0.8,-0.02,0.12,1.04
-301,R. Hollingshead,FC Dallas,€1.50m,29.0,22.0,Ryan Hollingshead,Ryan Hollingshead,FCD,2020.0,FB,1907.0,0.37,-0.24,0.41,-0.9,0.91,-0.18,0.37
-302,J. Nelson,FC Dallas,€400Th.,22.0,20.0,John Nelson,John Nelson,FCD,2020.0,FB,786.0,-0.37,0.04,0.21,-0.47,-0.07,0.0,-0.66
-303,T. Santos,FC Dallas,€1.20m,31.0,30.0,Thiago Santos,Thiago Santos,FCD,2020.0,DM,1760.0,-0.23,0.1,0.59,-0.67,-0.36,-0.13,-0.7
-304,E. Cerrillo,FC Dallas,€400Th.,20.0,18.0,Edwin Cerrillo,Edwin Cerrillo,FCD,2020.0,AM,31.0,-0.03,-0.0,-0.02,-0.03,-0.02,-0.0,-0.1
-305,B. Acosta,FC Dallas,€2.00m,27.0,25.0,Bryan Acosta,Bryan Acosta,FCD,2020.0,DM,801.0,-0.11,-0.19,0.02,0.14,-0.02,-0.02,-0.18
-306,T. Tessmann,FC Dallas,€1.00m,19.0,18.0,Tanner Tessmann,Tanner Tessmann,FCD,2020.0,DM,1135.0,0.13,0.01,-0.47,-0.66,-0.15,-0.06,-1.21
-307,P. Pomykal,FC Dallas,€3.00m,21.0,16.0,Paxton Pomykal,Paxton Pomykal,FCD,2020.0,W,180.0,0.32,0.03,-0.02,0.06,-0.08,-0.06,0.25
-308,A. Ricaurte,FC Dallas,€1.80m,29.0,28.0,Andres Ricaurte,Andrés Ricaurte,FCD,2020.0,AM,1187.0,0.23,-0.01,0.03,-0.18,-0.37,-0.08,-0.38
-309,D. Sealy,FC Dallas,€200Th.,17.0,15.0,Dante Sealy,Dante Sealy,FCD,2020.0,W,85.0,-0.05,-0.01,-0.03,0.06,0.01,-0.06,-0.08
-310,E. Twumasi,FC Dallas,€150Th.,23.0,20.0,Ema Twumasi,Ema Twumasi,FCD,2020.0,W,55.0,-0.04,-0.01,-0.03,-0.03,0.01,-0.01,-0.1
-311,J. Ferreira,FC Dallas,€3.00m,20.0,16.0,Jesus Ferreira,Jesús Ferreira,FCD,2020.0,AM,1065.0,-0.52,-0.12,0.09,-0.48,-0.23,0.19,-1.07
-312,F. Jara,FC Dallas,€2.40m,32.0,31.0,Franco Jara,Franco Jara,FCD,2020.0,ST,1491.0,0.17,-0.21,-0.22,-0.55,0.85,0.23,0.28
-313,R. Pepi,FC Dallas,€1.00m,18.0,16.0,Ricardo Pepi,Ricardo Pepi,FCD,2020.0,ST,557.0,-0.16,-0.06,-0.14,-0.04,0.9,0.41,0.9
-314,A. Long,New York Red Bulls,€3.50m,28.0,24.0,Aaron Long,Aaron Long,NYRB,2020.0,CB,1454.0,-0.03,0.11,-0.6,-0.02,0.04,-0.02,-0.53
-315,A. Tarek,New York Red Bulls,€600Th.,28.0,26.0,Amro Tarek,Amro Tarek,NYRB,2020.0,CB,1041.0,-0.1,-0.13,0.07,-0.07,-0.12,-0.01,-0.36
-316,A. Reyes,New York Red Bulls,€600Th.,21.0,21.0,Andres Reyes,Andrés Reyes,MIA,2020.0,CB,1214.0,0.09,-0.25,-0.33,-0.39,-0.04,-0.01,-0.93
-317,S. Nealis,New York Red Bulls,€350Th.,24.0,21.0,Sean Nealis,Sean Nealis,NYRB,2020.0,CB,492.0,-0.18,0.01,0.3,0.03,-0.12,-0.06,-0.01
-318,J. Pendant,New York Red Bulls,€800Th.,24.0,23.0,Jason Pendant,Jason Pendant,NYRB,2020.0,FB,1765.0,-0.14,-0.0,-0.52,0.09,-0.2,-0.01,-0.78
-319,K. Duncan,New York Red Bulls,€1.00m,23.0,20.0,Kyle Duncan,Kyle Duncan,NYRB,2020.0,FB,2084.0,0.11,0.07,0.63,-0.28,-0.12,-0.03,0.39
-320,M. Egbo,New York Red Bulls,€300Th.,23.0,22.0,Mandela Egbo,Mandela Egbo,NYRB,2020.0,FB,486.0,-0.02,0.02,0.2,0.16,-0.08,0.0,0.28
-321,S. Davis,New York Red Bulls,€1.20m,28.0,21.0,Sean Davis,Sean Davis,NYRB,2020.0,CM,1178.0,-0.01,0.02,-0.27,0.06,-0.29,-0.1,-0.59
-322,D. Yearwood,New York Red Bulls,€500Th.,21.0,20.0,Dru Yearwood,Dru Yearwood,NYRB,2020.0,CM,650.0,0.01,-0.27,-0.19,-0.22,-0.18,-0.03,-0.87
-323,C. Clark,New York Red Bulls,€3.00m,17.0,17.0,Caden Clark,Caden Clark,NYRB,2020.0,W,299.0,-0.24,-0.04,-0.08,-0.12,0.02,-0.13,-0.6
-324,D. Royer,New York Red Bulls,€2.50m,30.0,26.0,Daniel Royer,Daniel Royer,NYRB,2020.0,ST,1445.0,-0.32,-0.14,0.14,0.43,0.46,0.21,0.79
-325,O. Fernandez,New York Red Bulls,€800Th.,22.0,19.0,Omir Fernandez,Omir Fernandez,NYRB,2020.0,W,652.0,-0.24,-0.02,-0.04,-0.46,0.44,0.18,-0.14
-326,F. Valot,New York Red Bulls,€700Th.,28.0,24.0,Florian Valot,Florian Valot,NYRB,2020.0,W,1637.0,-0.31,0.04,0.07,-0.26,-0.21,0.25,-0.42
-327,B. White,New York Red Bulls,€1.00m,25.0,22.0,Brian White,Brian White,NYRB,2020.0,ST,954.0,-0.27,-0.11,0.34,-0.59,0.52,-0.03,-0.14
-328,T. Barlow,New York Red Bulls,€500Th.,25.0,23.0,Tom Barlow,Tom Barlow,NYRB,2020.0,ST,1069.0,-0.13,-0.11,-0.05,-0.08,0.68,0.74,1.05
-329,R. Veselinovic,Vancouver Whitecaps FC,€1.00m,21.0,21.0,Ranko Veselinovic,Ranko Veselinovic,VAN,2020.0,CB,1534.0,0.16,0.15,0.05,-0.5,-0.1,-0.08,-0.32
-330,É. Godoy,Vancouver Whitecaps FC,€1.00m,27.0,26.0,Erik Godoy,Erik Godoy,VAN,2020.0,CB,1025.0,0.18,0.01,0.65,0.25,-0.18,-0.07,0.85
-331,D. Cornelius,Vancouver Whitecaps FC,€500Th.,23.0,21.0,Derek Cornelius,Derek Cornelius,VAN,2020.0,CB,1127.0,-0.25,0.37,-0.12,-0.21,-0.02,-0.03,-0.25
-332,J. Khmiri,Vancouver Whitecaps FC,€400Th.,23.0,21.0,Jasser Khmiri,Jasser Khmiri,VAN,2020.0,CB,429.0,0.09,-0.37,0.07,-0.01,-0.09,-0.11,-0.42
-333,A. Adnan,Vancouver Whitecaps FC,€1.50m,27.0,25.0,Ali Adnan,Ali Adnan,VAN,2020.0,FB,1953.0,-0.16,0.17,0.34,0.64,-0.35,-0.11,0.53
-334,C. Gutiérrez,Vancouver Whitecaps FC,€800Th.,24.0,22.0,Cristian Gutierrez,Cristián Gutiérrez,VAN,2020.0,FB,743.0,-0.18,0.08,-0.01,0.24,-0.1,-0.02,0.0
-335,J. Nerwinski,Vancouver Whitecaps FC,€700Th.,26.0,22.0,Jake Nerwinski,Jake Nerwinski,VAN,2020.0,FB,1868.0,-0.2,-0.2,-0.17,-0.93,-0.02,0.23,-1.28
-336,R. Teibert,Vancouver Whitecaps FC,€1.00m,28.0,16.0,Russell Teibert,Russell Teibert,VAN,2020.0,CM,1729.0,-0.34,-0.06,0.37,-0.62,-0.7,-0.18,-1.53
-337,M. Baldisimo,Vancouver Whitecaps FC,€600Th.,20.0,18.0,Michael Baldisimo,Michael Baldisimo,VAN,2020.0,CM,789.0,-0.35,0.03,0.83,-0.31,-0.1,-0.06,0.03
-338,J. Bikel,Vancouver Whitecaps FC,€1.80m,25.0,24.0,Janio Bikel,Janio Bikel,VAN,2020.0,CM,1027.0,-0.2,-0.01,0.82,-0.23,-0.33,-0.07,-0.01
-339,L. Owusu,Vancouver Whitecaps FC,€750Th.,23.0,22.0,Leonard Owusu,Leonard Owusu,VAN,2020.0,CM,1443.0,-0.34,-0.07,0.28,-0.54,-0.15,-0.08,-0.9
-340,A. Rose,Vancouver Whitecaps FC,€450Th.,31.0,28.0,Andy Rose,Andy Rose,VAN,2020.0,CB,941.0,0.11,0.05,-0.09,0.1,-0.08,0.06,0.16
-341,P. Metcalfe,Vancouver Whitecaps FC,€150Th.,22.0,21.0,Patrick Metcalfe,Patrick Metcalfe,VAN,2020.0,CM,239.0,-0.1,0.0,-0.03,-0.12,-0.04,-0.02,-0.3
-342,C. Dájome,Vancouver Whitecaps FC,€2.00m,27.0,26.0,Cristian Dajome,Cristian Dájome,VAN,2020.0,W,1746.0,-0.25,-0.08,0.21,-0.49,0.21,-0.46,-0.86
-343,R. Raposo,Vancouver Whitecaps FC,€500Th.,22.0,20.0,Ryan Raposo,Ryan Raposo,VAN,2020.0,W,478.0,-0.45,-0.0,-0.01,-0.09,-0.35,-0.12,-1.02
-344,L. Cavallini,Vancouver Whitecaps FC,€4.50m,28.0,27.0,Lucas Cavallini,Lucas Cavallini,VAN,2020.0,ST,1584.0,-1.51,0.24,-0.16,-0.22,2.37,0.32,1.04
-345,T. Bair,Vancouver Whitecaps FC,€500Th.,21.0,19.0,Theo Bair,Theo Bair,VAN,2020.0,ST,530.0,-0.17,-0.07,0.1,-0.12,-0.24,-0.15,-0.65
-346,T. Ricketts,Vancouver Whitecaps FC,€350Th.,33.0,32.0,Tosaint Ricketts,Tosaint Ricketts,VAN,2020.0,ST,538.0,-0.35,0.22,-0.04,-0.07,-0.66,-0.17,-1.06
-347,D. Pines,D.C. United,€650Th.,22.0,20.0,Donovan Pines,Donovan Pines,DCU,2020.0,CB,1501.0,-0.69,0.38,0.74,-0.11,0.61,0.2,1.14
-348,F. Brillant,D.C. United,€300Th.,35.0,32.0,Frederic Brillant,Frédéric Brillant,DCU,2020.0,CB,1865.0,0.18,0.09,0.04,-0.22,-0.23,-0.09,-0.24
-349,J. Mora,D.C. United,€800Th.,28.0,25.0,Joseph Mora,Joseph Mora,DCU,2020.0,FB,1741.0,-0.09,0.0,-0.28,-0.41,-0.25,-0.05,-1.07
-350,J. Moreno,D.C. United,€1.00m,27.0,24.0,Junior Moreno,Júnior Moreno,DCU,2020.0,CM,1907.0,-0.33,-0.03,-0.19,-0.16,-0.55,-0.17,-1.44
-351,M. Nyeman,D.C. United,€350Th.,17.0,15.0,Moses Nyeman,Moses Nyeman,DCU,2020.0,CM,564.0,-0.01,-0.08,0.41,-0.28,-0.17,-0.02,-0.14
-352,R. Canouse,D.C. United,€1.00m,25.0,22.0,Russell Canouse,Russell Canouse,DCU,2020.0,CB,1365.0,0.14,-0.23,-0.06,-0.36,0.03,-0.05,-0.54
-353,J. Gressel,D.C. United,€4.00m,27.0,26.0,Julian Gressel,Julian Gressel,DCU,2020.0,W,1842.0,-0.22,-0.36,1.07,0.02,-0.34,0.02,0.18
-354,K. Paredes,D.C. United,€800Th.,17.0,16.0,Kevin Paredes,Kevin Paredes,DCU,2020.0,FB,1048.0,-0.55,0.04,0.29,-0.37,0.2,-0.02,-0.41
-355,E. Flores,D.C. United,€3.50m,26.0,25.0,Edison Flores,Edison Flores,DCU,2020.0,W,962.0,-0.1,0.14,-0.29,-0.15,-0.36,-0.19,-0.95
-356,Y. Asad,D.C. United,€2.00m,26.0,25.0,Yamil Asad,Yamil Asad,DCU,2020.0,W,1753.0,-0.64,0.12,0.05,-0.09,-0.54,-0.15,-1.25
-357,G. Yow,D.C. United,€300Th.,18.0,16.0,Griffin Yow,Griffin Yow,DCU,2020.0,W,455.0,-0.01,-0.01,-0.06,-0.16,-0.23,-0.17,-0.64
-358,O. Kamara,D.C. United,€1.50m,31.0,29.0,Ola Kamara,Ola Kamara,DCU,2020.0,ST,1453.0,-0.04,-0.16,0.03,-0.15,-0.78,0.19,-0.9
-359,Y. Reyna,D.C. United,€800Th.,27.0,27.0,Yordy Reyna,Yordy Reyna,"VAN, DCU",2020.0,ST,717.0,-0.2,-0.05,0.15,0.12,-0.55,-0.18,-0.71
-360,E. Sorga,D.C. United,€500Th.,21.0,20.0,Erik Sorga,Erik Sorga,DCU,2020.0,ST,790.0,-0.07,0.1,0.07,-0.4,-0.41,0.08,-0.62
-361,A. Perez,D.C. United,€250Th.,25.0,25.0,Adrien Perez,Adrien Pérez,LAFC,2020.0,W,352.0,-0.2,0.01,-0.04,-0.34,0.18,0.01,-0.39
-362,J. Elliott,Philadelphia Union,€1.50m,25.0,21.0,Jack Elliott,Jack Elliott,PHI,2020.0,CB,1107.0,-0.41,0.06,0.81,0.14,0.17,-0.03,0.73
-363,J. Glesnes,Philadelphia Union,€1.00m,26.0,25.0,Jakob Glesnes,Jakob Glesnes,PHI,2020.0,CB,1660.0,-0.34,0.12,-0.3,-0.11,0.05,0.01,-0.57
-364,K. Wagner,Philadelphia Union,€2.50m,24.0,21.0,Kai Wagner,Kai Wagner,PHI,2020.0,FB,1296.0,-0.07,0.09,-0.06,-0.18,-0.14,-0.05,-0.42
-365,M. Real,Philadelphia Union,€600Th.,21.0,18.0,Matthew Real,Matthew Real,PHI,2020.0,FB,717.0,0.02,0.01,-0.65,-0.03,-0.12,-0.03,-0.8
-366,O. Mbaizo,Philadelphia Union,€600Th.,23.0,20.0,Olivier Mbaizo,Olivier Mbaizo,PHI,2020.0,FB,1156.0,0.05,0.0,-0.07,0.13,-0.16,0.05,-0.01
-367,J. Andrés Martínez,Philadelphia Union,€600Th.,26.0,25.0,Jose Andres Martinez,José Andrés Martínez,PHI,2020.0,DM,1242.0,-0.17,-0.15,0.51,-0.34,-0.2,-0.04,-0.39
-368,C. Turner,Philadelphia Union,€175Th.,19.0,18.0,Cole Turner,Cole Turner,PHI,2020.0,W,7.0,-0.0,-0.0,-0.0,-0.01,-0.01,-0.0,-0.03
-369,J. Monteiro,Philadelphia Union,€3.00m,27.0,26.0,Jamiro Monteiro,Jamiro Monteiro,PHI,2020.0,CM,2128.0,-0.46,0.09,-0.42,0.07,0.39,-0.12,-0.44
-370,A. Bedoya,Philadelphia Union,€700Th.,33.0,29.0,Alejandro Bedoya,Alejandro Bedoya,PHI,2020.0,CM,1998.0,0.01,-0.29,0.02,1.27,0.48,0.16,1.64
-371,A. Fontana,Philadelphia Union,€2.00m,21.0,18.0,Anthony Fontana,Anthony Fontana,PHI,2020.0,AM,599.0,-0.14,-0.1,-0.02,-0.15,-0.08,0.2,-0.29
-372,K. Przybylko,Philadelphia Union,€2.00m,27.0,25.0,Kacper Przybylko,Kacper Przybylko,PHI,2020.0,ST,2160.0,0.21,-0.45,0.2,0.39,0.15,0.15,0.65
-373,S. Santos,Philadelphia Union,€1.50m,26.0,24.0,Sergio Santos,Sergio Santos,PHI,2020.0,ST,1304.0,0.16,0.1,0.67,0.01,0.26,0.12,1.32
-374,C. Burke,Philadelphia Union,€600Th.,29.0,26.0,Cory Burke,Cory Burke,PHI,2020.0,ST,141.0,0.06,-0.02,0.03,0.02,0.62,0.12,0.83
-375,O. Alanís,San Jose Earthquakes,€1.60m,31.0,30.0,Oswaldo Alanis,Oswaldo Alanís,SJE,2020.0,CB,1287.0,0.38,0.12,0.12,0.31,-0.1,-0.13,0.69
-376,F. Jungwirth,San Jose Earthquakes,€800Th.,32.0,28.0,Florian Jungwirth,Florian Jungwirth,SJE,2020.0,CB,1733.0,0.21,0.05,-0.51,-0.18,-0.39,0.03,-0.81
-377,T. Beason,San Jose Earthquakes,€250Th.,23.0,22.0,Tanner Beason,Tanner Beason,SJE,2020.0,CB,869.0,0.09,-0.14,-0.32,-0.02,-0.41,-0.2,-1.01
-378,M. López,San Jose Earthquakes,€1.00m,21.0,19.0,Marcos Lopez,Marcos López,SJE,2020.0,FB,1064.0,0.11,0.13,0.62,-0.3,-0.05,-0.11,0.4
-379,T. Thompson,San Jose Earthquakes,€1.00m,25.0,18.0,Tommy Thompson,Tommy Thompson,SJE,2020.0,FB,1211.0,-0.11,0.66,-0.1,-0.66,0.37,0.24,0.41
-380,P. Marie,San Jose Earthquakes,€300Th.,25.0,22.0,Paul Marie,Paul Marie,SJE,2020.0,FB,408.0,0.05,0.27,-0.11,-0.27,0.08,0.12,0.15
-381,J. Akanyirige,San Jose Earthquakes,€200Th.,19.0,15.0,Jacob Akanyirige,Jacob Akanyirige,SJE,2020.0,CB,73.0,0.06,0.01,0.04,0.01,-0.02,-0.0,0.1
-382,E. Remedi,San Jose Earthquakes,€2.50m,25.0,25.0,Eric Remedi,Eric Remedi,ATL,2020.0,DM,1280.0,-0.08,0.2,-0.3,-0.66,-0.2,0.18,-0.85
-383,J. Yueill,San Jose Earthquakes,€2.50m,23.0,19.0,Jackson Yueill,Jackson Yueill,SJE,2020.0,CM,2023.0,0.03,0.01,0.22,-0.2,-0.15,-0.08,-0.17
-384,E. Calvillo,San Jose Earthquakes,€200Th.,23.0,20.0,Eric Calvillo,Eric Calvillo,SJE,2020.0,CM,209.0,-0.04,-0.01,0.07,-0.22,0.22,0.06,0.09
-385,J. Skahan,San Jose Earthquakes,€100Th.,23.0,21.0,Jack Skahan,Jack Skahan,SJE,2020.0,DM,15.0,-0.0,-0.01,-0.01,-0.01,-0.0,-0.0,-0.05
-386,G. Fuentes,San Jose Earthquakes,€175Th.,19.0,15.0,Gilbert Fuentes,Gilbert Fuentes,SJE,2020.0,W,11.0,-0.05,-0.0,0.01,-0.16,0.02,-0.0,-0.18
-387,C. Fierro,San Jose Earthquakes,€1.50m,26.0,24.0,Carlos Fierro,Carlos Fierro,SJE,2020.0,W,1050.0,-0.44,-0.01,-0.34,-0.04,0.56,0.4,0.14
-388,S. Salinas,San Jose Earthquakes,€300Th.,34.0,25.0,Shea Salinas,Shea Salinas,SJE,2020.0,W,900.0,0.47,0.25,0.23,0.2,0.06,0.12,1.34
-389,C. Espinoza,San Jose Earthquakes,€2.00m,25.0,24.0,Cristian Espinoza,Cristian Espinoza,SJE,2020.0,W,1907.0,0.86,-0.07,0.51,0.15,-0.47,-0.37,0.61
-390,S. Haji,San Jose Earthquakes,€175Th.,21.0,19.0,Siad Haji,Siad Haji,SJE,2020.0,W,69.0,0.09,0.0,-0.0,-0.04,0.15,-0.02,0.18
-391,A. Ríos,San Jose Earthquakes,€800Th.,31.0,29.0,Andres Rios,Andrés Ríos,SJE,2020.0,ST,1845.0,-1.38,-0.33,-0.23,-0.4,0.15,-0.21,-2.4
-392,C. Cowell,San Jose Earthquakes,€600Th.,17.0,15.0,Cade Cowell,Cade Cowell,SJE,2020.0,W,553.0,0.23,-0.03,0.33,-0.03,-0.2,-0.19,0.11
-393,C. Wondolowski,San Jose Earthquakes,€300Th.,38.0,26.0,Chris Wondolowski,Chris Wondolowski,SJE,2020.0,ST,1386.0,-0.81,0.09,0.03,-0.13,-0.12,-0.08,-1.03
-394,D. Steres,Los Angeles Galaxy,€750Th.,30.0,25.0,Daniel Steres,Daniel Steres,LAG,2020.0,CB,1852.0,0.08,0.15,0.51,-0.01,0.11,0.1,0.93
-395,G. González,Los Angeles Galaxy,€750Th.,33.0,31.0,Giancarlo Gonzalez,Giancarlo González,LAG,2020.0,CB,819.0,-0.04,-0.24,-0.09,-0.25,-0.09,-0.03,-0.74
-396,J. Villafaña,Los Angeles Galaxy,€1.00m,31.0,31.0,Jorge Villafana,Jorge Villafaña,POR,2020.0,FB,1711.0,-0.35,-0.13,0.57,-0.2,0.05,-0.07,-0.13
-397,D. Traoré,Los Angeles Galaxy,€200Th.,22.0,20.0,Diedie Traore,Diedie Traore,LAG,2020.0,FB,104.0,-0.01,0.3,-0.06,-0.01,0.02,-0.0,0.25
-398,J. Araujo,Los Angeles Galaxy,€2.00m,19.0,17.0,Julian Araujo,Julian Araujo,LAG,2020.0,FB,1315.0,-0.35,-0.15,1.13,-0.31,-0.05,-0.02,0.24
-399,O. Fisher,Los Angeles Galaxy,€300Th.,29.0,29.0,Oniel Fisher,Oniel Fisher,DCU,2020.0,FB,764.0,-0.13,0.01,0.09,-0.27,-0.12,-0.02,-0.43
-400,C. Harvey,Los Angeles Galaxy,€175Th.,21.0,21.0,Carlos Harvey,Carlos Harvey,LAG,2020.0,CM,135.0,-0.08,-0.02,0.02,-0.02,-0.07,-0.01,-0.19
-401,S. Lletget,Los Angeles Galaxy,€2.50m,28.0,22.0,Sebastian Lletget,Sebastian Lletget,LAG,2020.0,AM,1694.0,-0.32,-0.05,0.18,-1.0,0.29,0.48,-0.42
-402,J. dos Santos,Los Angeles Galaxy,€1.00m,30.0,27.0,Jonathan dos Santos,Jonathan dos Santos,LAG,2020.0,DM,666.0,-0.24,-0.01,-0.3,-0.07,-0.18,-0.11,-0.92
-403,E. Álvarez,Los Angeles Galaxy,€4.00m,18.0,15.0,Efrain Alvarez,Efrain Álvarez,LAG,2020.0,W,744.0,0.27,0.23,-0.16,-0.02,-0.3,0.24,0.25
-404,S. Kljestan,Los Angeles Galaxy,€350Th.,35.0,34.0,Sacha Kljestan,Sacha Kljestan,LAG,2020.0,CM,846.0,-0.07,-0.05,0.36,0.15,-0.06,0.1,0.42
-405,K. Koreniuk,Los Angeles Galaxy,€200Th.,23.0,22.0,Kai Koreniuk,Kai Koreniuk,LAG,2020.0,W,33.0,0.07,-0.0,-0.02,-0.01,0.21,0.05,0.3
-406,C. Dunbar,Los Angeles Galaxy,€200Th.,18.0,17.0,Cameron Dunbar,Cameron Dunbar,LAG,2020.0,AM,102.0,0.15,-0.01,-0.09,-0.06,-0.07,0.07,-0.01
-407,E. Zubak,Los Angeles Galaxy,€400Th.,22.0,20.0,Ethan Zubak,Ethan Zubak,LAG,2020.0,ST,853.0,-0.15,-0.12,0.05,-0.01,0.41,0.08,0.26
-408,T. Parker,Houston Dynamo FC,€1.80m,28.0,27.0,Tim Parker,Tim Parker,NYRB,2020.0,CB,1754.0,-0.34,-0.08,-0.14,0.01,-0.37,0.01,-0.91
-409,A. Fuenmayor,Houston Dynamo FC,€300Th.,24.0,21.0,Alejandro Fuenmayor,Alejandro Fuenmayor,HOU,2020.0,CB,341.0,-0.16,0.04,0.16,-0.03,-0.04,0.03,0.0
-410,M. Figueroa,Houston Dynamo FC,€200Th.,37.0,35.0,Maynor Figueroa,Maynor Figueroa,HOU,2020.0,CB,1879.0,0.41,-0.27,0.3,0.61,0.48,-0.06,1.48
-411,S. Junqua,Houston Dynamo FC,€250Th.,24.0,22.0,Sam Junqua,Sam Junqua,HOU,2020.0,FB,302.0,-0.08,-0.01,0.13,-0.15,0.09,-0.02,-0.04
-412,Z. Valentin,Houston Dynamo FC,€750Th.,29.0,28.0,Zarek Valentin,Zarek Valentin,HOU,2020.0,FB,1783.0,-0.2,0.07,-0.16,0.28,-0.23,-0.03,-0.27
-413,J. Bizama,Houston Dynamo FC,€500Th.,26.0,25.0,Jose Bizama,José Bizama,HOU,2020.0,FB,635.0,0.03,0.01,0.22,-0.08,0.03,0.2,0.4
-414,M. Vera,Houston Dynamo FC,€1.80m,25.0,23.0,Matias Vera,Matías Vera,HOU,2020.0,DM,1840.0,-0.14,0.13,-0.58,-0.33,-0.33,0.1,-1.16
-415,D. Cerén,Houston Dynamo FC,€600Th.,31.0,28.0,Darwin Ceren,Darwin Cerén,HOU,2020.0,CM,1661.0,-0.41,-0.01,0.98,-0.59,-0.17,-0.11,-0.31
-416,J. Corona,Houston Dynamo FC,€1.00m,30.0,30.0,Joe Corona,Joe Corona,LAG,2020.0,DM,974.0,-0.36,0.18,0.07,-0.14,-0.01,0.06,-0.2
-417,D. Jones,Houston Dynamo FC,€400Th.,24.0,23.0,Derrick Jones,Derrick Jones,NSH,2020.0,ST,987.0,-0.08,-0.06,0.2,-0.25,-0.34,-0.07,-0.61
-418,B. García,Houston Dynamo FC,€200Th.,36.0,27.0,Boniek Garcia,Boniek García,HOU,2020.0,CM,926.0,-0.0,-0.02,0.12,-0.08,0.02,-0.01,0.02
-419,N. Lemoine,Houston Dynamo FC,€150Th.,20.0,20.0,Nico Lemoine,Nico Lemoine,HOU,2020.0,W,228.0,0.01,0.01,-0.13,-0.15,-0.11,-0.03,-0.41
-420,M. Rodríguez,Houston Dynamo FC,€1.50m,25.0,21.0,Memo Rodriguez,Memo Rodríguez,HOU,2020.0,CM,1710.0,0.13,0.53,-0.38,-0.26,0.25,0.66,0.93
-421,D. Rios,Houston Dynamo FC,-,17.0,17.0,Daniel Rios,Daniel Ríos,NSH,2020.0,ST,790.0,-0.69,-0.11,-0.12,-0.23,1.28,0.25,0.38
-422,D. Quintero,Houston Dynamo FC,€1.60m,33.0,32.0,Darwin Quintero,Darwin Quintero,HOU,2020.0,W,1822.0,0.27,-0.2,-0.21,2.15,-0.23,0.67,2.44
-423,F. Picault,Houston Dynamo FC,€700Th.,30.0,29.0,Fafa Picault,Fafa Picault,FCD,2020.0,W,1127.0,0.08,-0.13,-0.28,-0.22,0.46,-0.35,-0.43
-424,A. Lassiter,Houston Dynamo FC,€400Th.,26.0,26.0,Ariel Lassiter,Ariel Lassiter,HOU,2020.0,W,1027.0,-0.19,-0.04,-0.32,-0.53,0.91,0.31,0.14
-425,M. Urruti,Houston Dynamo FC,€1.20m,30.0,29.0,Maximiliano Urruti,Maximiliano Urruti,MTL,2020.0,ST,963.0,-0.01,-0.08,0.16,-0.62,0.58,0.3,0.33
-426,C. Ramirez,Houston Dynamo FC,€1.00m,29.0,28.0,Christian Ramirez,Christian Ramirez,HOU,2020.0,ST,757.0,-0.17,-0.09,-0.03,-0.06,-0.28,-0.09,-0.73
-427,J. Glad,Real Salt Lake City,€800Th.,24.0,17.0,Justen Glad,Justen Glad,RSL,2020.0,CB,1391.0,0.22,0.27,0.14,-0.11,-0.02,0.09,0.58
-428,M. Silva,Real Salt Lake City,€400Th.,31.0,28.0,Marcelo Silva,Marcelo Silva,RSL,2020.0,CB,1415.0,-0.08,0.03,-0.37,-0.18,0.33,-0.01,-0.28
-429,E. Holt,Real Salt Lake City,€300Th.,24.0,22.0,Erik Holt,Erik Holt,RSL,2020.0,CB,418.0,0.07,-0.03,-0.74,0.19,-0.09,-0.02,-0.61
-430,D. Toia,Real Salt Lake City,€800Th.,28.0,26.0,Donny Toia,Donny Toia,RSL,2020.0,FB,1806.0,-0.19,-0.0,-0.32,-0.08,-0.25,-0.03,-0.87
-431,A. Herrera,Real Salt Lake City,€1.20m,23.0,20.0,Aaron Herrera,Aaron Herrera,RSL,2020.0,FB,1944.0,0.37,-0.27,0.52,-0.15,0.01,0.09,0.58
-432,E. Luiz,Real Salt Lake City,€600Th.,32.0,31.0,Everton Luiz,Everton Luiz,RSL,2020.0,CM,1003.0,-0.07,-0.07,-0.14,-0.42,-0.28,-0.09,-1.07
-433,J. Portillo,Real Salt Lake City,€300Th.,28.0,26.0,Justin Portillo,Justin Portillo,RSL,2020.0,CM,289.0,-0.04,-0.0,-0.01,-0.05,-0.07,-0.05,-0.23
-434,D. Kreilach,Real Salt Lake City,€2.00m,31.0,28.0,Damir Kreilach,Damir Kreilach,RSL,2020.0,ST,1903.0,-0.34,-0.01,-0.54,-0.43,0.12,-0.06,-1.25
-435,P. Ruiz,Real Salt Lake City,€1.00m,22.0,19.0,Pablo Ruiz,Pablo Ruiz,RSL,2020.0,DM,1413.0,0.06,0.04,0.19,-0.22,-0.39,-0.22,-0.54
-436,N. Besler,Real Salt Lake City,€300Th.,27.0,24.0,Nick Besler,Nick Besler,RSL,2020.0,DM,623.0,-0.06,-0.02,-0.28,-0.3,-0.12,0.11,-0.68
-437,M. Chang,Real Salt Lake City,€600Th.,29.0,28.0,Maikel Chang,Maikel Chang,RSL,2020.0,W,1193.0,-0.27,-0.09,-0.04,0.2,-0.28,0.04,-0.44
-438,J. Ramírez,Real Salt Lake City,€500Th.,19.0,18.0,Jeizon Ramirez,Jeizon Ramírez,RSL,2020.0,W,140.0,0.11,-0.01,0.08,0.02,-0.11,0.07,0.17
-439,A. Rusnák,Real Salt Lake City,€2.00m,26.0,22.0,Albert Rusnak,Albert Rusnák,RSL,2020.0,AM,1388.0,0.25,-0.06,0.02,0.47,-0.52,0.47,0.63
-440,J. Meram,Real Salt Lake City,€1.20m,32.0,31.0,Justin Meram,Justin Meram,RSL,2020.0,W,1242.0,0.17,0.14,-0.3,-0.15,0.24,-0.14,-0.03
-441,T. Schmitt,Real Salt Lake City,€200Th.,23.0,21.0,Tate Schmitt,Tate Schmitt,RSL,2020.0,DM,274.0,-0.28,0.01,-0.07,-0.16,0.04,-0.04,-0.5
-442,C. Garcia,Real Salt Lake City,€100Th.,18.0,17.0,Christopher Garcia,Christopher Garcia,RSL,2020.0,W,3.0,-0.0,-0.0,-0.0,-0.0,-0.0,-0.0,-0.01
-443,D. Martínez,Real Salt Lake City,€600Th.,23.0,22.0,Douglas Martinez,Douglas Martínez,RSL,2020.0,ST,902.0,-0.47,0.23,0.18,-0.3,0.33,0.12,0.08
+,player,club,value,age,join_age,name,usd,Player,Team,Season,Position,Minutes,Dribbling,Fouling,Interrupting,Passing,Receiving,Shooting,Goals Added
+0,E. Segura,Los Angeles FC,€2.50m,24.0,22.0,Eddie Segura,2360000.0,Eddie Segura,LAFC,2020.0,CB,2068.0,0.51,-0.11,-0.26,0.61,-0.02,-0.28,0.46
+1,M. Traore,Los Angeles FC,€100Th.,18.0,18.0,Mohamed Traore,118000.0,Mohamed Traore,LAFC,2020.0,CB,49.0,-0.02,0.01,-0.03,-0.02,-0.01,-0.03,-0.11
+2,D. Palacios,Los Angeles FC,€1.50m,21.0,20.0,Diego Palacios,1180000.0,Diego Palacios,LAFC,2020.0,FB,1321.0,-0.02,0.15,0.22,-0.26,0.18,0.01,0.27
+3,M. Farfán,Los Angeles FC,€1.00m,22.0,22.0,Marco Farfan,1180000.0,Marco Farfan,POR,2020.0,FB,949.0,-0.25,-0.03,0.61,-0.37,-0.11,-0.04,-0.2
+4,J. Harvey,Los Angeles FC,€250Th.,37.0,33.0,Jordan Harvey,295000.0,Jordan Harvey,LAFC,2020.0,FB,831.0,-0.09,-0.17,-0.43,0.24,-0.06,-0.0,-0.52
+5,T. Blackmon,Los Angeles FC,€600Th.,24.0,21.0,Tristan Blackmon,708000.0,Tristan Blackmon,LAFC,2020.0,FB,1078.0,0.06,0.03,-0.22,0.33,0.09,0.21,0.51
+6,E. Dueñas,Los Angeles FC,€250Th.,16.0,15.0,Erik Duenas,295000.0,Erik Dueñas,LAFC,2020.0,FB,49.0,-0.04,-0.03,-0.02,-0.01,-0.0,-0.0,-0.09
+7,E. Atuesta,Los Angeles FC,€3.50m,23.0,21.0,Eduard Atuesta,3540000.0,Eduard Atuesta,LAFC,2020.0,DM,1472.0,0.03,-0.0,-0.03,0.89,0.13,-0.0,1.02
+8,F. Ginella,Los Angeles FC,€3.00m,22.0,20.0,Francisco Ginella,3540000.0,Francisco Ginella,LAFC,2020.0,CM,1277.0,-0.36,-0.02,-0.07,0.11,-0.05,-0.06,-0.44
+9,J. Cifuentes,Los Angeles FC,€3.00m,21.0,20.0,Jose Cifuentes,3540000.0,José Cifuentes,LAFC,2020.0,CM,1239.0,0.19,0.05,-0.19,0.28,0.18,0.01,0.51
+10,M. Kaye,Los Angeles FC,€6.00m,26.0,23.0,Mark-Anthony Kaye,7080000.0,Mark-Anthony Kaye,LAFC,2020.0,CM,1173.0,0.29,0.03,0.07,0.26,0.3,0.11,1.06
+11,B. Duke,Los Angeles FC,€300Th.,20.0,18.0,Bryce Duke,354000.0,Bryce Duke,LAFC,2020.0,CM,299.0,-0.17,-0.01,-0.13,-0.37,-0.0,-0.02,-0.69
+12,L. Blessing,Los Angeles FC,€4.00m,24.0,20.0,Latif Blessing,4720000.0,Latif Blessing,LAFC,2020.0,CM,1878.0,0.05,-0.18,0.07,-0.07,0.25,0.29,0.41
+13,D. Rossi,Los Angeles FC,€20.00m,23.0,19.0,Diego Rossi,23600000.0,Diego Rossi,LAFC,2020.0,W,1851.0,-0.52,0.03,0.17,0.15,2.01,1.12,2.95
+14,C. Torres,Los Angeles FC,€350Th.,16.0,16.0,Christian Torres,413000.0,Christian Torres,LAFC,2020.0,W,253.0,0.04,-0.03,-0.02,0.28,-0.11,-0.01,0.15
+15,R. Edwards,Los Angeles FC,€300Th.,25.0,25.0,Raheem Edwards,354000.0,Raheem Edwards,MIN,2020.0,W,329.0,-0.6,0.02,0.35,0.19,0.14,0.23,0.33
+16,C. Vela,Los Angeles FC,€15.00m,32.0,28.0,Carlos Vela,17700000.0,Carlos Vela,LAFC,2020.0,W,479.0,-0.21,0.05,-0.17,-0.02,0.21,0.36,0.23
+17,C. Baird,Los Angeles FC,€1.60m,25.0,24.0,Corey Baird,1180000.0,Corey Baird,RSL,2020.0,W,1649.0,-0.3,-0.17,0.1,-0.79,-0.58,-0.04,-1.79
+18,D. Musovski,Los Angeles FC,€500Th.,25.0,24.0,Danny Musovski,590000.0,Danny Musovski,LAFC,2020.0,ST,724.0,0.07,-0.1,0.12,-0.34,0.41,0.17,0.32
+19,K. Opoku,Los Angeles FC,€150Th.,19.0,19.0,Kwadwo Opoku,177000.0,Kwadwo Opoku,LAFC,2020.0,W,70.0,-0.04,0.25,-0.01,-0.04,0.01,0.01,0.17
+20,C. Makoun,Inter Miami CF,€1.00m,21.0,19.0,Christian Makoun,1180000.0,Christian Makoun,MIA,2020.0,CB,203.0,-0.1,0.02,0.03,-0.13,-0.04,-0.0,-0.23
+21,P. Seagrist,Inter Miami CF,€175Th.,23.0,22.0,Patrick Seagrist,206500.0,Patrick Seagrist,NYRB,2020.0,FB,263.0,-0.03,-0.04,0.56,0.05,-0.04,-0.0,0.49
+22,D. Nealis,Inter Miami CF,€450Th.,22.0,21.0,Dylan Nealis,531000.0,Dylan Nealis,MIA,2020.0,FB,1239.0,-0.09,0.04,0.26,-0.41,0.14,-0.04,-0.11
+23,V. Ulloa,Inter Miami CF,€800Th.,29.0,27.0,Victor Ulloa,944000.0,Victor Ulloa,MIA,2020.0,DM,1582.0,-0.43,-0.02,0.23,-0.34,-0.12,0.02,-0.65
+24,B. Matuidi,Inter Miami CF,€5.00m,33.0,33.0,Blaise Matuidi,5900000.0,Blaise Matuidi,MIA,2020.0,DM,1387.0,-0.54,-0.27,-0.27,0.26,0.08,0.0,-0.73
+25,J. Chapman,Inter Miami CF,€300Th.,27.0,25.0,Jay Chapman,354000.0,Jay Chapman,MIA,2020.0,DM,254.0,0.02,-0.05,-0.08,0.1,0.03,-0.05,-0.03
+26,L. Morgan,Inter Miami CF,€3.50m,24.0,23.0,Lewis Morgan,3540000.0,Lewis Morgan,MIA,2020.0,W,2105.0,1.25,-0.0,0.3,0.55,-0.64,-0.23,1.23
+27,B. Shea,Inter Miami CF,€500Th.,31.0,30.0,Brek Shea,590000.0,Brek Shea,MIA,2020.0,W,704.0,-0.25,-0.05,-0.08,-0.22,0.26,-0.16,-0.5
+28,R. Pizarro,Inter Miami CF,€10.00m,27.0,26.0,Rodolfo Pizarro,11800000.0,Rodolfo Pizarro,MIA,2020.0,AM,1761.0,-0.03,0.1,-0.16,0.2,0.87,0.8,1.78
+29,F. Higuaín,Inter Miami CF,€300Th.,36.0,35.0,Federico Higuain,354000.0,Federico Higuaín,"DCU, MIA",2020.0,AM,267.0,0.06,-0.04,-0.03,-0.06,0.1,0.1,0.12
+30,M. Pellegrini,Inter Miami CF,€7.50m,20.0,19.0,Matias Pellegrini,8260000.0,Matías Pellegrini,MIA,2020.0,W,1060.0,-0.54,-0.33,0.59,-0.5,-0.13,-0.11,-1.01
+31,G. Higuaín,Inter Miami CF,€10.00m,33.0,32.0,Gonzalo Higuain,11800000.0,Gonzalo Higuaín,MIA,2020.0,ST,861.0,-0.13,-0.01,-0.13,0.07,-0.33,0.17,-0.36
+32,J. Carranza,Inter Miami CF,€5.00m,20.0,19.0,Julian Carranza,5900000.0,Julián Carranza,MIA,2020.0,ST,655.0,-1.13,0.04,0.04,-0.04,0.15,0.09,-0.85
+33,R. Robinson,Inter Miami CF,€250Th.,22.0,21.0,Robbie Robinson,295000.0,Robbie Robinson,MIA,2020.0,ST,498.0,0.25,-0.01,-0.09,-0.21,-0.12,-0.03,-0.21
+34,M. Robinson,Atlanta United FC,€3.00m,23.0,19.0,Miles Robinson,3540000.0,Miles Robinson,ATL,2020.0,CB,1534.0,0.2,0.15,-0.16,0.05,0.13,0.04,0.43
+35,G. Campbell,Atlanta United FC,€150Th.,19.0,18.0,George Campbell,177000.0,George Campbell,ATL,2020.0,CB,58.0,0.01,0.0,-0.1,0.03,-0.01,-0.0,-0.06
+36,G. Bello,Atlanta United FC,€2.50m,19.0,15.0,George Bello,2360000.0,George Bello,ATL,2020.0,FB,1777.0,-0.17,0.09,0.2,-0.86,0.17,-0.01,-0.56
+37,M. Ambrose,Atlanta United FC,€350Th.,27.0,27.0,Mikey Ambrose,413000.0,Mikey Ambrose,MIA,2020.0,FB,352.0,-0.3,0.0,0.03,-0.03,0.09,-0.02,-0.21
+38,B. Lennon,Atlanta United FC,€850Th.,23.0,22.0,Brooks Lennon,1003000.0,Brooks Lennon,ATL,2020.0,FB,1941.0,-0.35,-0.01,0.6,-0.57,0.03,-0.0,-0.29
+39,A. Walkes,Atlanta United FC,€600Th.,24.0,22.0,Anton Walkes,708000.0,Anton Walkes,ATL,2020.0,CB,1479.0,0.16,0.13,-0.22,-0.28,-0.24,-0.06,-0.51
+40,M. Moreno,Atlanta United FC,€6.50m,25.0,25.0,Marcelino Moreno,7080000.0,Marcelino Moreno,ATL,2020.0,AM,498.0,-0.25,-0.01,0.15,0.02,-0.2,-0.01,-0.3
+41,E. Hyndman,Atlanta United FC,€1.80m,24.0,23.0,Emerson Hyndman,1180000.0,Emerson Hyndman,ATL,2020.0,CM,1515.0,0.15,-0.0,-0.14,0.05,-0.46,-0.24,-0.65
+42,M. Rossetto,Atlanta United FC,€725Th.,24.0,23.0,Matheus Rossetto,855500.0,Matheus Rossetto,ATL,2020.0,CM,861.0,-0.12,-0.05,-0.16,-0.58,-0.38,-0.13,-1.43
+43,M. Adams,Atlanta United FC,€450Th.,24.0,22.0,Mo Adams,531000.0,Mo Adams,ATL,2020.0,DM,846.0,-0.19,-0.08,0.01,-0.18,-0.23,-0.08,-0.73
+44,J. Mulraney,Atlanta United FC,€500Th.,24.0,23.0,Jake Mulraney,590000.0,Jake Mulraney,ATL,2020.0,W,800.0,0.18,0.04,-0.08,-0.63,-0.37,-0.16,-1.01
+45,E. Barco,Atlanta United FC,€10.00m,21.0,18.0,Ezequiel Barco,11800000.0,Ezequiel Barco,ATL,2020.0,W,1145.0,0.84,0.16,-0.22,-0.74,-0.43,0.13,-0.27
+46,J. Damm,Atlanta United FC,€2.00m,28.0,27.0,Jurgen Damm,2360000.0,Jürgen Damm,ATL,2020.0,W,700.0,0.64,0.14,-0.08,0.16,-0.22,-0.16,0.47
+47,T. Wolff,Atlanta United FC,€100Th.,18.0,17.0,Tyler Wolff,118000.0,Tyler Wolff,ATL,2020.0,CM,141.0,-0.02,-0.01,0.06,-0.13,-0.11,-0.03,-0.25
+48,J. Martínez,Atlanta United FC,€14.00m,27.0,23.0,Josef Martinez,16520000.0,Josef Martínez,ATL,2020.0,ST,71.0,0.03,-0.01,-0.21,-0.06,-0.14,0.05,-0.35
+49,É. Torres,Atlanta United FC,€500Th.,28.0,27.0,Erick Torres,590000.0,Erick Torres,ATL,2020.0,ST,569.0,-0.54,-0.04,-0.12,-0.11,0.59,0.33,0.11
+50,C. Mavinga,Toronto FC,€1.00m,29.0,25.0,Chris Mavinga,1180000.0,Chris Mavinga,TOR,2020.0,CB,1650.0,0.12,-0.08,0.03,-0.06,-0.25,-0.06,-0.31
+51,O. González,Toronto FC,€800Th.,32.0,30.0,Omar Gonzalez,944000.0,Omar González,TOR,2020.0,CB,2044.0,-0.14,0.17,0.11,-0.33,0.17,-0.05,-0.07
+52,E. Zavaleta,Toronto FC,€475Th.,28.0,22.0,Eriq Zavaleta,560500.0,Eriq Zavaleta,TOR,2020.0,CB,320.0,-0.12,0.03,0.16,-0.0,-0.09,-0.0,-0.02
+53,J. Morrow,Toronto FC,€400Th.,33.0,26.0,Justin Morrow,472000.0,Justin Morrow,TOR,2020.0,FB,1053.0,0.08,0.3,-0.05,-0.17,0.13,0.2,0.49
+54,R. Laryea,Toronto FC,€2.50m,26.0,24.0,Richie Laryea,2360000.0,Richie Laryea,TOR,2020.0,FB,1498.0,0.64,0.41,-0.17,-0.16,0.05,-0.15,0.61
+55,L. Fraser,Toronto FC,€1.50m,23.0,19.0,Liam Fraser,1180000.0,Liam Fraser,TOR,2020.0,CM,504.0,0.01,-0.05,0.31,0.07,-0.23,-0.07,0.03
+56,N. Okello,Toronto FC,€200Th.,20.0,18.0,Noble Okello,236000.0,Noble Okello,TOR,2020.0,CM,29.0,0.0,-0.0,0.01,0.02,-0.01,-0.0,0.02
+57,J. Osorio,Toronto FC,€6.00m,28.0,20.0,Jonathan Osorio,7080000.0,Jonathan Osorio,TOR,2020.0,DM,1533.0,-0.49,0.06,0.04,0.3,0.48,0.23,0.63
+58,M. Bradley,Toronto FC,€800Th.,33.0,26.0,Michael Bradley,944000.0,Michael Bradley,TOR,2020.0,CM,1157.0,0.1,0.08,0.61,-0.01,-0.21,-0.02,0.56
+59,A. Pozuelo,Toronto FC,€12.00m,29.0,27.0,Alejandro Pozuelo,14160000.0,Alejandro Pozuelo,TOR,2020.0,ST,2162.0,0.63,-0.17,0.02,0.49,-1.0,0.11,0.08
+60,J. Nelson,Toronto FC,€1.00m,18.0,17.0,Jayden Nelson,1180000.0,Jayden Nelson,TOR,2020.0,W,182.0,-0.14,-0.04,-0.09,-0.16,-0.12,0.0,-0.54
+61,J. Shaffelburg,Toronto FC,€200Th.,21.0,19.0,Jacob Shaffelburg,236000.0,Jacob Shaffelburg,TOR,2020.0,W,147.0,-0.11,-0.02,0.01,0.02,-0.06,0.03,-0.13
+62,I. Achara,Toronto FC,€200Th.,23.0,22.0,Ifunanyachi Achara,236000.0,Ifunanyachi Achara,TOR,2020.0,W,101.0,-0.08,-0.0,0.04,0.01,-0.13,0.07,-0.09
+63,E. Gallardo,Toronto FC,€550Th.,24.0,22.0,Erickson Gallardo,649000.0,Erickson Gallardo,TOR,2020.0,W,195.0,0.01,-0.0,0.05,-0.05,-0.15,0.03,-0.12
+64,T. Endoh,Toronto FC,€550Th.,27.0,25.0,Tsubasa Endoh,649000.0,Tsubasa Endoh,TOR,2020.0,W,714.0,0.02,-0.07,-0.23,-0.13,-0.32,0.1,-0.62
+65,G. Dorsey,Toronto FC,€200Th.,22.0,19.0,Griffin Dorsey,236000.0,Griffin Dorsey,TOR,2020.0,ST,12.0,-0.01,0.0,-0.01,0.01,-0.03,-0.01,-0.05
+66,A. Akinola,Toronto FC,€5.00m,21.0,17.0,Ayo Akinola,5900000.0,Ayo Akinola,TOR,2020.0,ST,1147.0,0.38,0.12,-0.36,-0.16,1.27,0.22,1.46
+67,J. Altidore,Toronto FC,€2.00m,31.0,25.0,Jozy Altidore,2360000.0,Jozy Altidore,TOR,2020.0,ST,804.0,-0.68,0.64,-0.23,-0.2,0.65,0.3,0.48
+68,P. Mullins,Toronto FC,€350Th.,29.0,27.0,Patrick Mullins,413000.0,Patrick Mullins,TOR,2020.0,ST,486.0,-0.15,-0.02,-0.17,-0.07,-0.45,-0.21,-1.07
+69,J. Mensah,Columbus Crew SC,€1.00m,30.0,26.0,Jonathan Mensah,1180000.0,Jonathan Mensah,CLB,2020.0,CB,2277.0,0.12,-0.12,-0.63,0.29,0.06,0.0,-0.29
+70,A. Keita,Columbus Crew SC,€1.00m,20.0,18.0,Aboubacar Keita,1180000.0,Aboubacar Keita,CLB,2020.0,CB,1043.0,0.0,0.17,-0.28,-0.23,-0.22,-0.01,-0.56
+71,V. Wormgoor,Columbus Crew SC,€700Th.,32.0,31.0,Vito Wormgoor,826000.0,Vito Wormgoor,CLB,2020.0,CB,117.0,-0.02,0.0,-0.12,0.07,-0.02,-0.0,-0.09
+72,J. Williams,Columbus Crew SC,€450Th.,32.0,28.0,Josh Williams,531000.0,Josh Williams,CLB,2020.0,CB,1119.0,0.18,0.09,0.43,0.15,0.05,0.0,0.9
+73,M. Valenzuela,Columbus Crew SC,€1.50m,22.0,20.0,Milton Valenzuela,1180000.0,Milton Valenzuela,CLB,2020.0,FB,1578.0,0.23,-0.21,0.09,0.25,-0.0,-0.11,0.25
+74,W. Francis,Columbus Crew SC,€500Th.,30.0,28.0,Waylon Francis,590000.0,Waylon Francis,CLB,2020.0,FB,226.0,-0.03,-0.01,0.31,0.05,-0.05,-0.0,0.28
+75,H. Afful,Columbus Crew SC,€400Th.,34.0,29.0,Harrison Afful,472000.0,Harrison Afful,CLB,2020.0,FB,1968.0,-0.27,-0.5,0.16,0.39,-0.26,-0.05,-0.54
+76,P. Kitchen,Columbus Crew SC,€800Th.,29.0,28.0,Perry Kitchen,944000.0,Perry Kitchen,LAG,2020.0,DM,1845.0,-0.54,-0.29,0.1,-0.47,-0.37,-0.08,-1.64
+77,D. Nagbe,Columbus Crew SC,€3.50m,30.0,29.0,Darlington Nagbe,3540000.0,Darlington Nagbe,CLB,2020.0,DM,1300.0,0.25,0.04,-0.15,-0.78,-0.24,0.05,-0.82
+78,A. Morris,Columbus Crew SC,€600Th.,19.0,18.0,Aidan Morris,708000.0,Aidan Morris,CLB,2020.0,DM,434.0,0.04,0.01,0.26,-0.26,-0.14,-0.05,-0.14
+79,L. Díaz,Columbus Crew SC,€800Th.,22.0,20.0,Luis Diaz,944000.0,Luis Díaz,CLB,2020.0,W,1291.0,0.71,0.61,0.12,-0.24,-0.33,-0.06,0.81
+80,L. Zelarayán,Columbus Crew SC,€10.00m,28.0,27.0,Lucas Zelarayan,11800000.0,Lucas Zelarayán,CLB,2020.0,AM,1129.0,-0.31,-0.03,-0.23,-0.47,-0.43,-0.49,-1.96
+81,K. Molino,Columbus Crew SC,€2.00m,30.0,30.0,Kevin Molino,2360000.0,Kevin Molino,MIN,2020.0,W,1364.0,0.15,0.08,0.41,-0.6,0.51,1.02,1.57
+82,P. Santos,Columbus Crew SC,€2.00m,32.0,29.0,Pedro Santos,2360000.0,Pedro Santos,CLB,2020.0,W,1983.0,0.09,0.23,0.43,0.38,-1.0,-0.22,-0.1
+83,M. Hairston,Columbus Crew SC,€600Th.,26.0,26.0,Marlon Hairston,708000.0,Marlon Hairston,MIN,2020.0,DM,452.0,-0.19,0.07,0.24,-0.18,-0.08,0.01,-0.13
+84,G. Zardes,Columbus Crew SC,€3.50m,29.0,26.0,Gyasi Zardes,3540000.0,Gyasi Zardes,CLB,2020.0,ST,1849.0,-0.21,-0.23,-0.19,-0.4,1.53,0.35,0.86
+85,B. Dibassy,Minnesota United FC,€2.00m,31.0,31.0,Bakaye Dibassy,2360000.0,Bakaye Dibassy,MIN,2020.0,CB,938.0,-0.07,0.07,0.78,-0.27,0.14,0.04,0.7
+86,I. Opara,Minnesota United FC,€1.00m,32.0,29.0,Ike Opara,1180000.0,Ike Opara,MIN,2020.0,CB,196.0,0.0,-0.0,-0.03,-0.06,0.07,0.03,0.02
+87,M. Boxall,Minnesota United FC,€650Th.,32.0,28.0,Michael Boxall,767000.0,Michael Boxall,MIN,2020.0,CB,1868.0,0.38,-0.21,1.01,-0.45,0.03,0.18,0.93
+88,B. Kallman,Minnesota United FC,€300Th.,30.0,26.0,Brent Kallman,354000.0,Brent Kallman,MIN,2020.0,CB,299.0,-0.04,0.04,-0.23,-0.08,-0.02,0.0,-0.33
+89,C. Gasper,Minnesota United FC,€2.00m,25.0,22.0,Chase Gasper,2360000.0,Chase Gasper,MIN,2020.0,FB,1639.0,0.23,-0.2,-0.84,-0.14,-0.16,-0.09,-1.21
+90,J. Raitala,Minnesota United FC,€500Th.,32.0,32.0,Jukka Raitala,590000.0,Jukka Raitala,MTL,2020.0,FB,1475.0,0.0,0.07,-0.06,0.37,-0.1,-0.01,0.28
+91,R. Métanire,Minnesota United FC,€1.70m,30.0,28.0,Romain Metanire,1180000.0,Romain Métanire,MIN,2020.0,FB,1946.0,0.03,0.46,0.2,0.39,-0.13,-0.08,0.86
+92,N. Billingsley,Minnesota United FC,€100Th.,23.0,22.0,Noah Billingsley,118000.0,Noah Billingsley,MIN,2020.0,FB,13.0,0.0,0.0,-0.12,0.0,-0.0,-0.0,-0.11
+93,W. Trapp,Minnesota United FC,€2.50m,28.0,27.0,Wil Trapp,2360000.0,Wil Trapp,MIA,2020.0,DM,1488.0,-0.08,-0.05,0.1,0.19,-0.38,-0.07,-0.3
+94,J. Gregus,Minnesota United FC,€3.00m,30.0,27.0,Jan Gregus,3540000.0,Jan Gregus,MIN,2020.0,DM,1745.0,0.31,0.01,0.34,0.17,-0.27,0.17,0.73
+95,H. Dotson,Minnesota United FC,€2.00m,23.0,21.0,Hassani Dotson,2360000.0,Hassani Dotson,MIN,2020.0,DM,1339.0,-0.42,0.03,-0.05,-0.56,-0.25,-0.07,-1.33
+96,J. Hayes,Minnesota United FC,€500Th.,25.0,24.0,Jacori Hayes,590000.0,Jacori Hayes,MIN,2020.0,DM,657.0,0.16,0.02,0.14,-0.1,0.21,-0.01,0.41
+97,R. Lod,Minnesota United FC,€3.00m,27.0,26.0,Robin Lod,3540000.0,Robin Lod,MIN,2020.0,W,1720.0,0.95,-0.23,0.17,-0.08,-0.14,0.26,0.94
+98,E. Reynoso,Minnesota United FC,€10.00m,25.0,24.0,Emanuel Reynoso,11800000.0,Emanuel Reynoso,MIN,2020.0,AM,897.0,0.64,-0.03,0.02,0.49,-0.2,-0.31,0.6
+99,T. Chacón,Minnesota United FC,€1.50m,20.0,18.0,Thomas Chacon,1180000.0,Thomás Chacón,MIN,2020.0,W,191.0,-0.11,-0.05,-0.01,0.05,-0.14,-0.04,-0.3
+100,E. Finlay,Minnesota United FC,€1.50m,30.0,27.0,Ethan Finlay,1180000.0,Ethan Finlay,MIN,2020.0,W,1035.0,0.16,-0.16,-0.18,0.03,0.12,0.35,0.33
+101,J. Agudelo,Minnesota United FC,€1.00m,28.0,28.0,Juan Agudelo,1180000.0,Juan Agudelo,MIA,2020.0,ST,940.0,-0.26,-0.11,0.04,0.13,0.46,-0.15,0.1
+102,F. Langsdorf,Minnesota United FC,€400Th.,25.0,24.0,Foster Langsdorf,472000.0,Foster Langsdorf,MIN,2020.0,W,17.0,-0.02,-0.0,0.01,-0.01,-0.0,-0.0,-0.03
+103,X. Arreaga,Seattle Sounders FC,€1.00m,26.0,24.0,Xavier Arreaga,1180000.0,Xavier Arreaga,SEA,2020.0,CB,1158.0,0.08,-0.23,0.04,-0.44,-0.21,-0.04,-0.8
+104,N. Tolo,Seattle Sounders FC,€1.80m,23.0,19.0,Nouhou Tolo,1180000.0,Nouhou Tolo,SEA,2020.0,FB,1448.0,-0.28,0.17,-0.26,-0.51,0.4,0.25,-0.21
+105,B. Smith,Seattle Sounders FC,€800Th.,26.0,26.0,Brad Smith,944000.0,Brad Smith,SEA,2020.0,FB,150.0,-0.02,0.01,0.15,-0.11,0.07,-0.02,0.08
+106,J. Medranda,Seattle Sounders FC,€600Th.,27.0,26.0,Jimmy Medranda,708000.0,Jimmy Medranda,"SEA, NSH",2020.0,FB,35.0,-0.09,-0.0,0.18,-0.0,-0.0,0.02,0.1
+107,K. Leerdam,Seattle Sounders FC,€1.00m,30.0,27.0,Kelvin Leerdam,1180000.0,Kelvin Leerdam,SEA,2020.0,FB,1586.0,-0.04,0.12,-0.4,-0.16,1.32,0.11,0.95
+108,A. Roldán,Seattle Sounders FC,€500Th.,24.0,21.0,Alex Roldan,590000.0,Alex Roldan,SEA,2020.0,FB,658.0,-0.04,-0.01,0.31,0.02,-0.15,-0.02,0.1
+109,J. Delem,Seattle Sounders FC,€800Th.,27.0,23.0,Jordy Delem,944000.0,Jordy Delem,SEA,2020.0,DM,805.0,-0.03,-0.04,0.23,-0.18,-0.2,0.01,-0.2
+110,D. Leyva,Seattle Sounders FC,€500Th.,17.0,15.0,Danny Leyva,590000.0,Danny Leyva,SEA,2020.0,DM,70.0,-0.04,0.0,-0.02,-0.01,0.0,-0.0,-0.07
+111,J. Atencio,Seattle Sounders FC,€250Th.,19.0,18.0,Josh Atencio,295000.0,Josh Atencio,SEA,2020.0,DM,38.0,0.0,-0.05,-0.02,-0.02,-0.01,-0.0,-0.11
+112,C. Roldán,Seattle Sounders FC,€5.00m,25.0,19.0,Cristian Roldan,5900000.0,Cristian Roldan,SEA,2020.0,W,1984.0,0.39,0.11,-0.34,-0.56,0.38,-0.23,-0.24
+113,K. Rowe,Seattle Sounders FC,€600Th.,29.0,29.0,Kelyn Rowe,708000.0,Kelyn Rowe,NER,2020.0,DM,980.0,-0.02,-0.01,0.04,-0.18,0.27,0.09,0.19
+114,E. Dobbelaere,Seattle Sounders FC,€100Th.,18.0,17.0,Ethan Dobbelaere,118000.0,Ethan Dobbelaere,SEA,2020.0,W,56.0,-0.0,-0.05,0.03,0.04,-0.06,0.0,-0.05
+115,N. Lodeiro,Seattle Sounders FC,€5.00m,31.0,27.0,Nicolas Lodeiro,5900000.0,Nicolás Lodeiro,SEA,2020.0,AM,1854.0,-0.52,0.64,-0.1,0.29,0.09,0.3,0.69
+116,J. Paulo,Seattle Sounders FC,€2.00m,29.0,29.0,Joao Paulo,2360000.0,João Paulo,SEA,2020.0,DM,1521.0,0.5,0.13,0.37,0.64,-0.18,-0.06,1.39
+117,S. Hopeau,Seattle Sounders FC,€200Th.,22.0,21.0,Shandon Hopeau,236000.0,Shandon Hopeau,SEA,2020.0,W,116.0,-0.07,-0.03,0.07,-0.07,-0.06,-0.03,-0.18
+118,R. Ruidíaz,Seattle Sounders FC,€7.00m,30.0,27.0,Raul Ruidiaz,8260000.0,Raúl Ruidíaz,SEA,2020.0,ST,1558.0,-0.64,-0.24,-0.29,-0.16,0.01,0.01,-1.31
+119,F. Montero,Seattle Sounders FC,€800Th.,33.0,33.0,Fredy Montero,944000.0,Fredy Montero,VAN,2020.0,ST,1158.0,0.35,0.12,0.14,1.0,-0.56,0.05,1.1
+120,W. Bruin,Seattle Sounders FC,€500Th.,31.0,27.0,Will Bruin,590000.0,Will Bruin,SEA,2020.0,ST,567.0,-0.44,-0.04,-0.14,-0.34,0.77,-0.17,-0.35
+121,A. Carlos,Orlando City SC,€1.50m,27.0,27.0,Antonio Carlos,1180000.0,Antônio Carlos,ORL,2020.0,CB,1835.0,-0.15,0.15,-0.32,0.07,0.04,-0.08,-0.29
+122,R. Jansson,Orlando City SC,€750Th.,29.0,27.0,Robin Jansson,885000.0,Robin Jansson,ORL,2020.0,CB,2201.0,-0.02,0.24,-0.23,-0.32,-0.29,0.08,-0.53
+123,R. Schlegel,Orlando City SC,€500Th.,23.0,23.0,Rodrigo Schlegel,590000.0,Rodrigo Schlegel,ORL,2020.0,CB,735.0,-0.03,0.03,-0.46,-0.08,-0.1,-0.03,-0.66
+124,J. Moutinho,Orlando City SC,€800Th.,23.0,20.0,Joao Moutinho,944000.0,João Moutinho,ORL,2020.0,FB,746.0,0.17,-0.0,-0.04,0.23,-0.03,-0.13,0.2
+125,K. Smith,Orlando City SC,€500Th.,29.0,26.0,Kyle Smith,590000.0,Kyle Smith,ORL,2020.0,FB,1161.0,-0.18,-0.02,0.57,0.19,-0.18,0.19,0.56
+126,A. Perea,Orlando City SC,€3.00m,20.0,20.0,Andres Perea,3540000.0,Andrés Perea,ORL,2020.0,AM,1386.0,0.24,-0.27,0.08,-0.27,-0.75,-0.12,-1.1
+127,O. Rosell,Orlando City SC,€600Th.,28.0,25.0,Oriol Rosell,708000.0,Oriol Rosell,ORL,2020.0,DM,635.0,-0.1,-0.03,0.18,0.02,-0.16,-0.04,-0.13
+128,J. Urso,Orlando City SC,€1.50m,31.0,30.0,Junior Urso,1180000.0,Júnior Urso,ORL,2020.0,CM,1888.0,-0.27,-0.07,-0.65,-0.45,0.68,0.76,-0.01
+129,J. Bender,Orlando City SC,€125Th.,19.0,18.0,Jordan Bender,147500.0,Jordan Bender,ORL,2020.0,W,58.0,-0.15,-0.01,-0.02,-0.02,-0.02,-0.02,-0.26
+130,M. Pereyra,Orlando City SC,€4.00m,30.0,29.0,Mauricio Pereyra,4720000.0,Mauricio Pereyra,ORL,2020.0,AM,1174.0,-0.03,-0.1,0.02,0.78,-0.74,-0.28,-0.36
+131,A. Alvarado,Orlando City SC,€2.00m,21.0,21.0,Alexander Alvarado,2360000.0,Alexander Alvarado,ORL,2020.0,ST,36.0,-0.0,0.07,0.0,-0.0,-0.05,-0.01,0.01
+132,C. Mueller,Orlando City SC,€3.00m,24.0,21.0,Chris Mueller,3540000.0,Chris Mueller,ORL,2020.0,W,1575.0,0.03,-0.14,-0.04,-0.18,1.85,0.29,1.8
+133,B. Michel,Orlando City SC,€1.20m,23.0,21.0,Benji Michel,1180000.0,Benji Michel,ORL,2020.0,W,974.0,0.21,-0.06,-0.09,-0.24,-0.08,-0.18,-0.43
+134,T. Akindele,Orlando City SC,€600Th.,28.0,26.0,Tesho Akindele,708000.0,Tesho Akindele,ORL,2020.0,ST,922.0,-0.24,-0.1,0.05,-0.43,-0.09,0.11,-0.71
+135,M. Aiás,Orlando City SC,€550Th.,24.0,23.0,Matheus Aias,649000.0,Matheus Aias,ORL,2020.0,ST,36.0,-0.05,-0.0,0.03,-0.07,0.0,-0.08,-0.17
+136,D. Loera,Orlando City SC,€100Th.,22.0,21.0,David Loera,118000.0,David Loera,ORL,2020.0,DM,33.0,-0.0,0.0,-0.01,-0.02,-0.0,-0.0,-0.04
+137,D. Zuparic,Portland Timbers,€1.00m,28.0,27.0,Dario Zuparic,1180000.0,Dario Zuparic,POR,2020.0,CB,1772.0,0.1,-0.07,0.46,-0.18,-0.0,0.21,0.52
+138,B. Tuiloma,Portland Timbers,€800Th.,25.0,22.0,Bill Tuiloma,944000.0,Bill Tuiloma,POR,2020.0,CB,915.0,0.22,0.06,-0.3,-0.12,0.19,-0.0,0.05
+139,L. Mabiala,Portland Timbers,€600Th.,33.0,29.0,Larrys Mabiala,708000.0,Larrys Mabiala,POR,2020.0,CB,1454.0,-0.28,0.14,-0.15,-0.27,0.04,0.07,-0.47
+140,P. Bonilla,Portland Timbers,€500Th.,21.0,20.0,Pablo Bonilla,590000.0,Pablo Bonilla,POR,2020.0,FB,947.0,-0.19,0.05,0.17,-0.15,0.01,0.02,-0.1
+141,E. Williamson,Portland Timbers,€1.00m,23.0,20.0,Eryk Williamson,1180000.0,Eryk Williamson,POR,2020.0,DM,1538.0,0.4,0.19,-0.03,0.17,0.17,0.04,0.95
+142,C. Paredes,Portland Timbers,€600Th.,22.0,21.0,Cristhian Paredes,708000.0,Cristhian Paredes,POR,2020.0,CM,911.0,0.14,0.02,0.22,-0.39,-0.05,-0.12,-0.19
+143,D. Chará,Portland Timbers,€400Th.,34.0,25.0,Diego Chara,472000.0,Diego Chara,POR,2020.0,DM,1971.0,0.47,-0.24,0.71,1.01,-0.39,0.04,1.6
+144,R. Zambrano,Portland Timbers,€300Th.,26.0,24.0,Renzo Zambrano,354000.0,Renzo Zambrano,POR,2020.0,DM,115.0,0.06,0.03,-0.01,-0.08,-0.02,-0.01,-0.03
+145,D. Váleri,Portland Timbers,€2.00m,34.0,27.0,Diego Valeri,2360000.0,Diego Valeri,POR,2020.0,AM,1763.0,-0.39,-0.02,0.04,1.27,-0.35,0.26,0.82
+146,S. Blanco,Portland Timbers,€2.50m,32.0,28.0,Sebastian Blanco,2360000.0,Sebastián Blanco,POR,2020.0,W,722.0,0.32,-0.09,0.17,0.09,-0.04,-0.02,0.43
+147,Y. Chará,Portland Timbers,€4.00m,29.0,28.0,Yimmi Chara,4720000.0,Yimmi Chará,POR,2020.0,W,1345.0,-0.56,0.19,0.24,-0.32,0.16,0.01,-0.29
+148,A. Polo,Portland Timbers,€2.00m,26.0,24.0,Andy Polo,2360000.0,Andy Polo,POR,2020.0,W,855.0,-0.14,-0.03,-0.06,-0.49,-0.29,-0.09,-1.1
+149,M. Loría,Portland Timbers,€600Th.,23.0,21.0,Marvin Loria,708000.0,Marvin Loría,POR,2020.0,W,781.0,-0.14,-0.09,0.01,-0.33,-0.29,0.01,-0.82
+150,D. Asprilla,Portland Timbers,€500Th.,28.0,22.0,Dairon Asprilla,590000.0,Dairon Asprilla,POR,2020.0,W,67.0,0.07,-0.02,0.05,-0.04,0.25,0.05,0.37
+151,T. Conechny,Portland Timbers,€600Th.,22.0,21.0,Tomas Conechny,708000.0,Tomás Conechny,POR,2020.0,W,217.0,-0.11,0.09,-0.01,-0.17,-0.04,-0.14,-0.37
+152,F. Mora,Portland Timbers,€4.00m,27.0,27.0,Felipe Mora,4720000.0,Felipe Mora,POR,2020.0,ST,1312.0,-0.08,0.24,-0.05,-0.57,1.3,0.1,0.95
+153,J. Niezgoda,Portland Timbers,€4.00m,25.0,24.0,Jaroslaw Niezgoda,4720000.0,Jaroslaw Niezgoda,POR,2020.0,ST,692.0,0.3,-0.09,-0.06,-0.23,-0.12,-0.31,-0.5
+154,J. Ebobisse,Portland Timbers,€2.80m,24.0,19.0,Jeremy Ebobisse,2360000.0,Jeremy Ebobisse,POR,2020.0,W,1163.0,-0.45,-0.06,0.15,0.02,0.78,0.03,0.48
+155,A. Callens,New York City FC,€1.80m,28.0,24.0,Alexander Callens,1180000.0,Alexander Callens,NYC,2020.0,CB,2131.0,0.23,-0.08,-0.64,0.35,-0.06,0.1,-0.1
+156,M. Chanot,New York City FC,€1.00m,31.0,26.0,Maxime Chanot,1180000.0,Maxime Chanot,NYC,2020.0,CB,1887.0,-0.13,-0.11,-0.08,0.48,0.51,-0.01,0.66
+157,S. Ibeagha,New York City FC,€500Th.,29.0,26.0,Sebastien Ibeagha,590000.0,Sebastien Ibeagha,NYC,2020.0,CB,329.0,-0.02,0.02,0.09,-0.19,-0.09,-0.01,-0.2
+158,A. Tinnerholm,New York City FC,€2.50m,30.0,26.0,Anton Tinnerholm,2360000.0,Anton Tinnerholm,NYC,2020.0,FB,2210.0,0.46,0.15,0.64,1.15,0.2,0.25,2.85
+159,K. Parks,New York City FC,€3.00m,23.0,22.0,Keaton Parks,3540000.0,Keaton Parks,NYC,2020.0,DM,1884.0,0.39,0.06,-0.95,0.22,0.86,0.5,1.08
+160,J. Sands,New York City FC,€2.50m,20.0,16.0,James Sands,2360000.0,James Sands,NYC,2020.0,DM,1539.0,0.11,0.06,0.09,-0.05,-0.19,0.09,0.12
+161,N. Acevedo,New York City FC,€2.00m,21.0,20.0,Nicolas Acevedo,2360000.0,Nicolás Acevedo,NYC,2020.0,DM,189.0,-0.08,-0.24,-0.15,-0.08,-0.06,-0.01,-0.62
+162,J. Torres,New York City FC,€150Th.,21.0,19.0,Juan Pablo Torres,177000.0,Juan Pablo Torres,NYC,2020.0,W,5.0,0.0,-0.0,0.0,-0.0,0.0,-0.0,0.0
+163,G. Thórarinsson,New York City FC,€800Th.,28.0,27.0,Gudmundur Thorarinsson,944000.0,Gudmundur Thórarinsson,NYC,2020.0,FB,802.0,0.02,0.02,-0.11,-0.11,-0.1,-0.05,-0.32
+164,T. Rocha,New York City FC,€450Th.,27.0,25.0,Tony Rocha,531000.0,Tony Rocha,NYC,2020.0,W,114.0,0.14,-0.02,0.04,0.04,0.06,0.03,0.29
+165,M. Moralez,New York City FC,€1.50m,34.0,29.0,Maximiliano Moralez,1180000.0,Maximiliano Moralez,NYC,2020.0,AM,956.0,0.22,0.18,-0.22,0.24,0.08,0.15,0.65
+166,J. Medina,New York City FC,€3.00m,23.0,20.0,Jesus Medina,3540000.0,Jesús Medina,NYC,2020.0,W,1605.0,-0.93,-0.16,-0.08,-0.72,0.63,0.39,-0.88
+167,I. Tajouri-ShradiI,New York City FC,€1.00m,26.0,23.0,Ismael Tajouri-Shradi,1180000.0,Ismael Tajouri-Shradi,NYC,2020.0,W,776.0,-0.22,-0.04,-0.18,0.07,0.0,0.19,-0.19
+168,V. Castellanos,New York City FC,€4.00m,22.0,20.0,Valentin Castellanos,4720000.0,Valentín Castellanos,NYC,2020.0,ST,1493.0,-0.97,-0.17,0.36,-0.33,2.06,0.79,1.75
+169,W. Zimmerman,Nashville SC,€3.50m,27.0,26.0,Walker Zimmerman,3540000.0,Walker Zimmerman,NSH,2020.0,CB,2110.0,0.19,0.12,-0.02,-0.15,0.39,0.18,0.71
+170,D. Romney,Nashville SC,€600Th.,27.0,26.0,Dave Romney,708000.0,Dave Romney,NSH,2020.0,CB,2235.0,-0.5,0.14,0.4,0.16,-0.12,-0.01,0.08
+171,J. Anibaba,Nashville SC,€400Th.,32.0,31.0,Jalil Anibaba,472000.0,Jalil Anibaba,NSH,2020.0,FB,648.0,-0.07,0.03,0.05,-0.09,-0.11,0.04,-0.16
+172,J. Maher,Nashville SC,€150Th.,21.0,20.0,Jack Maher,177000.0,Jack Maher,NSH,2020.0,CB,134.0,-0.01,0.01,0.15,-0.06,-0.03,-0.0,0.06
+173,D. Lovitz,Nashville SC,€1.00m,29.0,28.0,Daniel Lovitz,1180000.0,Daniel Lovitz,NSH,2020.0,FB,2041.0,0.28,0.05,0.31,-0.08,-0.23,0.01,0.35
+174,T. Washington,Nashville SC,€350Th.,27.0,26.0,Taylor Washington,413000.0,Taylor Washington,NSH,2020.0,W,471.0,0.05,-0.01,0.11,-0.01,-0.2,-0.06,-0.13
+175,A. Johnston,Nashville SC,€2.00m,22.0,21.0,Alistair Johnston,2360000.0,Alistair Johnston,NSH,2020.0,FB,1474.0,-0.19,-0.02,0.27,-0.08,-0.12,0.0,-0.15
+176,E. Miller,Nashville SC,€400Th.,28.0,26.0,Eric Miller,472000.0,Eric Miller,NSH,2020.0,FB,472.0,-0.11,0.03,-0.15,-0.25,0.22,-0.08,-0.33
+177,A. Godoy,Nashville SC,€600Th.,31.0,29.0,Anibal Godoy,708000.0,Aníbal Godoy,NSH,2020.0,DM,1606.0,0.1,0.09,0.16,-0.02,-0.22,-0.07,0.03
+178,H. Mukhtar,Nashville SC,€6.00m,25.0,24.0,Hany Mukhtar,7080000.0,Hany Mukhtar,NSH,2020.0,AM,1159.0,-0.0,0.22,-0.26,-0.48,-0.18,-0.24,-0.94
+179,R. Leal,Nashville SC,€3.00m,24.0,22.0,Randall Leal,3540000.0,Randall Leal,NSH,2020.0,W,1697.0,-0.11,-0.07,0.83,0.2,-0.8,-0.2,-0.16
+180,H. Bwana,Nashville SC,€1.00m,21.0,21.0,Handwalla Bwana,1180000.0,Handwalla Bwana,"SEA, NSH",2020.0,W,259.0,-0.03,-0.04,0.05,-0.16,1.0,0.19,1.01
+181,A. Muyl,Nashville SC,€800Th.,25.0,24.0,Alex Muyl,944000.0,Alex Muyl,"NSH, NYRB",2020.0,W,1236.0,-0.78,-0.13,-0.01,-0.22,-0.17,-0.25,-1.56
+182,J. Cádiz,Nashville SC,€3.00m,25.0,25.0,Jhonder Cadiz,3540000.0,Jhonder Cádiz,NSH,2020.0,ST,255.0,-0.18,-0.02,-0.05,-0.06,0.19,-0.0,-0.11
+183,D. Ríos,Nashville SC,€2.00m,26.0,23.0,Daniel Rios,2360000.0,Daniel Ríos,NSH,2020.0,ST,790.0,-0.69,-0.11,-0.12,-0.23,1.28,0.25,0.38
+184,C. Sapong,Nashville SC,€850Th.,32.0,32.0,C.J. Sapong,1003000.0,C.J. Sapong,CHI,2020.0,ST,542.0,-0.16,0.17,0.05,-0.01,-0.25,0.02,-0.17
+185,D. Badji,Nashville SC,€800Th.,28.0,27.0,Dominique Badji,944000.0,Dominique Badji,NSH,2020.0,ST,788.0,0.27,-0.08,-0.06,0.02,-0.39,0.16,-0.08
+186,A. Danladi,Nashville SC,€600Th.,25.0,24.0,Abu Danladi,708000.0,Abu Danladi,NSH,2020.0,ST,644.0,0.01,-0.1,-0.04,-0.18,0.14,-0.13,-0.3
+187,A. Trusty,Colorado Rapids,€1.50m,22.0,21.0,Auston Trusty,1180000.0,Auston Trusty,COL,2020.0,CB,589.0,0.22,0.05,-0.49,0.15,-0.21,0.12,-0.15
+188,L. Abubakar,Colorado Rapids,€1.00m,26.0,24.0,Lalas Abubakar,1180000.0,Lalas Abubakar,COL,2020.0,CB,1658.0,0.06,0.1,1.26,0.04,-0.23,-0.01,1.23
+189,D. Wilson,Colorado Rapids,€500Th.,29.0,26.0,Danny Wilson,590000.0,Danny Wilson,COL,2020.0,CB,804.0,0.09,0.0,0.43,0.33,-0.14,-0.0,0.71
+190,D. Moor,Colorado Rapids,€200Th.,37.0,35.0,Drew Moor,236000.0,Drew Moor,COL,2020.0,CB,532.0,0.06,0.05,-0.17,0.09,0.09,0.07,0.19
+191,S. Vines,Colorado Rapids,€2.00m,21.0,18.0,Sam Vines,2360000.0,Sam Vines,COL,2020.0,FB,1776.0,-0.19,-0.16,-0.06,-0.87,0.14,0.04,-1.1
+192,K. Rosenberry,Colorado Rapids,€1.00m,27.0,25.0,Keegan Rosenberry,1180000.0,Keegan Rosenberry,COL,2020.0,FB,1493.0,0.09,0.04,0.44,-0.12,-0.23,-0.07,0.15
+193,J. Kelly,Colorado Rapids,€175Th.,23.0,22.0,Jeremy Kelly,206500.0,Jeremy Kelly,COL,2020.0,FB,281.0,0.27,0.0,-0.23,-0.35,0.0,-0.07,-0.37
+194,K. Acosta,Colorado Rapids,€3.00m,25.0,22.0,Kellyn Acosta,3540000.0,Kellyn Acosta,COL,2020.0,DM,1246.0,0.46,0.03,-0.17,-0.4,0.64,0.14,0.7
+195,C. Bassett,Colorado Rapids,€5.00m,19.0,17.0,Cole Bassett,5900000.0,Cole Bassett,COL,2020.0,AM,1062.0,-0.06,-0.07,0.07,-0.75,0.6,0.07,-0.14
+196,J. Price,Colorado Rapids,€1.50m,28.0,25.0,Jack Price,1180000.0,Jack Price,COL,2020.0,DM,1438.0,-0.02,-0.04,-0.12,0.37,-0.25,-0.05,-0.1
+197,C. Warner,Colorado Rapids,€200Th.,32.0,32.0,Collen Warner,236000.0,Collen Warner,COL,2020.0,DM,297.0,-0.06,-0.05,0.01,-0.12,-0.04,-0.04,-0.31
+198,Y. Namli,Colorado Rapids,€2.00m,26.0,25.0,Younes Namli,2360000.0,Younes Namli,COL,2020.0,W,1350.0,1.41,-0.08,-0.15,0.17,-0.83,-0.25,0.26
+199,N. Mezquida,Colorado Rapids,€600Th.,29.0,26.0,Nicolas Mezquida,708000.0,Nicolás Mezquida,COL,2020.0,AM,577.0,-0.09,-0.01,-0.11,-0.41,0.11,0.11,-0.4
+200,A. Shinyashiki,Colorado Rapids,€3.00m,23.0,21.0,Andre Shinyashiki,3540000.0,Andre Shinyashiki,COL,2020.0,W,1094.0,0.14,-0.11,0.19,-0.41,-0.02,-0.06,-0.26
+201,J. Lewis,Colorado Rapids,€1.20m,23.0,21.0,Jonathan Lewis,1180000.0,Jonathan Lewis,COL,2020.0,W,796.0,0.77,-0.01,-0.12,-0.14,-0.36,0.01,0.15
+202,N. Benezet,Colorado Rapids,€800Th.,30.0,28.0,Nicolas Benezet,944000.0,Nicolas Benezet,COL,2020.0,W,551.0,-0.13,-0.03,0.32,0.27,-0.1,0.01,0.35
+203,M. Barrios,Colorado Rapids,€2.00m,29.0,29.0,Michael Barrios,2360000.0,Michael Barrios,FCD,2020.0,W,1819.0,0.8,0.29,0.1,0.07,0.38,0.05,1.68
+204,B. Galván,Colorado Rapids,€250Th.,20.0,19.0,Braian Galvan,295000.0,Braian Galván,COL,2020.0,W,280.0,0.01,-0.05,-0.08,-0.05,0.14,0.12,0.09
+205,D. Rubio,Colorado Rapids,€1.50m,27.0,25.0,Diego Rubio,1180000.0,Diego Rubio,COL,2020.0,ST,1137.0,-0.11,-0.27,0.15,0.18,-0.89,0.04,-0.91
+206,R. Puncec,Sporting Kansas City,€700Th.,29.0,28.0,Roberto Puncec,826000.0,Roberto Puncec,SKC,2020.0,CB,1858.0,0.19,-0.06,-1.01,-0.08,-0.4,-0.01,-1.37
+207,A. Fontàs,Sporting Kansas City,€500Th.,31.0,28.0,Andreu Fontas,590000.0,Andreu Fontàs,SKC,2020.0,CB,292.0,0.09,0.03,0.11,0.14,-0.07,0.04,0.35
+208,G. Smith,Sporting Kansas City,€350Th.,25.0,22.0,Graham Smith,413000.0,Graham Smith,SKC,2020.0,CB,350.0,0.04,0.02,-0.07,0.0,-0.04,-0.05,-0.1
+209,L. Martins,Sporting Kansas City,€600Th.,28.0,27.0,Luis Martins,708000.0,Luis Martins,SKC,2020.0,FB,861.0,0.1,0.01,-0.04,0.14,-0.09,-0.03,0.09
+210,A. Dia,Sporting Kansas City,€300Th.,27.0,26.0,Amadou Dia,354000.0,Amadou Dia,SKC,2020.0,FB,929.0,0.06,0.02,0.15,-0.16,0.02,-0.02,0.07
+211,J. Lindsey,Sporting Kansas City,€1.00m,20.0,17.0,Jaylin Lindsey,1180000.0,Jaylin Lindsey,SKC,2020.0,FB,1157.0,0.35,0.04,-0.29,-0.12,-0.11,-0.05,-0.18
+212,C. Duke,Sporting Kansas City,€500Th.,20.0,18.0,Cameron Duke,590000.0,Cameron Duke,SKC,2020.0,CM,262.0,-0.03,0.03,-0.13,-0.06,0.0,0.0,-0.18
+213,G. Zusi,Sporting Kansas City,€300Th.,34.0,22.0,Graham Zusi,354000.0,Graham Zusi,SKC,2020.0,FB,1356.0,-0.3,0.29,-0.54,0.4,-0.04,-0.13,-0.31
+214,I. Sánchez,Sporting Kansas City,€1.00m,30.0,26.0,Ilie Sanchez,1180000.0,Ilie Sánchez,SKC,2020.0,DM,1390.0,0.03,0.05,-0.11,-0.01,0.33,-0.01,0.27
+215,G. Busio,Sporting Kansas City,€4.00m,18.0,15.0,Gianluca Busio,4720000.0,Gianluca Busio,SKC,2020.0,DM,1408.0,0.06,0.06,-0.04,-0.35,0.02,0.35,0.1
+216,F. Hernández,Sporting Kansas City,€500Th.,22.0,21.0,Felipe Hernandez,590000.0,Felipe Hernandez,SKC,2020.0,CM,867.0,-0.23,0.04,-0.18,-0.1,-0.28,0.12,-0.64
+217,R. Espinoza,Sporting Kansas City,€400Th.,34.0,28.0,Roger Espinoza,472000.0,Roger Espinoza,SKC,2020.0,CM,1054.0,-0.14,-0.01,-0.55,0.06,0.01,0.04,-0.59
+218,G. Kinda,Sporting Kansas City,€4.00m,26.0,26.0,Gadi Kinda,4720000.0,Gadi Kinda,SKC,2020.0,CM,1486.0,-0.04,0.02,-0.2,-0.33,0.78,0.38,0.61
+219,D. Sallói,Sporting Kansas City,€1.00m,24.0,19.0,Daniel Salloi,1180000.0,Dániel Sallói,SKC,2020.0,W,199.0,-0.13,-0.02,0.07,-0.15,0.12,0.26,0.16
+220,J. Russell,Sporting Kansas City,€1.70m,30.0,27.0,Johnny Russell,1180000.0,Johnny Russell,SKC,2020.0,W,1656.0,0.89,0.01,-0.27,-0.14,0.6,-0.18,0.91
+221,A. Pulido,Sporting Kansas City,€9.00m,29.0,28.0,Alan Pulido,10620000.0,Alan Pulido,SKC,2020.0,ST,1045.0,0.87,0.04,-0.08,-0.44,-0.65,0.72,0.46
+222,K. Shelton,Sporting Kansas City,€800Th.,27.0,26.0,Khiry Shelton,944000.0,Khiry Shelton,SKC,2020.0,W,1594.0,0.13,-0.09,-0.26,-0.91,0.73,0.13,-0.26
+223,T. Pettersson,FC Cincinnati,€650Th.,30.0,29.0,Tom Pettersson,767000.0,Tom Pettersson,CIN,2020.0,CB,1255.0,0.13,-0.12,-0.5,-0.07,-0.14,0.0,-0.7
+224,N. Hagglund,FC Cincinnati,€600Th.,28.0,26.0,Nick Hagglund,708000.0,Nick Hagglund,CIN,2020.0,CB,822.0,0.03,0.05,-0.46,0.31,0.31,-0.1,0.13
+225,M. van der Werff,FC Cincinnati,€600Th.,31.0,30.0,Maikel van der Werff,708000.0,Maikel van der Werff,CIN,2020.0,CB,1073.0,0.27,0.03,-0.14,-0.01,0.17,0.12,0.43
+226,R. Matarrita,FC Cincinnati,€2.50m,26.0,26.0,Ronald Matarrita,2360000.0,Ronald Matarrita,NYC,2020.0,FB,1809.0,-0.17,-0.1,1.28,0.8,0.01,-0.04,1.77
+227,Z. Bailey,FC Cincinnati,€175Th.,20.0,19.0,Zico Bailey,206500.0,Zico Bailey,CIN,2020.0,FB,321.0,0.01,0.0,0.19,-0.05,-0.05,-0.01,0.08
+228,K. Mokotjo,FC Cincinnati,€1.20m,29.0,29.0,Kamohelo Mokotjo,1180000.0,Kamohelo Mokotjo,CIN,2020.0,DM,595.0,-0.1,0.08,0.29,-0.49,-0.05,-0.03,-0.3
+229,C. Stanko,FC Cincinnati,€500Th.,27.0,25.0,Caleb Stanko,590000.0,Caleb Stanko,CIN,2020.0,CM,546.0,-0.13,-0.01,0.23,-0.35,-0.22,-0.05,-0.53
+230,A. Cruz,FC Cincinnati,€1.00m,25.0,22.0,Allan Cruz,1180000.0,Allan Cruz,CIN,2020.0,AM,841.0,-0.57,0.14,-0.29,-0.18,0.0,0.03,-0.87
+231,H. Medunjanin,FC Cincinnati,€500Th.,35.0,34.0,Haris Medunjanin,590000.0,Haris Medunjanin,CIN,2020.0,DM,1906.0,-0.21,-0.07,-0.23,1.37,-0.39,0.64,1.11
+232,F. Amaya,FC Cincinnati,€2.00m,20.0,18.0,Frankie Amaya,2360000.0,Frankie Amaya,CIN,2020.0,CM,1881.0,-0.18,0.07,0.19,-0.81,-0.76,-0.0,-1.49
+233,Á. Barreal,FC Cincinnati,€1.20m,20.0,20.0,Alvaro Barreal,1180000.0,Álvaro Barreal,CIN,2020.0,W,348.0,-0.04,0.02,-0.02,-0.17,-0.17,-0.21,-0.59
+234,B. Mines,FC Cincinnati,€200Th.,20.0,20.0,Ben Mines,236000.0,Ben Mines,NYRB,2020.0,W,207.0,-0.04,0.01,-0.0,0.06,0.1,-0.15,-0.01
+235,J. Locadia,FC Cincinnati,€5.00m,27.0,26.0,Jurgen Locadia,5900000.0,Jürgen Locadia,CIN,2020.0,ST,1483.0,0.14,-0.16,-0.28,-0.6,-0.66,0.06,-1.51
+236,Y. Kubo,FC Cincinnati,€1.80m,27.0,26.0,Yuya Kubo,1180000.0,Yuya Kubo,CIN,2020.0,W,1412.0,-0.53,-0.07,-0.14,-0.71,-0.73,-0.2,-2.38
+237,B. Vázquez,FC Cincinnati,€450Th.,22.0,21.0,Brandon Vazquez,531000.0,Brandon Vázquez,CIN,2020.0,ST,881.0,-0.12,-0.11,-0.3,-0.24,-0.1,-0.2,-1.07
+238,F. Kovacevic,FC Cincinnati,€200Th.,21.0,21.0,Franko Kovacevic,236000.0,Franko Kovacevic,CIN,2020.0,ST,97.0,0.03,0.1,0.03,0.03,-0.08,-0.03,0.09
+239,H. Kessler,New England Revolution,€1.00m,22.0,21.0,Henry Kessler,1180000.0,Henry Kessler,NER,2020.0,CB,1997.0,0.03,0.24,0.81,-0.06,-0.17,-0.16,0.69
+240,D. Jones,New England Revolution,€800Th.,23.0,21.0,DeJuan Jones,944000.0,DeJuan Jones,NER,2020.0,FB,1242.0,0.38,0.1,0.32,0.39,-0.07,0.02,1.14
+241,A. Farrell,New England Revolution,€1.00m,29.0,20.0,Andrew Farrell,1180000.0,Andrew Farrell,NER,2020.0,CB,1865.0,-0.35,0.13,-0.22,0.53,-0.42,-0.01,-0.36
+242,B. Bye,New England Revolution,€800Th.,25.0,22.0,Brandon Bye,944000.0,Brandon Bye,NER,2020.0,FB,1791.0,-0.36,0.09,-0.45,0.34,0.43,-0.07,-0.02
+243,M. Polster,New England Revolution,€800Th.,27.0,27.0,Matt Polster,944000.0,Matt Polster,NER,2020.0,DM,841.0,-0.14,0.21,-0.17,0.37,-0.04,-0.08,0.15
+244,S. Caldwell,New England Revolution,€800Th.,29.0,21.0,Scott Caldwell,944000.0,Scott Caldwell,NER,2020.0,DM,1249.0,-0.06,0.06,-0.2,0.04,-0.27,0.03,-0.4
+245,E. Boateng,New England Revolution,€600Th.,27.0,26.0,Emmanuel Boateng,708000.0,Emmanuel Boateng,CLB,2020.0,W,377.0,-0.23,-0.09,0.25,0.25,0.0,-0.02,0.16
+246,C. Gil,New England Revolution,€4.00m,28.0,26.0,Carles Gil,4720000.0,Carles Gil,NER,2020.0,AM,405.0,0.4,-0.01,-0.08,0.23,-0.21,-0.01,0.32
+247,T. Buchanan,New England Revolution,€2.00m,22.0,19.0,Tajon Buchanan,2360000.0,Tajon Buchanan,NER,2020.0,W,1229.0,-0.4,0.12,0.06,-0.61,1.04,0.01,0.22
+248,G. Bou,New England Revolution,€6.00m,31.0,29.0,Gustavo Bou,7080000.0,Gustavo Bou,NER,2020.0,ST,1449.0,-0.33,-0.13,-0.11,-0.06,0.45,-0.06,-0.24
+249,A. Buksa,New England Revolution,€4.50m,24.0,23.0,Adam Buksa,4720000.0,Adam Buksa,NER,2020.0,ST,1643.0,0.28,0.03,-0.17,0.31,0.79,0.56,1.8
+250,T. Bunbury,New England Revolution,€1.00m,31.0,23.0,Teal Bunbury,1180000.0,Teal Bunbury,NER,2020.0,W,1582.0,-0.75,-0.15,-0.1,-0.74,1.63,0.03,-0.08
+251,J. Rennicks,New England Revolution,€175Th.,21.0,19.0,Justin Rennicks,206500.0,Justin Rennicks,NER,2020.0,W,53.0,0.07,-0.01,-0.01,0.07,0.34,0.11,0.57
+252,L. Binks,Club de Foot Montréal,€1.00m,19.0,18.0,Luis Binks,1180000.0,Luis Binks,MTL,2020.0,CB,1942.0,0.39,0.04,0.29,0.15,-0.05,-0.01,0.81
+253,A. Struna,Club de Foot Montréal,€750Th.,30.0,30.0,Aljaz Struna,885000.0,Aljaz Struna,HOU,2020.0,CB,1575.0,0.17,-0.47,-1.69,-0.04,-0.26,0.01,-2.28
+254,R. Camacho,Club de Foot Montréal,€500Th.,30.0,27.0,Rudy Camacho,590000.0,Rudy Camacho,MTL,2020.0,CB,1306.0,0.05,-0.68,-0.09,0.28,-0.15,0.04,-0.54
+255,J. Waterman,Club de Foot Montréal,€200Th.,25.0,23.0,Joel Waterman,236000.0,Joel Waterman,MTL,2020.0,CB,604.0,0.08,0.03,-0.35,-0.03,-0.1,-0.06,-0.43
+256,K. Miller,Club de Foot Montréal,€800Th.,23.0,23.0,Kamal Miller,944000.0,Kamal Miller,ORL,2020.0,FB,901.0,-0.01,0.02,0.4,0.28,-0.18,-0.03,0.47
+257,M. Kizza,Club de Foot Montréal,€250Th.,21.0,20.0,Mustafa Kizza,295000.0,Mustafa Kizza,MTL,2020.0,W,28.0,0.0,-0.0,0.12,0.01,-0.03,-0.01,0.1
+258,V. Wanyama,Club de Foot Montréal,€8.00m,29.0,28.0,Victor Wanyama,9440000.0,Victor Wanyama,MTL,2020.0,DM,2079.0,-0.1,-0.0,0.55,-0.66,-0.18,-0.06,-0.45
+259,S. Piette,Club de Foot Montréal,€2.00m,26.0,22.0,Samuel Piette,2360000.0,Samuel Piette,MTL,2020.0,CM,2116.0,-0.61,-0.14,0.05,-0.21,0.07,-0.18,-1.01
+260,A. Sejdic,Club de Foot Montréal,€200Th.,24.0,22.0,Amar Sejdic,236000.0,Amar Sejdic,MTL,2020.0,CM,767.0,-0.28,-0.02,0.21,-0.16,0.21,0.21,0.17
+261,E. Maciel,Club de Foot Montréal,€300Th.,23.0,22.0,Emanuel Maciel,354000.0,Emanuel Maciel,MTL,2020.0,CM,841.0,0.06,0.01,0.02,-0.39,-0.28,-0.09,-0.68
+262,D. Mihailovic,Club de Foot Montréal,€4.00m,22.0,22.0,Djordje Mihailovic,4720000.0,Djordje Mihailovic,CHI,2020.0,W,1279.0,-0.1,0.26,0.49,0.21,0.1,0.26,1.23
+263,R. Quioto,Club de Foot Montréal,€2.00m,29.0,28.0,Romell Quioto,2360000.0,Romell Quioto,MTL,2020.0,ST,1603.0,0.64,0.29,0.27,-0.28,1.09,0.09,2.09
+264,L. Lappalainen,Club de Foot Montréal,€800Th.,22.0,20.0,Lassi Lappalainen,944000.0,Lassi Lappalainen,MTL,2020.0,FB,748.0,0.41,-0.04,-0.22,-0.25,0.1,0.05,0.05
+265,B. Tabla,Club de Foot Montréal,€500Th.,21.0,20.0,Ballou Tabla,590000.0,Ballou Tabla,MTL,2020.0,ST,126.0,0.01,-0.01,-0.05,-0.01,-0.13,-0.04,-0.23
+266,C. Bayiha,Club de Foot Montréal,€500Th.,22.0,19.0,Clement Bayiha,590000.0,Clément Bayiha,MTL,2020.0,FB,91.0,-0.02,0.01,-0.0,-0.04,-0.02,-0.01,-0.07
+267,M. Toye,Club de Foot Montréal,€600Th.,22.0,21.0,Mason Toye,708000.0,Mason Toye,"MIN, MTL",2020.0,ST,667.0,0.18,-0.04,-0.2,-0.27,-0.32,0.04,-0.62
+268,E. Hurtado,Club de Foot Montréal,€500Th.,30.0,30.0,Erik Hurtado,590000.0,Erik Hurtado,SKC,2020.0,ST,450.0,0.38,-0.03,0.0,-0.01,-0.12,0.02,0.24
+269,M. Besler,Austin FC,€500Th.,34.0,33.0,Matt Besler,590000.0,Matt Besler,SKC,2020.0,CB,900.0,0.43,0.1,0.58,0.67,-0.19,0.0,1.58
+270,J. Cascante,Austin FC,€400Th.,27.0,27.0,Julio Cascante,472000.0,Julio Cascante,POR,2020.0,CB,443.0,0.1,0.04,-0.33,-0.02,0.15,0.03,-0.02
+271,B. Sweat,Austin FC,€950Th.,29.0,29.0,Ben Sweat,1121000.0,Ben Sweat,MIA,2020.0,FB,1830.0,-0.07,-0.16,0.51,-0.26,0.15,0.17,0.34
+272,H. Jiménez,Austin FC,€500Th.,32.0,32.0,Hector Jimenez,590000.0,Héctor Jiménez,CLB,2020.0,FB,431.0,0.05,-0.22,0.19,0.17,-0.07,-0.02,0.11
+273,N. Lima,Austin FC,€1.50m,26.0,26.0,Nick Lima,1180000.0,Nick Lima,SJE,2020.0,FB,1649.0,0.35,0.12,-0.58,-0.59,-0.08,-0.03,-0.81
+274,A. Ring,Austin FC,€2.50m,29.0,29.0,Alexander Ring,2360000.0,Alexander Ring,NYC,2020.0,DM,2223.0,-0.33,0.08,0.32,-0.38,0.06,-0.02,-0.26
+275,S. Berhalter,Austin FC,€500Th.,19.0,19.0,Sebastian Berhalter,590000.0,Sebastian Berhalter,CLB,2020.0,DM,442.0,-0.04,-0.01,-0.12,-0.28,-0.11,-0.04,-0.61
+276,J. Stroud,Austin FC,€800Th.,24.0,24.0,Jared Stroud,944000.0,Jared Stroud,NYRB,2020.0,W,1033.0,0.12,0.25,0.44,0.24,-0.33,-0.32,0.41
+277,U. Segura,Austin FC,€750Th.,27.0,27.0,Ulises Segura,885000.0,Ulises Segura,DCU,2020.0,ST,745.0,-0.17,-0.05,0.02,-0.43,-0.53,-0.03,-1.18
+278,D. Fagúndez,Austin FC,€1.20m,26.0,25.0,Diego Fagundez,1180000.0,Diego Fagundez,NER,2020.0,DM,1076.0,-0.17,-0.08,0.11,-0.07,0.17,0.4,0.36
+279,K. Manneh,Austin FC,€750Th.,26.0,26.0,Kekuta Manneh,885000.0,Kekuta Manneh,"NER, CIN",2020.0,W,288.0,0.11,-0.01,0.03,0.14,0.02,0.02,0.33
+280,J. Gallagher,Austin FC,€500Th.,25.0,24.0,Jon Gallagher,590000.0,Jon Gallagher,ATL,2020.0,W,1055.0,0.68,0.68,0.0,-0.47,-0.22,-0.2,0.46
+281,D. Hoesen,Austin FC,€600Th.,30.0,29.0,Danny Hoesen,708000.0,Danny Hoesen,SJE,2020.0,W,286.0,-0.13,-0.03,-0.14,-0.23,0.07,-0.1,-0.55
+282,A. Schoenfeld,Austin FC,€400Th.,30.0,30.0,Aaron Schoenfeld,472000.0,Aaron Schoenfeld,MIN,2020.0,ST,472.0,-0.08,0.0,-0.09,-0.06,0.31,0.09,0.18
+283,F. Calvo,Chicago Fire FC,€1.20m,28.0,26.0,Francisco Calvo,1180000.0,Francisco Calvo,CHI,2020.0,CB,2085.0,0.06,-0.14,-1.47,0.75,-0.17,-0.16,-1.13
+284,M. Pineda,Chicago Fire FC,€650Th.,23.0,22.0,Mauricio Pineda,767000.0,Mauricio Pineda,CHI,2020.0,CB,2195.0,-0.09,0.17,0.12,-0.54,-0.17,-0.12,-0.62
+285,J. Kappelhof,Chicago Fire FC,€600Th.,30.0,25.0,Johan Kappelhof,708000.0,Johan Kappelhof,CHI,2020.0,CB,228.0,0.02,0.03,0.27,-0.07,-0.04,-0.01,0.19
+286,C. Terán,Chicago Fire FC,€200Th.,20.0,19.0,Carlos Teran,236000.0,Carlos Terán,CHI,2020.0,CB,30.0,-0.02,0.0,-0.11,-0.01,0.0,0.01,-0.14
+287,W. Omsberg,Chicago Fire FC,€175Th.,25.0,24.0,Wyatt Omsberg,206500.0,Wyatt Omsberg,CHI,2020.0,CB,218.0,0.04,0.02,0.35,0.02,-0.05,-0.0,0.38
+288,M. Ángel Navarro,Chicago Fire FC,€500Th.,22.0,20.0,Miguel Angel Navarro,590000.0,Miguel Ángel Navarro,CHI,2020.0,FB,1096.0,-0.27,0.01,0.0,-0.65,0.09,-0.1,-0.93
+289,J. Bornstein,Chicago Fire FC,€200Th.,36.0,34.0,Jonathan Bornstein,236000.0,Jonathan Bornstein,CHI,2020.0,FB,1258.0,-0.18,0.09,0.56,-0.32,-0.06,0.01,0.11
+290,B. Sekulic,Chicago Fire FC,€650Th.,29.0,28.0,Boris Sekulic,767000.0,Boris Sekulic,CHI,2020.0,FB,1975.0,-0.12,0.07,-0.07,-0.13,0.54,-0.22,0.06
+291,G. Giménez,Chicago Fire FC,€4.00m,29.0,28.0,Gaston Gimenez,4720000.0,Gastón Giménez,CHI,2020.0,DM,1718.0,0.0,-0.07,0.34,-0.51,-0.13,-0.08,-0.45
+292,Á. Medrán,Chicago Fire FC,€2.00m,26.0,25.0,Alvaro Medran,2360000.0,Álvaro Medrán,CHI,2020.0,DM,2157.0,0.1,0.08,0.33,1.24,0.01,0.08,1.83
+293,L. Stojanovic,Chicago Fire FC,€700Th.,27.0,26.0,Luka Stojanovic,826000.0,Luka Stojanovic,CHI,2020.0,CM,73.0,-0.06,0.0,0.02,-0.04,-0.0,-0.03,-0.11
+294,B. Gutiérrez,Chicago Fire FC,€100Th.,17.0,16.0,Brian Gutierrez,118000.0,Brian Gutierrez,CHI,2020.0,W,61.0,-0.01,-0.0,-0.02,-0.05,-0.02,-0.01,-0.11
+295,I. Aliseda,Chicago Fire FC,€3.00m,20.0,19.0,Ignacio Aliseda,3540000.0,Ignacio Aliseda,CHI,2020.0,W,1525.0,0.16,-0.11,-0.2,-0.37,-0.91,0.22,-1.21
+296,P. Frankowski,Chicago Fire FC,€2.00m,25.0,23.0,Przemyslaw Frankowski,2360000.0,Przemyslaw Frankowski,CHI,2020.0,W,1593.0,-1.27,-0.11,-0.02,-0.36,1.53,0.52,0.28
+297,F. Herbers,Chicago Fire FC,€1.00m,27.0,25.0,Fabian Herbers,1180000.0,Fabian Herbers,CHI,2020.0,AM,1459.0,-0.07,0.15,0.82,-0.56,1.01,0.09,1.45
+298,R. Beric,Chicago Fire FC,€3.00m,29.0,28.0,Robert Beric,3540000.0,Robert Beric,CHI,2020.0,ST,2101.0,-0.5,-0.15,-0.19,-0.28,-0.14,0.4,-0.87
+299,E. Collier,Chicago Fire FC,€400Th.,26.0,22.0,Elliot Collier,472000.0,Elliot Collier,CHI,2020.0,W,655.0,0.5,-0.03,-0.06,-0.31,0.11,0.09,0.3
+300,M. Hedges,FC Dallas,€1.80m,30.0,30.0,Matt Hedges,1180000.0,Matt Hedges,FCD,2020.0,CB,1695.0,0.07,-0.2,0.28,0.8,-0.02,0.12,1.04
+301,R. Hollingshead,FC Dallas,€1.50m,29.0,22.0,Ryan Hollingshead,1180000.0,Ryan Hollingshead,FCD,2020.0,FB,1907.0,0.37,-0.24,0.41,-0.9,0.91,-0.18,0.37
+302,J. Nelson,FC Dallas,€400Th.,22.0,20.0,John Nelson,472000.0,John Nelson,FCD,2020.0,FB,786.0,-0.37,0.04,0.21,-0.47,-0.07,0.0,-0.66
+303,T. Santos,FC Dallas,€1.20m,31.0,30.0,Thiago Santos,1180000.0,Thiago Santos,FCD,2020.0,DM,1760.0,-0.23,0.1,0.59,-0.67,-0.36,-0.13,-0.7
+304,E. Cerrillo,FC Dallas,€400Th.,20.0,18.0,Edwin Cerrillo,472000.0,Edwin Cerrillo,FCD,2020.0,AM,31.0,-0.03,-0.0,-0.02,-0.03,-0.02,-0.0,-0.1
+305,B. Acosta,FC Dallas,€2.00m,27.0,25.0,Bryan Acosta,2360000.0,Bryan Acosta,FCD,2020.0,DM,801.0,-0.11,-0.19,0.02,0.14,-0.02,-0.02,-0.18
+306,T. Tessmann,FC Dallas,€1.00m,19.0,18.0,Tanner Tessmann,1180000.0,Tanner Tessmann,FCD,2020.0,DM,1135.0,0.13,0.01,-0.47,-0.66,-0.15,-0.06,-1.21
+307,P. Pomykal,FC Dallas,€3.00m,21.0,16.0,Paxton Pomykal,3540000.0,Paxton Pomykal,FCD,2020.0,W,180.0,0.32,0.03,-0.02,0.06,-0.08,-0.06,0.25
+308,A. Ricaurte,FC Dallas,€1.80m,29.0,28.0,Andres Ricaurte,1180000.0,Andrés Ricaurte,FCD,2020.0,AM,1187.0,0.23,-0.01,0.03,-0.18,-0.37,-0.08,-0.38
+309,D. Sealy,FC Dallas,€200Th.,17.0,15.0,Dante Sealy,236000.0,Dante Sealy,FCD,2020.0,W,85.0,-0.05,-0.01,-0.03,0.06,0.01,-0.06,-0.08
+310,E. Twumasi,FC Dallas,€150Th.,23.0,20.0,Ema Twumasi,177000.0,Ema Twumasi,FCD,2020.0,W,55.0,-0.04,-0.01,-0.03,-0.03,0.01,-0.01,-0.1
+311,J. Ferreira,FC Dallas,€3.00m,20.0,16.0,Jesus Ferreira,3540000.0,Jesús Ferreira,FCD,2020.0,AM,1065.0,-0.52,-0.12,0.09,-0.48,-0.23,0.19,-1.07
+312,F. Jara,FC Dallas,€2.40m,32.0,31.0,Franco Jara,2360000.0,Franco Jara,FCD,2020.0,ST,1491.0,0.17,-0.21,-0.22,-0.55,0.85,0.23,0.28
+313,R. Pepi,FC Dallas,€1.00m,18.0,16.0,Ricardo Pepi,1180000.0,Ricardo Pepi,FCD,2020.0,ST,557.0,-0.16,-0.06,-0.14,-0.04,0.9,0.41,0.9
+314,A. Long,New York Red Bulls,€3.50m,28.0,24.0,Aaron Long,3540000.0,Aaron Long,NYRB,2020.0,CB,1454.0,-0.03,0.11,-0.6,-0.02,0.04,-0.02,-0.53
+315,A. Tarek,New York Red Bulls,€600Th.,28.0,26.0,Amro Tarek,708000.0,Amro Tarek,NYRB,2020.0,CB,1041.0,-0.1,-0.13,0.07,-0.07,-0.12,-0.01,-0.36
+316,A. Reyes,New York Red Bulls,€600Th.,21.0,21.0,Andres Reyes,708000.0,Andrés Reyes,MIA,2020.0,CB,1214.0,0.09,-0.25,-0.33,-0.39,-0.04,-0.01,-0.93
+317,S. Nealis,New York Red Bulls,€350Th.,24.0,21.0,Sean Nealis,413000.0,Sean Nealis,NYRB,2020.0,CB,492.0,-0.18,0.01,0.3,0.03,-0.12,-0.06,-0.01
+318,J. Pendant,New York Red Bulls,€800Th.,24.0,23.0,Jason Pendant,944000.0,Jason Pendant,NYRB,2020.0,FB,1765.0,-0.14,-0.0,-0.52,0.09,-0.2,-0.01,-0.78
+319,K. Duncan,New York Red Bulls,€1.00m,23.0,20.0,Kyle Duncan,1180000.0,Kyle Duncan,NYRB,2020.0,FB,2084.0,0.11,0.07,0.63,-0.28,-0.12,-0.03,0.39
+320,M. Egbo,New York Red Bulls,€300Th.,23.0,22.0,Mandela Egbo,354000.0,Mandela Egbo,NYRB,2020.0,FB,486.0,-0.02,0.02,0.2,0.16,-0.08,0.0,0.28
+321,S. Davis,New York Red Bulls,€1.20m,28.0,21.0,Sean Davis,1180000.0,Sean Davis,NYRB,2020.0,CM,1178.0,-0.01,0.02,-0.27,0.06,-0.29,-0.1,-0.59
+322,D. Yearwood,New York Red Bulls,€500Th.,21.0,20.0,Dru Yearwood,590000.0,Dru Yearwood,NYRB,2020.0,CM,650.0,0.01,-0.27,-0.19,-0.22,-0.18,-0.03,-0.87
+323,C. Clark,New York Red Bulls,€3.00m,17.0,17.0,Caden Clark,3540000.0,Caden Clark,NYRB,2020.0,W,299.0,-0.24,-0.04,-0.08,-0.12,0.02,-0.13,-0.6
+324,D. Royer,New York Red Bulls,€2.50m,30.0,26.0,Daniel Royer,2360000.0,Daniel Royer,NYRB,2020.0,ST,1445.0,-0.32,-0.14,0.14,0.43,0.46,0.21,0.79
+325,O. Fernandez,New York Red Bulls,€800Th.,22.0,19.0,Omir Fernandez,944000.0,Omir Fernandez,NYRB,2020.0,W,652.0,-0.24,-0.02,-0.04,-0.46,0.44,0.18,-0.14
+326,F. Valot,New York Red Bulls,€700Th.,28.0,24.0,Florian Valot,826000.0,Florian Valot,NYRB,2020.0,W,1637.0,-0.31,0.04,0.07,-0.26,-0.21,0.25,-0.42
+327,B. White,New York Red Bulls,€1.00m,25.0,22.0,Brian White,1180000.0,Brian White,NYRB,2020.0,ST,954.0,-0.27,-0.11,0.34,-0.59,0.52,-0.03,-0.14
+328,T. Barlow,New York Red Bulls,€500Th.,25.0,23.0,Tom Barlow,590000.0,Tom Barlow,NYRB,2020.0,ST,1069.0,-0.13,-0.11,-0.05,-0.08,0.68,0.74,1.05
+329,R. Veselinovic,Vancouver Whitecaps FC,€1.00m,21.0,21.0,Ranko Veselinovic,1180000.0,Ranko Veselinovic,VAN,2020.0,CB,1534.0,0.16,0.15,0.05,-0.5,-0.1,-0.08,-0.32
+330,É. Godoy,Vancouver Whitecaps FC,€1.00m,27.0,26.0,Erik Godoy,1180000.0,Erik Godoy,VAN,2020.0,CB,1025.0,0.18,0.01,0.65,0.25,-0.18,-0.07,0.85
+331,D. Cornelius,Vancouver Whitecaps FC,€500Th.,23.0,21.0,Derek Cornelius,590000.0,Derek Cornelius,VAN,2020.0,CB,1127.0,-0.25,0.37,-0.12,-0.21,-0.02,-0.03,-0.25
+332,J. Khmiri,Vancouver Whitecaps FC,€400Th.,23.0,21.0,Jasser Khmiri,472000.0,Jasser Khmiri,VAN,2020.0,CB,429.0,0.09,-0.37,0.07,-0.01,-0.09,-0.11,-0.42
+333,A. Adnan,Vancouver Whitecaps FC,€1.50m,27.0,25.0,Ali Adnan,1180000.0,Ali Adnan,VAN,2020.0,FB,1953.0,-0.16,0.17,0.34,0.64,-0.35,-0.11,0.53
+334,C. Gutiérrez,Vancouver Whitecaps FC,€800Th.,24.0,22.0,Cristian Gutierrez,944000.0,Cristián Gutiérrez,VAN,2020.0,FB,743.0,-0.18,0.08,-0.01,0.24,-0.1,-0.02,0.0
+335,J. Nerwinski,Vancouver Whitecaps FC,€700Th.,26.0,22.0,Jake Nerwinski,826000.0,Jake Nerwinski,VAN,2020.0,FB,1868.0,-0.2,-0.2,-0.17,-0.93,-0.02,0.23,-1.28
+336,R. Teibert,Vancouver Whitecaps FC,€1.00m,28.0,16.0,Russell Teibert,1180000.0,Russell Teibert,VAN,2020.0,CM,1729.0,-0.34,-0.06,0.37,-0.62,-0.7,-0.18,-1.53
+337,M. Baldisimo,Vancouver Whitecaps FC,€600Th.,20.0,18.0,Michael Baldisimo,708000.0,Michael Baldisimo,VAN,2020.0,CM,789.0,-0.35,0.03,0.83,-0.31,-0.1,-0.06,0.03
+338,J. Bikel,Vancouver Whitecaps FC,€1.80m,25.0,24.0,Janio Bikel,1180000.0,Janio Bikel,VAN,2020.0,CM,1027.0,-0.2,-0.01,0.82,-0.23,-0.33,-0.07,-0.01
+339,L. Owusu,Vancouver Whitecaps FC,€750Th.,23.0,22.0,Leonard Owusu,885000.0,Leonard Owusu,VAN,2020.0,CM,1443.0,-0.34,-0.07,0.28,-0.54,-0.15,-0.08,-0.9
+340,A. Rose,Vancouver Whitecaps FC,€450Th.,31.0,28.0,Andy Rose,531000.0,Andy Rose,VAN,2020.0,CB,941.0,0.11,0.05,-0.09,0.1,-0.08,0.06,0.16
+341,P. Metcalfe,Vancouver Whitecaps FC,€150Th.,22.0,21.0,Patrick Metcalfe,177000.0,Patrick Metcalfe,VAN,2020.0,CM,239.0,-0.1,0.0,-0.03,-0.12,-0.04,-0.02,-0.3
+342,C. Dájome,Vancouver Whitecaps FC,€2.00m,27.0,26.0,Cristian Dajome,2360000.0,Cristian Dájome,VAN,2020.0,W,1746.0,-0.25,-0.08,0.21,-0.49,0.21,-0.46,-0.86
+343,R. Raposo,Vancouver Whitecaps FC,€500Th.,22.0,20.0,Ryan Raposo,590000.0,Ryan Raposo,VAN,2020.0,W,478.0,-0.45,-0.0,-0.01,-0.09,-0.35,-0.12,-1.02
+344,L. Cavallini,Vancouver Whitecaps FC,€4.50m,28.0,27.0,Lucas Cavallini,4720000.0,Lucas Cavallini,VAN,2020.0,ST,1584.0,-1.51,0.24,-0.16,-0.22,2.37,0.32,1.04
+345,T. Bair,Vancouver Whitecaps FC,€500Th.,21.0,19.0,Theo Bair,590000.0,Theo Bair,VAN,2020.0,ST,530.0,-0.17,-0.07,0.1,-0.12,-0.24,-0.15,-0.65
+346,T. Ricketts,Vancouver Whitecaps FC,€350Th.,33.0,32.0,Tosaint Ricketts,413000.0,Tosaint Ricketts,VAN,2020.0,ST,538.0,-0.35,0.22,-0.04,-0.07,-0.66,-0.17,-1.06
+347,D. Pines,D.C. United,€650Th.,22.0,20.0,Donovan Pines,767000.0,Donovan Pines,DCU,2020.0,CB,1501.0,-0.69,0.38,0.74,-0.11,0.61,0.2,1.14
+348,F. Brillant,D.C. United,€300Th.,35.0,32.0,Frederic Brillant,354000.0,Frédéric Brillant,DCU,2020.0,CB,1865.0,0.18,0.09,0.04,-0.22,-0.23,-0.09,-0.24
+349,J. Mora,D.C. United,€800Th.,28.0,25.0,Joseph Mora,944000.0,Joseph Mora,DCU,2020.0,FB,1741.0,-0.09,0.0,-0.28,-0.41,-0.25,-0.05,-1.07
+350,J. Moreno,D.C. United,€1.00m,27.0,24.0,Junior Moreno,1180000.0,Júnior Moreno,DCU,2020.0,CM,1907.0,-0.33,-0.03,-0.19,-0.16,-0.55,-0.17,-1.44
+351,M. Nyeman,D.C. United,€350Th.,17.0,15.0,Moses Nyeman,413000.0,Moses Nyeman,DCU,2020.0,CM,564.0,-0.01,-0.08,0.41,-0.28,-0.17,-0.02,-0.14
+352,R. Canouse,D.C. United,€1.00m,25.0,22.0,Russell Canouse,1180000.0,Russell Canouse,DCU,2020.0,CB,1365.0,0.14,-0.23,-0.06,-0.36,0.03,-0.05,-0.54
+353,J. Gressel,D.C. United,€4.00m,27.0,26.0,Julian Gressel,4720000.0,Julian Gressel,DCU,2020.0,W,1842.0,-0.22,-0.36,1.07,0.02,-0.34,0.02,0.18
+354,K. Paredes,D.C. United,€800Th.,17.0,16.0,Kevin Paredes,944000.0,Kevin Paredes,DCU,2020.0,FB,1048.0,-0.55,0.04,0.29,-0.37,0.2,-0.02,-0.41
+355,E. Flores,D.C. United,€3.50m,26.0,25.0,Edison Flores,3540000.0,Edison Flores,DCU,2020.0,W,962.0,-0.1,0.14,-0.29,-0.15,-0.36,-0.19,-0.95
+356,Y. Asad,D.C. United,€2.00m,26.0,25.0,Yamil Asad,2360000.0,Yamil Asad,DCU,2020.0,W,1753.0,-0.64,0.12,0.05,-0.09,-0.54,-0.15,-1.25
+357,G. Yow,D.C. United,€300Th.,18.0,16.0,Griffin Yow,354000.0,Griffin Yow,DCU,2020.0,W,455.0,-0.01,-0.01,-0.06,-0.16,-0.23,-0.17,-0.64
+358,O. Kamara,D.C. United,€1.50m,31.0,29.0,Ola Kamara,1180000.0,Ola Kamara,DCU,2020.0,ST,1453.0,-0.04,-0.16,0.03,-0.15,-0.78,0.19,-0.9
+359,Y. Reyna,D.C. United,€800Th.,27.0,27.0,Yordy Reyna,944000.0,Yordy Reyna,"VAN, DCU",2020.0,ST,717.0,-0.2,-0.05,0.15,0.12,-0.55,-0.18,-0.71
+360,E. Sorga,D.C. United,€500Th.,21.0,20.0,Erik Sorga,590000.0,Erik Sorga,DCU,2020.0,ST,790.0,-0.07,0.1,0.07,-0.4,-0.41,0.08,-0.62
+361,A. Perez,D.C. United,€250Th.,25.0,25.0,Adrien Perez,295000.0,Adrien Pérez,LAFC,2020.0,W,352.0,-0.2,0.01,-0.04,-0.34,0.18,0.01,-0.39
+362,J. Elliott,Philadelphia Union,€1.50m,25.0,21.0,Jack Elliott,1180000.0,Jack Elliott,PHI,2020.0,CB,1107.0,-0.41,0.06,0.81,0.14,0.17,-0.03,0.73
+363,J. Glesnes,Philadelphia Union,€1.00m,26.0,25.0,Jakob Glesnes,1180000.0,Jakob Glesnes,PHI,2020.0,CB,1660.0,-0.34,0.12,-0.3,-0.11,0.05,0.01,-0.57
+364,K. Wagner,Philadelphia Union,€2.50m,24.0,21.0,Kai Wagner,2360000.0,Kai Wagner,PHI,2020.0,FB,1296.0,-0.07,0.09,-0.06,-0.18,-0.14,-0.05,-0.42
+365,M. Real,Philadelphia Union,€600Th.,21.0,18.0,Matthew Real,708000.0,Matthew Real,PHI,2020.0,FB,717.0,0.02,0.01,-0.65,-0.03,-0.12,-0.03,-0.8
+366,O. Mbaizo,Philadelphia Union,€600Th.,23.0,20.0,Olivier Mbaizo,708000.0,Olivier Mbaizo,PHI,2020.0,FB,1156.0,0.05,0.0,-0.07,0.13,-0.16,0.05,-0.01
+367,J. Andrés Martínez,Philadelphia Union,€600Th.,26.0,25.0,Jose Andres Martinez,708000.0,José Andrés Martínez,PHI,2020.0,DM,1242.0,-0.17,-0.15,0.51,-0.34,-0.2,-0.04,-0.39
+368,C. Turner,Philadelphia Union,€175Th.,19.0,18.0,Cole Turner,206500.0,Cole Turner,PHI,2020.0,W,7.0,-0.0,-0.0,-0.0,-0.01,-0.01,-0.0,-0.03
+369,J. Monteiro,Philadelphia Union,€3.00m,27.0,26.0,Jamiro Monteiro,3540000.0,Jamiro Monteiro,PHI,2020.0,CM,2128.0,-0.46,0.09,-0.42,0.07,0.39,-0.12,-0.44
+370,A. Bedoya,Philadelphia Union,€700Th.,33.0,29.0,Alejandro Bedoya,826000.0,Alejandro Bedoya,PHI,2020.0,CM,1998.0,0.01,-0.29,0.02,1.27,0.48,0.16,1.64
+371,A. Fontana,Philadelphia Union,€2.00m,21.0,18.0,Anthony Fontana,2360000.0,Anthony Fontana,PHI,2020.0,AM,599.0,-0.14,-0.1,-0.02,-0.15,-0.08,0.2,-0.29
+372,K. Przybylko,Philadelphia Union,€2.00m,27.0,25.0,Kacper Przybylko,2360000.0,Kacper Przybylko,PHI,2020.0,ST,2160.0,0.21,-0.45,0.2,0.39,0.15,0.15,0.65
+373,S. Santos,Philadelphia Union,€1.50m,26.0,24.0,Sergio Santos,1180000.0,Sergio Santos,PHI,2020.0,ST,1304.0,0.16,0.1,0.67,0.01,0.26,0.12,1.32
+374,C. Burke,Philadelphia Union,€600Th.,29.0,26.0,Cory Burke,708000.0,Cory Burke,PHI,2020.0,ST,141.0,0.06,-0.02,0.03,0.02,0.62,0.12,0.83
+375,O. Alanís,San Jose Earthquakes,€1.60m,31.0,30.0,Oswaldo Alanis,1180000.0,Oswaldo Alanís,SJE,2020.0,CB,1287.0,0.38,0.12,0.12,0.31,-0.1,-0.13,0.69
+376,F. Jungwirth,San Jose Earthquakes,€800Th.,32.0,28.0,Florian Jungwirth,944000.0,Florian Jungwirth,SJE,2020.0,CB,1733.0,0.21,0.05,-0.51,-0.18,-0.39,0.03,-0.81
+377,T. Beason,San Jose Earthquakes,€250Th.,23.0,22.0,Tanner Beason,295000.0,Tanner Beason,SJE,2020.0,CB,869.0,0.09,-0.14,-0.32,-0.02,-0.41,-0.2,-1.01
+378,M. López,San Jose Earthquakes,€1.00m,21.0,19.0,Marcos Lopez,1180000.0,Marcos López,SJE,2020.0,FB,1064.0,0.11,0.13,0.62,-0.3,-0.05,-0.11,0.4
+379,T. Thompson,San Jose Earthquakes,€1.00m,25.0,18.0,Tommy Thompson,1180000.0,Tommy Thompson,SJE,2020.0,FB,1211.0,-0.11,0.66,-0.1,-0.66,0.37,0.24,0.41
+380,P. Marie,San Jose Earthquakes,€300Th.,25.0,22.0,Paul Marie,354000.0,Paul Marie,SJE,2020.0,FB,408.0,0.05,0.27,-0.11,-0.27,0.08,0.12,0.15
+381,J. Akanyirige,San Jose Earthquakes,€200Th.,19.0,15.0,Jacob Akanyirige,236000.0,Jacob Akanyirige,SJE,2020.0,CB,73.0,0.06,0.01,0.04,0.01,-0.02,-0.0,0.1
+382,E. Remedi,San Jose Earthquakes,€2.50m,25.0,25.0,Eric Remedi,2360000.0,Eric Remedi,ATL,2020.0,DM,1280.0,-0.08,0.2,-0.3,-0.66,-0.2,0.18,-0.85
+383,J. Yueill,San Jose Earthquakes,€2.50m,23.0,19.0,Jackson Yueill,2360000.0,Jackson Yueill,SJE,2020.0,CM,2023.0,0.03,0.01,0.22,-0.2,-0.15,-0.08,-0.17
+384,E. Calvillo,San Jose Earthquakes,€200Th.,23.0,20.0,Eric Calvillo,236000.0,Eric Calvillo,SJE,2020.0,CM,209.0,-0.04,-0.01,0.07,-0.22,0.22,0.06,0.09
+385,J. Skahan,San Jose Earthquakes,€100Th.,23.0,21.0,Jack Skahan,118000.0,Jack Skahan,SJE,2020.0,DM,15.0,-0.0,-0.01,-0.01,-0.01,-0.0,-0.0,-0.05
+386,G. Fuentes,San Jose Earthquakes,€175Th.,19.0,15.0,Gilbert Fuentes,206500.0,Gilbert Fuentes,SJE,2020.0,W,11.0,-0.05,-0.0,0.01,-0.16,0.02,-0.0,-0.18
+387,C. Fierro,San Jose Earthquakes,€1.50m,26.0,24.0,Carlos Fierro,1180000.0,Carlos Fierro,SJE,2020.0,W,1050.0,-0.44,-0.01,-0.34,-0.04,0.56,0.4,0.14
+388,S. Salinas,San Jose Earthquakes,€300Th.,34.0,25.0,Shea Salinas,354000.0,Shea Salinas,SJE,2020.0,W,900.0,0.47,0.25,0.23,0.2,0.06,0.12,1.34
+389,C. Espinoza,San Jose Earthquakes,€2.00m,25.0,24.0,Cristian Espinoza,2360000.0,Cristian Espinoza,SJE,2020.0,W,1907.0,0.86,-0.07,0.51,0.15,-0.47,-0.37,0.61
+390,S. Haji,San Jose Earthquakes,€175Th.,21.0,19.0,Siad Haji,206500.0,Siad Haji,SJE,2020.0,W,69.0,0.09,0.0,-0.0,-0.04,0.15,-0.02,0.18
+391,A. Ríos,San Jose Earthquakes,€800Th.,31.0,29.0,Andres Rios,944000.0,Andrés Ríos,SJE,2020.0,ST,1845.0,-1.38,-0.33,-0.23,-0.4,0.15,-0.21,-2.4
+392,C. Cowell,San Jose Earthquakes,€600Th.,17.0,15.0,Cade Cowell,708000.0,Cade Cowell,SJE,2020.0,W,553.0,0.23,-0.03,0.33,-0.03,-0.2,-0.19,0.11
+393,C. Wondolowski,San Jose Earthquakes,€300Th.,38.0,26.0,Chris Wondolowski,354000.0,Chris Wondolowski,SJE,2020.0,ST,1386.0,-0.81,0.09,0.03,-0.13,-0.12,-0.08,-1.03
+394,D. Steres,Los Angeles Galaxy,€750Th.,30.0,25.0,Daniel Steres,885000.0,Daniel Steres,LAG,2020.0,CB,1852.0,0.08,0.15,0.51,-0.01,0.11,0.1,0.93
+395,G. González,Los Angeles Galaxy,€750Th.,33.0,31.0,Giancarlo Gonzalez,885000.0,Giancarlo González,LAG,2020.0,CB,819.0,-0.04,-0.24,-0.09,-0.25,-0.09,-0.03,-0.74
+396,J. Villafaña,Los Angeles Galaxy,€1.00m,31.0,31.0,Jorge Villafana,1180000.0,Jorge Villafaña,POR,2020.0,FB,1711.0,-0.35,-0.13,0.57,-0.2,0.05,-0.07,-0.13
+397,D. Traoré,Los Angeles Galaxy,€200Th.,22.0,20.0,Diedie Traore,236000.0,Diedie Traore,LAG,2020.0,FB,104.0,-0.01,0.3,-0.06,-0.01,0.02,-0.0,0.25
+398,J. Araujo,Los Angeles Galaxy,€2.00m,19.0,17.0,Julian Araujo,2360000.0,Julian Araujo,LAG,2020.0,FB,1315.0,-0.35,-0.15,1.13,-0.31,-0.05,-0.02,0.24
+399,O. Fisher,Los Angeles Galaxy,€300Th.,29.0,29.0,Oniel Fisher,354000.0,Oniel Fisher,DCU,2020.0,FB,764.0,-0.13,0.01,0.09,-0.27,-0.12,-0.02,-0.43
+400,C. Harvey,Los Angeles Galaxy,€175Th.,21.0,21.0,Carlos Harvey,206500.0,Carlos Harvey,LAG,2020.0,CM,135.0,-0.08,-0.02,0.02,-0.02,-0.07,-0.01,-0.19
+401,S. Lletget,Los Angeles Galaxy,€2.50m,28.0,22.0,Sebastian Lletget,2360000.0,Sebastian Lletget,LAG,2020.0,AM,1694.0,-0.32,-0.05,0.18,-1.0,0.29,0.48,-0.42
+402,J. dos Santos,Los Angeles Galaxy,€1.00m,30.0,27.0,Jonathan dos Santos,1180000.0,Jonathan dos Santos,LAG,2020.0,DM,666.0,-0.24,-0.01,-0.3,-0.07,-0.18,-0.11,-0.92
+403,E. Álvarez,Los Angeles Galaxy,€4.00m,18.0,15.0,Efrain Alvarez,4720000.0,Efrain Álvarez,LAG,2020.0,W,744.0,0.27,0.23,-0.16,-0.02,-0.3,0.24,0.25
+404,S. Kljestan,Los Angeles Galaxy,€350Th.,35.0,34.0,Sacha Kljestan,413000.0,Sacha Kljestan,LAG,2020.0,CM,846.0,-0.07,-0.05,0.36,0.15,-0.06,0.1,0.42
+405,K. Koreniuk,Los Angeles Galaxy,€200Th.,23.0,22.0,Kai Koreniuk,236000.0,Kai Koreniuk,LAG,2020.0,W,33.0,0.07,-0.0,-0.02,-0.01,0.21,0.05,0.3
+406,C. Dunbar,Los Angeles Galaxy,€200Th.,18.0,17.0,Cameron Dunbar,236000.0,Cameron Dunbar,LAG,2020.0,AM,102.0,0.15,-0.01,-0.09,-0.06,-0.07,0.07,-0.01
+407,E. Zubak,Los Angeles Galaxy,€400Th.,22.0,20.0,Ethan Zubak,472000.0,Ethan Zubak,LAG,2020.0,ST,853.0,-0.15,-0.12,0.05,-0.01,0.41,0.08,0.26
+408,T. Parker,Houston Dynamo FC,€1.80m,28.0,27.0,Tim Parker,1180000.0,Tim Parker,NYRB,2020.0,CB,1754.0,-0.34,-0.08,-0.14,0.01,-0.37,0.01,-0.91
+409,A. Fuenmayor,Houston Dynamo FC,€300Th.,24.0,21.0,Alejandro Fuenmayor,354000.0,Alejandro Fuenmayor,HOU,2020.0,CB,341.0,-0.16,0.04,0.16,-0.03,-0.04,0.03,0.0
+410,M. Figueroa,Houston Dynamo FC,€200Th.,37.0,35.0,Maynor Figueroa,236000.0,Maynor Figueroa,HOU,2020.0,CB,1879.0,0.41,-0.27,0.3,0.61,0.48,-0.06,1.48
+411,S. Junqua,Houston Dynamo FC,€250Th.,24.0,22.0,Sam Junqua,295000.0,Sam Junqua,HOU,2020.0,FB,302.0,-0.08,-0.01,0.13,-0.15,0.09,-0.02,-0.04
+412,Z. Valentin,Houston Dynamo FC,€750Th.,29.0,28.0,Zarek Valentin,885000.0,Zarek Valentin,HOU,2020.0,FB,1783.0,-0.2,0.07,-0.16,0.28,-0.23,-0.03,-0.27
+413,J. Bizama,Houston Dynamo FC,€500Th.,26.0,25.0,Jose Bizama,590000.0,José Bizama,HOU,2020.0,FB,635.0,0.03,0.01,0.22,-0.08,0.03,0.2,0.4
+414,M. Vera,Houston Dynamo FC,€1.80m,25.0,23.0,Matias Vera,1180000.0,Matías Vera,HOU,2020.0,DM,1840.0,-0.14,0.13,-0.58,-0.33,-0.33,0.1,-1.16
+415,D. Cerén,Houston Dynamo FC,€600Th.,31.0,28.0,Darwin Ceren,708000.0,Darwin Cerén,HOU,2020.0,CM,1661.0,-0.41,-0.01,0.98,-0.59,-0.17,-0.11,-0.31
+416,J. Corona,Houston Dynamo FC,€1.00m,30.0,30.0,Joe Corona,1180000.0,Joe Corona,LAG,2020.0,DM,974.0,-0.36,0.18,0.07,-0.14,-0.01,0.06,-0.2
+417,D. Jones,Houston Dynamo FC,€400Th.,24.0,23.0,Derrick Jones,472000.0,Derrick Jones,NSH,2020.0,ST,987.0,-0.08,-0.06,0.2,-0.25,-0.34,-0.07,-0.61
+418,B. García,Houston Dynamo FC,€200Th.,36.0,27.0,Boniek Garcia,236000.0,Boniek García,HOU,2020.0,CM,926.0,-0.0,-0.02,0.12,-0.08,0.02,-0.01,0.02
+419,N. Lemoine,Houston Dynamo FC,€150Th.,20.0,20.0,Nico Lemoine,177000.0,Nico Lemoine,HOU,2020.0,W,228.0,0.01,0.01,-0.13,-0.15,-0.11,-0.03,-0.41
+420,M. Rodríguez,Houston Dynamo FC,€1.50m,25.0,21.0,Memo Rodriguez,1180000.0,Memo Rodríguez,HOU,2020.0,CM,1710.0,0.13,0.53,-0.38,-0.26,0.25,0.66,0.93
+421,D. Rios,Houston Dynamo FC,-,17.0,17.0,Daniel Rios,,Daniel Ríos,NSH,2020.0,ST,790.0,-0.69,-0.11,-0.12,-0.23,1.28,0.25,0.38
+422,D. Quintero,Houston Dynamo FC,€1.60m,33.0,32.0,Darwin Quintero,1180000.0,Darwin Quintero,HOU,2020.0,W,1822.0,0.27,-0.2,-0.21,2.15,-0.23,0.67,2.44
+423,F. Picault,Houston Dynamo FC,€700Th.,30.0,29.0,Fafa Picault,826000.0,Fafa Picault,FCD,2020.0,W,1127.0,0.08,-0.13,-0.28,-0.22,0.46,-0.35,-0.43
+424,A. Lassiter,Houston Dynamo FC,€400Th.,26.0,26.0,Ariel Lassiter,472000.0,Ariel Lassiter,HOU,2020.0,W,1027.0,-0.19,-0.04,-0.32,-0.53,0.91,0.31,0.14
+425,M. Urruti,Houston Dynamo FC,€1.20m,30.0,29.0,Maximiliano Urruti,1180000.0,Maximiliano Urruti,MTL,2020.0,ST,963.0,-0.01,-0.08,0.16,-0.62,0.58,0.3,0.33
+426,C. Ramirez,Houston Dynamo FC,€1.00m,29.0,28.0,Christian Ramirez,1180000.0,Christian Ramirez,HOU,2020.0,ST,757.0,-0.17,-0.09,-0.03,-0.06,-0.28,-0.09,-0.73
+427,J. Glad,Real Salt Lake City,€800Th.,24.0,17.0,Justen Glad,944000.0,Justen Glad,RSL,2020.0,CB,1391.0,0.22,0.27,0.14,-0.11,-0.02,0.09,0.58
+428,M. Silva,Real Salt Lake City,€400Th.,31.0,28.0,Marcelo Silva,472000.0,Marcelo Silva,RSL,2020.0,CB,1415.0,-0.08,0.03,-0.37,-0.18,0.33,-0.01,-0.28
+429,E. Holt,Real Salt Lake City,€300Th.,24.0,22.0,Erik Holt,354000.0,Erik Holt,RSL,2020.0,CB,418.0,0.07,-0.03,-0.74,0.19,-0.09,-0.02,-0.61
+430,D. Toia,Real Salt Lake City,€800Th.,28.0,26.0,Donny Toia,944000.0,Donny Toia,RSL,2020.0,FB,1806.0,-0.19,-0.0,-0.32,-0.08,-0.25,-0.03,-0.87
+431,A. Herrera,Real Salt Lake City,€1.20m,23.0,20.0,Aaron Herrera,1180000.0,Aaron Herrera,RSL,2020.0,FB,1944.0,0.37,-0.27,0.52,-0.15,0.01,0.09,0.58
+432,E. Luiz,Real Salt Lake City,€600Th.,32.0,31.0,Everton Luiz,708000.0,Everton Luiz,RSL,2020.0,CM,1003.0,-0.07,-0.07,-0.14,-0.42,-0.28,-0.09,-1.07
+433,J. Portillo,Real Salt Lake City,€300Th.,28.0,26.0,Justin Portillo,354000.0,Justin Portillo,RSL,2020.0,CM,289.0,-0.04,-0.0,-0.01,-0.05,-0.07,-0.05,-0.23
+434,D. Kreilach,Real Salt Lake City,€2.00m,31.0,28.0,Damir Kreilach,2360000.0,Damir Kreilach,RSL,2020.0,ST,1903.0,-0.34,-0.01,-0.54,-0.43,0.12,-0.06,-1.25
+435,P. Ruiz,Real Salt Lake City,€1.00m,22.0,19.0,Pablo Ruiz,1180000.0,Pablo Ruiz,RSL,2020.0,DM,1413.0,0.06,0.04,0.19,-0.22,-0.39,-0.22,-0.54
+436,N. Besler,Real Salt Lake City,€300Th.,27.0,24.0,Nick Besler,354000.0,Nick Besler,RSL,2020.0,DM,623.0,-0.06,-0.02,-0.28,-0.3,-0.12,0.11,-0.68
+437,M. Chang,Real Salt Lake City,€600Th.,29.0,28.0,Maikel Chang,708000.0,Maikel Chang,RSL,2020.0,W,1193.0,-0.27,-0.09,-0.04,0.2,-0.28,0.04,-0.44
+438,J. Ramírez,Real Salt Lake City,€500Th.,19.0,18.0,Jeizon Ramirez,590000.0,Jeizon Ramírez,RSL,2020.0,W,140.0,0.11,-0.01,0.08,0.02,-0.11,0.07,0.17
+439,A. Rusnák,Real Salt Lake City,€2.00m,26.0,22.0,Albert Rusnak,2360000.0,Albert Rusnák,RSL,2020.0,AM,1388.0,0.25,-0.06,0.02,0.47,-0.52,0.47,0.63
+440,J. Meram,Real Salt Lake City,€1.20m,32.0,31.0,Justin Meram,1180000.0,Justin Meram,RSL,2020.0,W,1242.0,0.17,0.14,-0.3,-0.15,0.24,-0.14,-0.03
+441,T. Schmitt,Real Salt Lake City,€200Th.,23.0,21.0,Tate Schmitt,236000.0,Tate Schmitt,RSL,2020.0,DM,274.0,-0.28,0.01,-0.07,-0.16,0.04,-0.04,-0.5
+442,C. Garcia,Real Salt Lake City,€100Th.,18.0,17.0,Christopher Garcia,118000.0,Christopher Garcia,RSL,2020.0,W,3.0,-0.0,-0.0,-0.0,-0.0,-0.0,-0.0,-0.01
+443,D. Martínez,Real Salt Lake City,€600Th.,23.0,22.0,Douglas Martinez,708000.0,Douglas Martínez,RSL,2020.0,ST,902.0,-0.47,0.23,0.18,-0.3,0.33,0.12,0.08
